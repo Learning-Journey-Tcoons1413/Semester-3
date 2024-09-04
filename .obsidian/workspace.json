@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Git Commands-Instructions/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 1/Week 1.md",
+                "file": "Database Theory - COMP CO859/Week 1/Week 1 Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 1/Week 1.md",
+                "file": "Database Theory - COMP CO859/Week 1/Week 1 Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 1/Week 1.md",
+                "file": "Database Theory - COMP CO859/Week 1/Week 1 Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 1/Week 1.md"
+                "file": "Database Theory - COMP CO859/Week 1/Week 1 Contents.md"
               }
             }
           }
@@ -162,14 +162,17 @@
   "active": "0a87bcc2b42fef0f",
   "lastOpenFiles": [
     "Database Theory - COMP CO859/Week 1/Introduction.md",
+    "Database Theory - COMP CO859/Week 1/To Do.md",
+    "Database Theory - COMP CO859/Week 1/Week 1 Contents.md",
+    "Git Commands-Instructions/Git.md",
+    "Untitled.md",
+    "Git Commands-Instructions",
     "Database Theory - COMP CO859/Contents.md",
-    "Git.md",
-    "Deployment.md",
+    "Git Commands-Instructions/Deployment.md",
     "Assets/Pasted image 20240901222955.png",
     "Assets/Pasted image 20240901223142.png",
     "Assets/Pasted image 20240901223043.png",
     "README.md",
-    "Database Theory - COMP CO859/Week 1/Week 1.md",
     "Database Theory - COMP CO859/Week 2/Introduction.md",
     "Database Theory - COMP CO859/Week 2/Week 2.md",
     "Database Theory - COMP CO859/Week 2",
@@ -183,7 +186,6 @@
     "Database Theory - COMP CO859/Week 2",
     "Week 2.md",
     "Database Theory - COMP CO859/Week 2",
-    "Database Theory - COMP CO859/Week 1",
     "Database Theory - COMP CO859/Week 1"
   ]
 }

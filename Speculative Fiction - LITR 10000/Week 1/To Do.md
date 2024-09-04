@@ -1,0 +1,2 @@
+- Buy textbook
+- Do Readings or watch the video/film

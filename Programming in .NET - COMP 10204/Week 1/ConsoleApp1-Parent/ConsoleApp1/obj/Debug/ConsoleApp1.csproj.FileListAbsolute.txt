@@ -1,0 +1,7 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 1\ConsoleApp1-Parent\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 1\ConsoleApp1-Parent\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 1\ConsoleApp1-Parent\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 1\ConsoleApp1-Parent\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 1\ConsoleApp1-Parent\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 1\ConsoleApp1-Parent\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 1\ConsoleApp1-Parent\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

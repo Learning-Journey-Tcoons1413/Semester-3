@@ -23,7 +23,30 @@
 - **Software**: Visual Studio Code, Unity
 - **Textbook**: Visual C#: How to Enterprise
 
+**Circle and Area Example:**
 
-Make sure to complete [[To Do]]
+```cs
+using System
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp{
+	internal class Program{
+		static void Main(string[] args){
+			Console.Write("Enter a radius: ");
+			String input = Console.ReadLine();
+			Double radius = Double.Parse(input);
+			Double area = Math.PI * (radius * radius);
+			Console.WriteLine(area);
+		}
+	}	
+}
+```
+
+- Adding a class is simple. Lots of this is close to java.
+
+Make sure to complete [[Programming in .NET - COMP 10204/Week 1/To Do|To Do]]
 
 

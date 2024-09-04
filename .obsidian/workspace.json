@@ -11,8 +11,12 @@
             "id": "a4a12de5a883677e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Speculative Fiction - LITR 10000/Week 1/Class 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -142,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bede1d7d730be6e9",
+  "active": "a4a12de5a883677e",
   "lastOpenFiles": [
     "Database Theory - COMP CO859/Week 1/Class 1.md",
     "Speculative Fiction - LITR 10000/Week 1/Class 1.md",

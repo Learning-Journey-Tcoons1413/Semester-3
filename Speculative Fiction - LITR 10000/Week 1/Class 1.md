@@ -27,7 +27,7 @@ Basic Course Information:
 | **Week 13** | Week 13 Module: Review           | N/A                                                                   | N/A                                                         | N/A                                                   | N/A                                                     | Film, Lecture, Discussion        | Final Reflection In-class assignment 10%   | N/A                               |
 | **Week 14** | Exam Week                        | N/A                                                                   | N/A                                                         | N/A                                                   | N/A                                                     | N/A                              | No exam                                    | N/A                               |
 
-[[Speculative Fiction - LITR 10000/Week 1/To Do|To Do]]
+[[Speculative Fiction - LITR 10000/To Do|To Do]]
 
  
 

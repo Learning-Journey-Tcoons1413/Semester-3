@@ -78,6 +78,6 @@ namespace ConsoleApp1
 }
 ```
 
-Make sure to complete [[Programming in .NET - COMP 10204/Week 1/To Do|To Do]]
+[[Programming in .NET - COMP 10204/To Do|To Do]]
 
 

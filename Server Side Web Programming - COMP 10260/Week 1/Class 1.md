@@ -8,3 +8,4 @@ Basic Course Information:
 | **Course Code** | COMP-10260                                                                                                             |
 | **Lecture**     | Monday, 12:00pm - 2:00pm, H009                                                                                         |
 | **Lab**         | Thursday, 2:00pm - 4:00pm, A120                                                                                        |
+[[Server Side Web Programming - COMP 10260/To Do|To Do]]

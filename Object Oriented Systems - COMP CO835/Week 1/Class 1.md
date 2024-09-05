@@ -9,4 +9,6 @@ Basic Course Information:
 | **Online**      | Tuesday, 5:00pm - 6:30pm, Online                                                                                  |
 | **Lab**         | Thursday, 5:00pm - 6:30pm, H011                                                                                   |
 | **TextBook**    | Systems Analysis and Design In A Changing World 7e                                                                |
- 
+ [[Object Oriented Systems - COMP CO835/To Do|To Do]]
+
+

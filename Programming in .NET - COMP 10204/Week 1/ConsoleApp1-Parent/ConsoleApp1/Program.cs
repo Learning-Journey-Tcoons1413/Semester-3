@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             Console.Write("Enter a radius: ");
             String input = Console.ReadLine();
-            Double radius = Double.Parse(input);
+            double radius = double.Parse(input);
             Circle c = new Circle(radius);
             double area = c.getArea();
             Console.WriteLine(area);

@@ -1,3 +1,3 @@
-- Buy textbook
-- Do Readings or watch the video/film
+- Buy Textbook
+- Do Readings/Watch the Film for Week 1
 

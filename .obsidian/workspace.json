@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 1/To Do.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 1/To Do.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 1/To Do.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 1/To Do.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,20 +148,25 @@
   },
   "active": "3259ca6b6877da73",
   "lastOpenFiles": [
+    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
+    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
+    "Object Oriented Systems - COMP CO835/Systems Analysis and Design in - John W. Satzinger, Robert B. Ja.pdf",
     "Programming in .NET - COMP 10204/Week 1/Class 1.md",
-    "Programming in .NET - COMP 10204/Week 1/ConsoleApp1-Parent/ConsoleApp1/e1yiamtb.1bf~",
-    "Programming in .NET - COMP 10204/Week 1/To Do.md",
+    "Object Oriented Systems - COMP CO835/Week 1",
     "Speculative Fiction - LITR 10000/Week 1/To Do.md",
+    "Server Side Web Programming - COMP 10260/Week 1",
     "Speculative Fiction - LITR 10000/Week 1/Class 1.md",
+    "Assets/Pasted image 20240901223142.png",
+    "Assets/Pasted image 20240901223043.png",
+    "Assets/Pasted image 20240901222955.png",
+    "Assets/20240901-1655-31.0913638.mp4",
+    "Programming in .NET - COMP 10204/Week 1/To Do.md",
+    "Programming in .NET - COMP 10204/Week 1/ConsoleApp1-Parent/ConsoleApp1/e1yiamtb.1bf~",
     "Programming in .NET - COMP 10204/Week 1/Test/Test/Test.sln",
     "Programming in .NET - COMP 10204/Week 1/Test/Test/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache",
     "Programming in .NET - COMP 10204/Week 1/Test/Test/obj/Debug/Test.csproj.AssemblyReference.cache",
     "Programming in .NET - COMP 10204/Week 1/Test/Test/obj/Debug/TempPE",
     "Programming in .NET - COMP 10204/Week 1/Test/Test/obj/Debug",
-    "Programming in .NET - COMP 10204/Week 1/Test/Test/obj",
-    "Programming in .NET - COMP 10204/Week 1/Test/Test/bin/Debug",
-    "Programming in .NET - COMP 10204/Week 1/Test/Test/bin",
-    "Programming in .NET - COMP 10204/Week 1/Test/Test/Test.csproj",
     "Database Theory - COMP CO859/Week 1/Class 1.md",
     "Git Commands-Instructions/Git.md",
     "Database Theory - COMP CO859/Week 1/Introduction.md",
@@ -170,9 +175,6 @@
     "Database Theory - COMP CO859/Contents.md",
     "Untitled.md",
     "Git Commands-Instructions/Deployment.md",
-    "Assets/Pasted image 20240901222955.png",
-    "Assets/Pasted image 20240901223142.png",
-    "Assets/Pasted image 20240901223043.png",
     "README.md",
     "Database Theory - COMP CO859/Week 2/Introduction.md",
     "Database Theory - COMP CO859/Week 2/Week 2.md",

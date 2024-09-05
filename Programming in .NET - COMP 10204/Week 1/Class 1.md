@@ -20,7 +20,7 @@
 - Just pass everything
 
 **Tools:**
-- **Software**: Visual Studio Code, Unity
+- **Software**: Visual Studio  2022,
 - **Textbook**: Visual C#: How to Enterprise
 
 **Circle and Area Example:**
@@ -45,7 +45,6 @@ namespace ConsoleApp{
 }
 ```
 
-- Adding a class is simple. Lots of this is close to java.
 
 Make sure to complete [[Programming in .NET - COMP 10204/Week 1/To Do|To Do]]
 

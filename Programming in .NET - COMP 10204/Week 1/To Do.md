@@ -1,2 +1,3 @@
-- Run through Week 1 Module and do everything
+- Complete Week 1 Module (Ex: Finish Form Exercise) before next class
+
 

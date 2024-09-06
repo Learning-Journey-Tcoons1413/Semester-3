@@ -10,7 +10,10 @@ Basic Course Information:
 | **Zoom Link**   | [Link](https://mohawkcollege.zoom.us/j/92455572119?pwd=Rerz8iOKbFdNaXo0bHUiA8cxrvTZw4.1#success) |
 | **Meeting ID**  | 924 5557 2119                                                                                    |
 | **Passcode**    | 561318                                                                                           |
+#### **September 30th - Start Applying for Jobs**
 
 This is an online class: [MyCanvas](https://mycanvas.mohawkcollege.ca/courses/107842)
 
 [[Co-op Prep - PLAC CO-OP/To Do|To Do]]
+
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
+                "file": "Co-op Prep - PLAC CO-OP/To Do.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
+                "file": "Co-op Prep - PLAC CO-OP/To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
+                "file": "Co-op Prep - PLAC CO-OP/To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md"
+                "file": "Co-op Prep - PLAC CO-OP/To Do.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "ce631c1269948efe",
   "lastOpenFiles": [
-    "Co-op Prep - PLAC CO-OP/To Do.md",
     "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
+    "Co-op Prep - PLAC CO-OP/To Do.md",
+    "Timetable.md",
+    "Object Oriented Systems - COMP CO835/Textbook.pdf",
+    "Object Oriented Systems - COMP CO835/Learning Plan.pdf",
     "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
     "Assets/Thomas-Coons-WHSA-Cert 1.png",
     "Assets/Pasted image 20240905174449.png",
@@ -163,8 +166,6 @@
     "Object Oriented Systems - COMP CO835/To Do.md",
     "Pasted image 20240905174449.png",
     "lol.md",
-    "Object Oriented Systems - COMP CO835/Textbook.pdf",
-    "Object Oriented Systems - COMP CO835/Learning Plan.pdf",
     "Database Theory - COMP CO859/To Do.md",
     "Speculative Fiction - LITR 10000/To Do.md",
     "Speculative Fiction - LITR 10000/Week 1/Class 1.md",
@@ -172,7 +173,6 @@
     "Server Side Web Programming - COMP 10260/Week 1/To Do.md",
     "Programming in .NET - COMP 10204/Resources.md",
     "Week 1.md",
-    "Timetable.md",
     "README.md",
     "Object Oriented Systems - COMP CO835/Week 1",
     "Server Side Web Programming - COMP 10260/Week 1",

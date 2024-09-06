@@ -59,7 +59,7 @@
 
 ###### **Deployment**
 - 
-i dont fucking know bro just make notes at home it doesnt matter this classs is a joke 
+
  [[Object Oriented Systems - COMP CO835/To Do|To Do]]
 
 

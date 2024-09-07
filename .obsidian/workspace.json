@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f3c8608b7dd06603",
+        "id": "51af561c7fd6790f",
         "type": "tabs",
         "children": [
           {
-            "id": "624515116871d9c7",
+            "id": "a994d03e69cca7c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Server Side Web Programming - COMP 10260/To Do.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/To Do.md",
+                "file": "Speculative Fiction - LITR 10000/To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/To Do.md",
+                "file": "Speculative Fiction - LITR 10000/To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/To Do.md"
+                "file": "Speculative Fiction - LITR 10000/To Do.md"
               }
             }
           }
@@ -148,50 +144,51 @@
   },
   "active": "bede1d7d730be6e9",
   "lastOpenFiles": [
+    "Speculative Fiction - LITR 10000/Week 2/Class 2.md",
+    "Speculative Fiction - LITR 10000/To Do.md",
+    "Speculative Fiction - LITR 10000/Week 1/Class 1.md",
+    "Speculative Fiction - LITR 10000/Week 2",
+    "Speculative Fiction - LITR 10000/Course Information.md",
+    "Server Side Web Programming - COMP 10260/Course Information.md",
+    "Server Side Web Programming - COMP 10260/To Do.md",
+    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
+    "Server Side Web Programming - COMP 10260/Week 2",
+    "Programming in .NET - COMP 10204/Course Information.md",
     "Programming in .NET - COMP 10204/To Do.md",
-    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
+    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
+    "Programming in .NET - COMP 10204/Week 1/Class 1.md",
+    "Programming in .NET - COMP 10204/Week 2",
+    "Programming in .NET - COMP 10204/Week 1/Resources.md",
+    "Object Oriented Systems - COMP CO835/Course Information.md",
     "Object Oriented Systems - COMP CO835/To Do.md",
+    "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
+    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
+    "Database Theory - COMP CO859/Course Information.md",
+    "Object Oriented Systems - COMP CO835/Week 2",
+    "Database Theory - COMP CO859/Week 2/Class 2.md",
+    "Database Theory - COMP CO859/Week 1/Class 1.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Database Theory - COMP CO859/Week 2",
+    "Co-op Prep - PLAC CO-OP/To Do.md",
+    "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
+    "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
     "Assets/Pasted image 20240907141954.png",
     "^e92e55.md",
     "^block-reference.md",
     "Metho.md",
-    "Met.md",
     "Assets/Pasted image 20240907134140.png",
     "Assets/Pasted image 20240907133529.png",
     "Assets/Pasted image 20240907133502.png",
     "Object Oriented Systems - COMP CO835/Learning Plan.pdf",
-    "Database Theory - COMP CO859/Week 1/Class 1.md",
-    "Database Theory - COMP CO859/To Do.md",
-    "Co-op Prep - PLAC CO-OP/To Do.md",
-    "Speculative Fiction - LITR 10000/Assignments/Intro Paragraph SF Week 1.md",
-    "Speculative Fiction - LITR 10000/To Do.md",
     "Speculative Fiction - LITR 10000/Assignments",
-    "Speculative Fiction - LITR 10000/Week 1/Class 1.md",
-    "Server Side Web Programming - COMP 10260/To Do.md",
-    "Git Commands-Instructions/Deployment.md",
-    "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
-    "Timetable.md",
     "Object Oriented Systems - COMP CO835/Textbook.pdf",
-    "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
     "Assets/Thomas-Coons-WHSA-Cert 1.png",
     "Assets/Pasted image 20240905174449.png",
     "Co-op Prep - PLAC CO-OP/Week 1",
-    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
-    "Programming in .NET - COMP 10204/Week 1/Class 1.md",
     "Pasted image 20240905174449.png",
-    "lol.md",
-    "Programming in .NET - COMP 10204/Week 1/Resources.md",
-    "Server Side Web Programming - COMP 10260/Week 1/To Do.md",
-    "Programming in .NET - COMP 10204/Resources.md",
-    "Week 1.md",
-    "README.md",
     "Object Oriented Systems - COMP CO835/Week 1",
-    "Server Side Web Programming - COMP 10260/Week 1",
     "Assets/Pasted image 20240901223142.png",
-    "Assets/Pasted image 20240901223043.png",
-    "Assets/20240901-1655-31.0913638.mp4",
-    "Programming in .NET - COMP 10204/Week 1/ConsoleApp1-Parent/ConsoleApp1/e1yiamtb.1bf~",
-    "Programming in .NET - COMP 10204/Week 1/Test/Test/Test.sln",
-    "Programming in .NET - COMP 10204/Week 1/Test/Test/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache"
+    "Assets/Pasted image 20240901223043.png"
   ]
 }

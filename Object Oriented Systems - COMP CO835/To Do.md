@@ -3,6 +3,10 @@
 - [x] Nothin for now
 - [ ] Assignment 1 Due 
 
-Week 2
+[[Object Oriented Systems - COMP CO835/Week 2/Class 2|Week 2]]
+
+- [ ] Nothing for now
+
+
 
 

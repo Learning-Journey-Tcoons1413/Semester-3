@@ -5,6 +5,8 @@
 - [ ] Watch [Helpful Video](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef) (YouTube)
 - [ ] Watch Videos For Week 2
 
-###### Week 2
+[[Programming in .NET - COMP 10204/Week 2/Class 2|Week 2]]
+
+- [ ] Nothing for now
 
 

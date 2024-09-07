@@ -1,0 +1,5 @@
+- Name is Thomas Coons. Currently enrolled in Software Support Technician 2-year Program 
+- I have passion for Fantasy ex) LOTR
+- I enjoy reading Dungeons and Dragons books 
+- Fantasy is my favorite 
+- J.R.R. Tolkien 

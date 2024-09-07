@@ -7,8 +7,9 @@ Basic Course Information:
 | **Email**       | grant.coleman@mohawkcollege.ca   |
 | **Course Code** | LITR 10000                       |
 | **Lecture**     | Wednesday, 4:00pm - 6:00pm, C233 |
+| **Textbook**    | The Weird                        |
 
-**Textbook:** The Weird
+### Schedule:
 
 | **Weeks**   | **Learning Activity Details**    | **Story**                                                             | **Lecture on Slides**                                       | **Article**                                           | **Film**                                                | **Learning Activity Type**       | **Assessments and Due Dates**              | **Associated Learning Outcomes**  |
 | ----------- | -------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | -------------------------------- | ------------------------------------------ | --------------------------------- |
@@ -26,6 +27,37 @@ Basic Course Information:
 | **Week 12** | Week 12 Module: Fantasy 3        | Saving the Gleeful Horse                                              | N/A                                                         | N/A                                                   | N/A                                                     | Story, Discussion                | Assignment 3: Fantasy <br> Test 3: Fantasy | CLO 1, CLO 2, EES 1, EES 2, EES 7 |
 | **Week 13** | Week 13 Module: Review           | N/A                                                                   | N/A                                                         | N/A                                                   | N/A                                                     | Film, Lecture, Discussion        | Final Reflection In-class assignment 10%   | N/A                               |
 | **Week 14** | Exam Week                        | N/A                                                                   | N/A                                                         | N/A                                                   | N/A                                                     | N/A                              | No exam                                    | N/A                               |
+
+### Week 1 Slideshow Notes:
+
+**Speculative fiction**
+is an umbrella term used to describe narrative fiction with supernatural or futuristic elements. This includes but it not necessarily limited to fantasy, science fiction, and horror.  
+
+- Subgenre of science fiction 
+- Human problems not technology 
+- Fantasy, Science Fiction, Horror
+
+**Weird fiction**
+blends horror with fantasy and sci-fi elements. This is an experimental type of literature that breaks down the boundaries of the genres.  
+
+**Fantastic Triangle**
+- Science fiction naturalistic universe
+- Fantasy non-naturalistic universe
+- Horror spans outside of both 
+
+**Science Fiction**
+- Teleportation instead of fantasies magic ports. Advanced technology over magic
+- Characters are skeptical 
+- Use fancy smart language 
+
+**Fantasy**
+- Rules vary across space and time. Ex) enchanted forests or magic can come and go with age/time
+- Good and dark magic 
+
+**Horror**
+- Deal with menacing content
+- Either physically, psychologically, socially, morally, spiritually, or some combination of the aforementioned
+- A menace that is impure — that violates the generally accepted schemes of cultural categorization. "We consider impure that which is categorically contradictory".
 
 [[Speculative Fiction - LITR 10000/To Do|To Do]]
 

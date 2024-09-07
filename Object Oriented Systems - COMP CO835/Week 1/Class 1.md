@@ -40,7 +40,7 @@
 ![[Pasted image 20240905174449.png]]
 
 ###### **System Analysis**
-- those activities that enable a person to understand and specify what an information system should accomplish
+- Those activities that enable a person to understand and specify what an information system should accomplish
 ###### **System Design**
 - Those activities that enable a person to define and describe in detail the system that solves the need
 ###### **Waterfall development** 

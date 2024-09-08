@@ -3,13 +3,11 @@
 - Software program 
 - Set of instructions that get executed and achieve some sort of result 
 - ex) Microsoft Word, Google Chrome, Mobile Apps, Video Games
-
 ###### **Information System**
 - A set of interrelated components that collects, processes, stores, and provides as output the information needed to complete business tasks
 - Combination of hardware and software 
 - Includes Database and Related Manuals
 -  ex) Mobile Phone Systems, Online Banking
-
 ###### **What is a Project**
 - Temporary endeavor to create product or services or result 
 - Must have a beginning and an end
@@ -71,13 +69,11 @@
 
 ###### **Iterative development**
 - An approach to system development in which the system is “grown” piece by piece through multiple mini-projects called iterations
-
 ###### **Why Does Software Fail**
 - Deadlines not met
 - Budgets exceeded
 - Solutions do not work 
 - Many other reasons
-
 ###### **Project**
 - A planned undertaking that has a beginning and an end
 - Produces some definite result 

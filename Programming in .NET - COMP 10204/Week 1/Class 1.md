@@ -1,7 +1,6 @@
 *Date: September 4th 2024*
 
 **Circle and Area Example:**
-
 ```cs
 //MAIN
 using System;
@@ -54,6 +53,19 @@ namespace ConsoleApp1
     }
 }
 ```
+
+
+###### Form Code:
+```cs
+namespace WindowsFormsApp1
+{
+    public partial class MainForm : Form
+    {
+    //Partial indicates this is only part of the class. The designer adds more.
+    //Perhaps ask more about this in class
+    }
+```
+
 
 [[Programming in .NET - COMP 10204/To Do|To Do]]
 

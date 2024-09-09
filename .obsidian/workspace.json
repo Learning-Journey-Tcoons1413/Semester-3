@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "87bec88c6a09c896",
+        "id": "750ca5de410c026f",
         "type": "tabs",
         "children": [
           {
-            "id": "24738a7499d803b5",
+            "id": "8d506934c2d44cba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Server Side Web Programming - COMP 10260/Week 2/Class 2.md"
+              }
             }
           }
         ]
@@ -138,52 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24738a7499d803b5",
+  "active": "bede1d7d730be6e9",
   "lastOpenFiles": [
-    "Object Oriented Systems - COMP CO835/Quizzes/Quiz 1.md",
-    "Object Oriented Systems - COMP CO835/Textbook.pdf",
-    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
-    "Object Oriented Systems - COMP CO835/Learning Plan.pdf",
-    "Object Oriented Systems - COMP CO835/Quizzes",
+    "Software Quality & Testing - COMP 10066/Week 2/Class 2.md",
+    "Software Quality & Testing - COMP 10066/Week 1/Class 1.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
+    "Untitled.md",
+    "Assets/Pasted image 20240909123005.png",
+    "Server Side Web Programming - COMP 10260/Course Information.md",
+    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
+    "Assets/Pasted image 20240909114524.png",
+    "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
+    "Database Theory - COMP CO859/Week 2/Class 2.md",
+    "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
+    "Software Quality & Testing - COMP 10066/Week 2",
+    "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/out/production/Lab0/Main.class",
+    "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/out/production/Lab0",
+    "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/out/production",
+    "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/out",
+    "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/Lab0.iml",
+    "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/src/Main.java",
+    "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/src",
+    "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0",
+    "Software Quality & Testing - COMP 10066/Labs/Lab0",
+    "Assets/Pasted image 20240909104951.png",
+    "Assets/Pasted image 20240909102759.png",
+    "Software Quality & Testing - COMP 10066/Course Information.md",
+    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Assets/Pasted image 20240909091943.png",
+    "Speculative Fiction - LITR 10000/To Do.md",
+    "Database Theory - COMP CO859/Course Information.md",
+    "Assets/Pasted image 20240909082604.png",
+    "Database Theory - COMP CO859/Week 1/Class 1.md",
+    "Assets/Pasted image 20240909082601.png",
     "Object Oriented Systems - COMP CO835/Course Information.md",
+    "Object Oriented Systems - COMP CO835/Quizzes/Quiz 1.md",
+    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
     "Programming in .NET - COMP 10204/To Do.md",
     "Programming in .NET - COMP 10204/YouTube Notes.md",
     "Programming in .NET - COMP 10204/Course Information.md",
     "Object Oriented Systems - COMP CO835/To Do.md",
     "Assets/Pasted image 20240908150403.png",
     "Assets/Pasted image 20240908150139.png",
-    "Assets/Pasted image 20240908145905.png",
-    "Assets/Pasted image 20240908142515.png",
-    "Programming in .NET - COMP 10204/Week 1/HelloWorld/HelloWorld/HelloTom.cs",
-    "Assets/Pasted image 20240908141457.png",
-    "Programming in .NET - COMP 10204/Assignments",
-    "Assets/Pasted image 20240908141210.png",
-    "Programming in .NET - COMP 10204/Week 1/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.FileListAbsolute.txt",
-    "Programming in .NET - COMP 10204/Week 1/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb",
-    "Programming in .NET - COMP 10204/Week 1/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe",
-    "Programming in .NET - COMP 10204/Week 1/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe.config",
-    "Programming in .NET - COMP 10204/Week 1/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb",
-    "Assets/Pasted image 20240908135524.png",
     "Programming in .NET - COMP 10204/Week 1/Class 1.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
     "Speculative Fiction - LITR 10000/Week 2/Class 2.md",
     "Speculative Fiction - LITR 10000/Course Information.md",
-    "Speculative Fiction - LITR 10000/To Do.md",
-    "Speculative Fiction - LITR 10000/Assignments/Intro Paragraph SF Week 1.md",
-    "Co-op Prep - PLAC CO-OP/To Do.md",
-    "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
-    "Speculative Fiction - LITR 10000/Week 1/Class 1.md",
-    "Server Side Web Programming - COMP 10260/Course Information.md",
-    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
-    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
-    "Programming in .NET - COMP 10204/Week 1/Resources.md",
-    "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
-    "Database Theory - COMP CO859/Course Information.md",
-    "Database Theory - COMP CO859/Week 2/Class 2.md",
-    "Database Theory - COMP CO859/Week 1/Class 1.md",
-    "Database Theory - COMP CO859/To Do.md",
-    "Assets/Pasted image 20240907141954.png",
-    "Assets/Pasted image 20240907134140.png"
+    "Speculative Fiction - LITR 10000/Assignments/Intro Paragraph SF Week 1.md"
   ]
 }

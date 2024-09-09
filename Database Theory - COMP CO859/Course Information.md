@@ -7,3 +7,20 @@
 | **Lab**         | Wednesday, 9:30am - 12:00pm, I110                                                                                                                                                                                                                                   |
 
 Homework can be done during labs. It is not hard. Do not cheat. This class is about Databases. We will learn about SQL. 
+
+**Grading:** 
+Must Have Passing Average
+- Homework/Labs (20%)
+- Midterm (40%) 60% is mul choice (SQL Statements)
+- Final Exam (40%)
+
+**Course Tools:**  
+• [SQL Server Express Database](https://www.microsoft.com/en-ca/sql-server/sql-server-downloads)  
+- The actual database runs as a service  
+• [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)  
+- The application we will use to access the database  
+- Both, freely available from Microsoft  
+• Microsoft Excel – One assignment  
+• Microsoft Word – One assignment  
+• [diagrams.net](https://app.diagrams.net/) – One assignment  
+• All software installed throughout College

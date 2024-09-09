@@ -5,3 +5,6 @@
 | **Course Code** | COMP-10260                                                                                                             |
 | **Lecture**     | Monday, 12:00pm - 2:00pm, H009                                                                                         |
 | **Lab**         | Thursday, 2:00pm - 4:00pm, A120                                                                                        |
+**Grading**
+- Assignments x4 (40%)
+- Midterm and Final (60%) - Paper

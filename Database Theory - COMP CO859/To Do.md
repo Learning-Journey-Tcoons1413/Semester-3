@@ -3,5 +3,5 @@
 - [x] Nothing for now
 
 [[Database Theory - COMP CO859/Week 2/Class 2|Week2]]
-
-- [ ] Get set up with SQL 
+- Before Wednesday September 11th
+	- [ ] Get set up with SQL Applications. Download.

@@ -1,5 +1,5 @@
 *Date: September 9th 2024
-###### **Introduction**
+###### ***Introduction***
 - Deterministic Programs
 	- Input determines the output
 - **Statements**

@@ -54,15 +54,24 @@
 	- Large websites 
 - **History**
 	- ![[Pasted image 20240909114524.png]]
-
+- **Version Control Visualization**
+	- ![[Pasted image 20240910111240.png]]
 ###### **Git Terminology**
-- Git - command line client software supports access to both local and remote repos
-- GitHub - is a web-based Git repo hosting service 
-- Repo - repository - Set of files that are grouped together as a project 
+- **Git** - command line client software which supports access to both **local** and **remote** repos
+	- **Local**:
+		- My Machine / My Local Repo
+	- **Remote**:
+		- Some External or Remote Repo / GitHub
+- **GitHub** - is a web-based Git repo hosting service 
+- **Repo** - repository - Set of files that are grouped together as a project. Stores data.  
 
 ###### **Git Commands**
 - init - Creates a git rep
 - add - adds in files
 - commit - adding source code changes
 - clone - clones a repo in a new directory 
-- checkout - switch branches
+- checkout - switch branches, allows selection of an old commit or file revision
+- merge - merges changes back to the main branch
+- push - sends a series of commits to move a local branch to another repo 
+- fetch - downloads a branch, but doesn't integrate. Allows manual inspection before merge.
+- pull - automates version of fetch, downloads branch and attempts to merge

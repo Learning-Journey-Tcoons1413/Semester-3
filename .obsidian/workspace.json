@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
+                "file": "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
+                "file": "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
+                "file": "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Week 2/Class 2.md"
+                "file": "Software Quality & Testing - COMP 10066/Week 2/Class 3.md"
               }
             }
           }
@@ -148,12 +148,19 @@
   },
   "active": "d8e897b4e01f2b3e",
   "lastOpenFiles": [
+    "Software Quality & Testing - COMP 10066/Week 2/Class 2.md",
+    "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
+    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Software Quality & Testing - COMP 10066/Week 1/Class 1.md",
+    "Software Quality & Testing - COMP 10066/Course Information.md",
+    "Pasted image 20240910111240.png",
+    "Programming in .NET - COMP 10204/Course Information.md",
+    "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
     "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
     "Database Theory - COMP CO859/TheDataBase/joins.sql",
     "Database Theory - COMP CO859/TheDataBase/chdb.sql",
     "Database Theory - COMP CO859/TheDataBase",
     "Database Theory - COMP CO859/New folder",
-    "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
     "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
     "Object Oriented Systems - COMP CO835/Week 2/Week 2 Lecture Summary.pdf",
     "Object Oriented Systems - COMP CO835/To Do.md",
@@ -174,11 +181,6 @@
     "Programming in .NET - COMP 10204/Week 1/Resources.md",
     "Programming in .NET - COMP 10204/Week 2/Class 2.md",
     "Programming in .NET - COMP 10204/To Do.md",
-    "Software Quality & Testing - COMP 10066/To Do.md",
-    "Software Quality & Testing - COMP 10066/Course Information.md",
-    "Software Quality & Testing - COMP 10066/Week 1/Class 1.md",
-    "Software Quality & Testing - COMP 10066/Week 2/Class 2.md",
-    "Programming in .NET - COMP 10204/Course Information.md",
     "Database Theory - COMP CO859/To Do.md",
     "Database Theory - COMP CO859/Week 2/Class 2.md",
     "Database Theory - COMP CO859/Week 1/Class 1.md",
@@ -190,8 +192,6 @@
     "Software Quality & Testing - COMP 10066/Week 2",
     "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/out/production/Lab0/Main.class",
     "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/out/production/Lab0",
-    "Assets/Pasted image 20240909104951.png",
-    "Assets/Pasted image 20240909102759.png",
-    "Speculative Fiction - LITR 10000/To Do.md"
+    "Assets/Pasted image 20240909104951.png"
   ]
 }

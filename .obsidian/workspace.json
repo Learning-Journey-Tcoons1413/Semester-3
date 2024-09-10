@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/To Do.md",
+                "file": "Programming in .NET - COMP 10204/Week 2/Class 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/To Do.md",
+                "file": "Programming in .NET - COMP 10204/Week 2/Class 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/To Do.md",
+                "file": "Programming in .NET - COMP 10204/Week 2/Class 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/To Do.md"
+                "file": "Programming in .NET - COMP 10204/Week 2/Class 2.md"
               }
             }
           }
@@ -148,24 +148,30 @@
   },
   "active": "d8e897b4e01f2b3e",
   "lastOpenFiles": [
-    "Software Quality & Testing - COMP 10066/Course Information.md",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/People.txt",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Release",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/ConsoleFileApp.csproj.FileListAbsolute.txt",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Debug/ConsoleFileApp.exe",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Debug/ConsoleFileApp.exe.config",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Debug/ConsoleFileApp.pdb",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Debug/People.txt",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/ConsoleFileApp.pdb",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/ConsoleFileApp.exe",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/ConsoleFileApp.csproj.CoreCompileInputs.cache",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/HotelFormApp/obj/Debug/TempPE",
+    "Programming in .NET - COMP 10204/Course Information.md",
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
     "Software Quality & Testing - COMP 10066/To Do.md",
+    "Software Quality & Testing - COMP 10066/Course Information.md",
     "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
     "Software Quality & Testing - COMP 10066/Week 2/Class 2.md",
     "Software Quality & Testing - COMP 10066/Week 1/Class 1.md",
     "Pasted image 20240910111240.png",
-    "Programming in .NET - COMP 10204/Course Information.md",
     "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
     "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
-    "Database Theory - COMP CO859/TheDataBase/joins.sql",
-    "Database Theory - COMP CO859/TheDataBase/chdb.sql",
-    "Database Theory - COMP CO859/TheDataBase",
-    "Database Theory - COMP CO859/New folder",
     "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
-    "Object Oriented Systems - COMP CO835/Week 2/Week 2 Lecture Summary.pdf",
     "Object Oriented Systems - COMP CO835/To Do.md",
-    "Object Oriented Systems - COMP CO835/Textbook.pdf",
-    "Object Oriented Systems - COMP CO835/Learning Plan.pdf",
     "Object Oriented Systems - COMP CO835/Course Information.md",
     "Assets/Pasted image 20240909182729.png",
     "Assets/Pasted image 20240909183208.png",
@@ -179,8 +185,6 @@
     "Programming in .NET - COMP 10204/YouTube Notes.md",
     "Programming in .NET - COMP 10204/Week 1/Class 1.md",
     "Programming in .NET - COMP 10204/Week 1/Resources.md",
-    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
-    "Programming in .NET - COMP 10204/To Do.md",
     "Database Theory - COMP CO859/To Do.md",
     "Database Theory - COMP CO859/Week 2/Class 2.md",
     "Database Theory - COMP CO859/Week 1/Class 1.md",
@@ -189,9 +193,6 @@
     "Assets/Pasted image 20240909123005.png",
     "Assets/Pasted image 20240909114524.png",
     "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
-    "Software Quality & Testing - COMP 10066/Week 2",
-    "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/out/production/Lab0/Main.class",
-    "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/out/production/Lab0",
     "Assets/Pasted image 20240909104951.png"
   ]
 }

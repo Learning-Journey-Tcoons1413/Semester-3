@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
+                "file": "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
+                "file": "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
+                "file": "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md"
+                "file": "Object Oriented Systems - COMP CO835/Week 2/Class 2.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bede1d7d730be6e9",
+  "active": "d8e897b4e01f2b3e",
   "lastOpenFiles": [
+    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
     "Database Theory - COMP CO859/TheDataBase/joins.sql",
     "Database Theory - COMP CO859/TheDataBase/chdb.sql",
     "Database Theory - COMP CO859/TheDataBase",
     "Database Theory - COMP CO859/New folder",
     "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
     "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
-    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
     "Object Oriented Systems - COMP CO835/Week 2/Week 2 Lecture Summary.pdf",
     "Object Oriented Systems - COMP CO835/To Do.md",
     "Object Oriented Systems - COMP CO835/Textbook.pdf",
@@ -190,7 +190,6 @@
     "Software Quality & Testing - COMP 10066/Week 2",
     "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/out/production/Lab0/Main.class",
     "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/out/production/Lab0",
-    "Software Quality & Testing - COMP 10066/Labs/Lab0/Lab0/out/production",
     "Assets/Pasted image 20240909104951.png",
     "Assets/Pasted image 20240909102759.png",
     "Speculative Fiction - LITR 10000/To Do.md"

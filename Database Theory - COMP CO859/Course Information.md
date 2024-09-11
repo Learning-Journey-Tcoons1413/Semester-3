@@ -24,3 +24,7 @@ Must Have Passing Average
 	• Microsoft Word – One assignment  
 	• [diagrams.net](https://app.diagrams.net/) – One assignment  
 	• All software installed throughout College
+
+###### **Resources**
+- [W3Schools](https://www.w3schools.com/sql/sql_datatypes.asp)
+

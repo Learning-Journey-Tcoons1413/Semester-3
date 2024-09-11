@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4513BC9B-9285-490B-A326-CFEFBAEA8D59}|ConsoleFileApp\\ConsoleFileApp.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\week 2\\w02_fileio_start\\consolefileapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4513BC9B-9285-490B-A326-CFEFBAEA8D59}|ConsoleFileApp\\ConsoleFileApp.csproj|solutionrelative:consolefileapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4513BC9B-9285-490B-A326-CFEFBAEA8D59}|ConsoleFileApp\\ConsoleFileApp.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start\\consolefileapp\\people.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4513BC9B-9285-490B-A326-CFEFBAEA8D59}|ConsoleFileApp\\ConsoleFileApp.csproj|solutionrelative:consolefileapp\\people.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4513BC9B-9285-490B-A326-CFEFBAEA8D59}|ConsoleFileApp\\ConsoleFileApp.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start\\consolefileapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4513BC9B-9285-490B-A326-CFEFBAEA8D59}|ConsoleFileApp\\ConsoleFileApp.csproj|solutionrelative:consolefileapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start\\ConsoleFileApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleFileApp\\Program.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start\\ConsoleFileApp\\Program.cs",
+              "RelativeToolTip": "ConsoleFileApp\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:45:17.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start\\ConsoleFileApp\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleFileApp\\Person.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start\\ConsoleFileApp\\Person.cs",
+              "RelativeToolTip": "ConsoleFileApp\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:45:09.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "People.txt",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start\\ConsoleFileApp\\People.txt",
+              "RelativeDocumentMoniker": "ConsoleFileApp\\People.txt",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start\\ConsoleFileApp\\People.txt",
+              "RelativeToolTip": "ConsoleFileApp\\People.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-10T20:45:47.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

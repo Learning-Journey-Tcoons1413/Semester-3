@@ -1,0 +1,25 @@
+C:\TeachingApplications\COMP10204\Class\W02_FileIO_start\HotelFormApp\bin\Debug\HotelFormApp.exe.config
+C:\TeachingApplications\COMP10204\Class\W02_FileIO_start\HotelFormApp\bin\Debug\HotelFormApp.exe
+C:\TeachingApplications\COMP10204\Class\W02_FileIO_start\HotelFormApp\bin\Debug\HotelFormApp.pdb
+C:\TeachingApplications\COMP10204\Class\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.csproj.AssemblyReference.cache
+C:\TeachingApplications\COMP10204\Class\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.Form1.resources
+C:\TeachingApplications\COMP10204\Class\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.Properties.Resources.resources
+C:\TeachingApplications\COMP10204\Class\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.csproj.GenerateResource.cache
+C:\TeachingApplications\COMP10204\Class\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.csproj.CoreCompileInputs.cache
+C:\TeachingApplications\COMP10204\Class\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.exe
+C:\TeachingApplications\COMP10204\Class\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\bin\Debug\People.txt
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\bin\Debug\HotelFormApp.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\bin\Debug\HotelFormApp.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\bin\Debug\HotelFormApp.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\bin\Debug\ConsoleFileApp.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\bin\Debug\ConsoleFileApp.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\bin\Debug\ConsoleFileApp.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.Form1.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.Properties.Resources.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.csproj.GenerateResource.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFor.514325E2.Up2Date
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start (1)\W02_FileIO_start\HotelFormApp\obj\Debug\HotelFormApp.pdb

@@ -1,0 +1,16 @@
+D:\Downloads\W02_FileIO_start\W02_FileIO_start\ConsoleFileApp\bin\Debug\People.txt
+D:\Downloads\W02_FileIO_start\W02_FileIO_start\ConsoleFileApp\bin\Debug\ConsoleFileApp.exe.config
+D:\Downloads\W02_FileIO_start\W02_FileIO_start\ConsoleFileApp\bin\Debug\ConsoleFileApp.exe
+D:\Downloads\W02_FileIO_start\W02_FileIO_start\ConsoleFileApp\bin\Debug\ConsoleFileApp.pdb
+D:\Downloads\W02_FileIO_start\W02_FileIO_start\ConsoleFileApp\obj\Debug\ConsoleFileApp.csproj.AssemblyReference.cache
+D:\Downloads\W02_FileIO_start\W02_FileIO_start\ConsoleFileApp\obj\Debug\ConsoleFileApp.csproj.CoreCompileInputs.cache
+D:\Downloads\W02_FileIO_start\W02_FileIO_start\ConsoleFileApp\obj\Debug\ConsoleFileApp.exe
+D:\Downloads\W02_FileIO_start\W02_FileIO_start\ConsoleFileApp\obj\Debug\ConsoleFileApp.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start\ConsoleFileApp\bin\Debug\People.txt
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start\ConsoleFileApp\bin\Debug\ConsoleFileApp.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start\ConsoleFileApp\bin\Debug\ConsoleFileApp.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start\ConsoleFileApp\bin\Debug\ConsoleFileApp.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start\ConsoleFileApp\obj\Debug\ConsoleFileApp.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start\ConsoleFileApp\obj\Debug\ConsoleFileApp.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start\ConsoleFileApp\obj\Debug\ConsoleFileApp.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\W02_FileIO_start\ConsoleFileApp\obj\Debug\ConsoleFileApp.pdb

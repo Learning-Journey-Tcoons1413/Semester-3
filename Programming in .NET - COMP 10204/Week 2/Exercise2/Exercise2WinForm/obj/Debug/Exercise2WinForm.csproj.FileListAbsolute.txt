@@ -1,0 +1,14 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\bin\Debug\Exercise2WinForm.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\bin\Debug\Exercise2WinForm.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\bin\Debug\Exercise2WinForm.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\bin\Debug\Exercise2Console.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\bin\Debug\Exercise2Console.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\bin\Debug\Exercise2Console.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\obj\Debug\Exercise2WinForm.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\obj\Debug\Exercise2WinForm.Form1.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\obj\Debug\Exercise2WinForm.Properties.Resources.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\obj\Debug\Exercise2WinForm.csproj.GenerateResource.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\obj\Debug\Exercise2WinForm.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\obj\Debug\Exercise.73F1BB2F.Up2Date
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\obj\Debug\Exercise2WinForm.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2WinForm\obj\Debug\Exercise2WinForm.pdb

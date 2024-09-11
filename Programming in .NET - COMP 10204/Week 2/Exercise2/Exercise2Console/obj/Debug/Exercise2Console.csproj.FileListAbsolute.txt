@@ -1,0 +1,7 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2Console\bin\Debug\Exercise2Console.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2Console\bin\Debug\Exercise2Console.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2Console\bin\Debug\Exercise2Console.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2Console\obj\Debug\Exercise2Console.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2Console\obj\Debug\Exercise2Console.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2Console\obj\Debug\Exercise2Console.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 2\Exercise2\Exercise2Console\obj\Debug\Exercise2Console.pdb

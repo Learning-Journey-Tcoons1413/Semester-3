@@ -4,7 +4,7 @@
 - A new **Consolidated Sales and Marketing System (CSMS)** was proposed.
 - This major project emerged from the RMO strategic planning process.
 ###### Project Initiation
-- Project initiation is the first phase of the project management life cycle.
+- Project initiation is the first phase of the project management life cycle. **SDLC** Part 1.
 - Companies decide whether the project is needed and assess its benefits.
 - A **Project Initiation Document (PRD)** is developed, outlining:
   - Justification for the project
@@ -65,17 +65,19 @@
 
 ###### Levels of Requirements
 - **Business Requirements**: High-level objectives from the organization or customer, recorded in Business Requirements Documents (BRD) or project charters. These describe why the system is needed and the goals it should achieve.
+	- Ex) Business needs a new sales system
 - **System Requirements**: Detailed descriptions of what the system will do to solve the business need, including user, functional, and non-functional requirements. Documented in a System Requirements Specification (SRS).
 
-###### User Requirements
-- Define user goals or tasks that the system must support. Represented through use cases, scenarios, or event-response tables.
-
-###### Functional Requirements
-- Specify what the system should do, documented as "shall" statements. They describe the system’s functionality and behavior.
-
-###### Non-Functional Requirements
-- Include performance goals, usability, security, and other attributes like efficiency, scalability, and constraints. Use **FURPS**+ (Functional, Usability, Reliability, Performance, Security) as a framework to categorize these requirements.
-- The + sign includes design constraints as well as implementation, system interface, physical, and supportability requirements
+	###### 1. User Requirements
+	- Define user goals or tasks that the system must support. Represented through use cases, scenarios, or event-response tables.
+	
+	###### 2. Functional Requirements
+	- Specify what the system should do, documented as "shall" statements. They describe the system’s functionality and behavior.
+	
+	###### 3. Non-Functional Requirements
+	- Include performance goals, usability, security, and other attributes like efficiency, scalability, and constraints. Use **FURPS**+ (Functional, Usability, Reliability, Performance, Security) as a framework to categorize these requirements.
+	- The + sign includes design constraints as well as implementation, system interface, physical, and supportability requirements
+	- If it ends in ITY it is non-functional
 
 ###### Challenges in Requirements Gathering
 - Poorly defined requirements, lack of stakeholder involvement, unrecorded requirements, changing needs, and scope creep can lead to issues in meeting customer expectations.
@@ -106,8 +108,6 @@ Before determining how a business or system works, it's crucial to understand th
 - **Operational Stakeholders**: Individuals who regularly interact with the system.
 - **Executive Stakeholders**: Individuals who don’t interact directly but use the information or have financial interests.
 - **Customers**: People who directly or indirectly do business with the project sponsors.
-
----
 
 ###### Examples of Stakeholders
 - **Project Stakeholders**:
@@ -213,7 +213,7 @@ Due to the potentially large number of stakeholders, it's often impractical to i
 - **Definition**: A model is a representation of some aspect of the system being built.
 - **Types of Models**:
   - Textual Model: Written descriptions.
-  - Graphical Models: Diagrams and schematics.
+  - Graphical Models: Diagrams and schematics **UML**.
   - Mathematical Models: Formulas, statistics, and algorithms.
 
 - **Unified Modeling Language (UML)**:

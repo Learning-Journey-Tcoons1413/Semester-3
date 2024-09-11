@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "896d2a54bef63a29",
+        "id": "dd700c441a4da805",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e897b4e01f2b3e",
+            "id": "c66e97202acd75af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 2/Class 2.md",
+                "file": "Co-op Prep - PLAC CO-OP/To Do.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 2/Class 2.md",
+                "file": "Co-op Prep - PLAC CO-OP/To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 2/Class 2.md",
+                "file": "Co-op Prep - PLAC CO-OP/To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 2/Class 2.md"
+                "file": "Co-op Prep - PLAC CO-OP/To Do.md"
               }
             }
           }
@@ -146,49 +146,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8e897b4e01f2b3e",
+  "active": "c66e97202acd75af",
   "lastOpenFiles": [
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/People.txt",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Release",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/ConsoleFileApp.csproj.FileListAbsolute.txt",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Debug/ConsoleFileApp.exe",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Debug/ConsoleFileApp.exe.config",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Debug/ConsoleFileApp.pdb",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Debug/People.txt",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/ConsoleFileApp.pdb",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/ConsoleFileApp.exe",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/ConsoleFileApp.csproj.CoreCompileInputs.cache",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/HotelFormApp/obj/Debug/TempPE",
-    "Programming in .NET - COMP 10204/Course Information.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Object Oriented Systems - COMP CO835/To Do.md",
     "Programming in .NET - COMP 10204/To Do.md",
-    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
+    "Server Side Web Programming - COMP 10260/To Do.md",
     "Software Quality & Testing - COMP 10066/To Do.md",
+    "Speculative Fiction - LITR 10000/To Do.md",
+    "Server Side Web Programming - COMP 10260/Course Information.md",
+    "Assets/Pasted image 20240910111240.png",
+    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
+    "Database Theory - COMP CO859/Course Information.md",
+    "Database Theory - COMP CO859/Week 2/Class 2.md",
+    "Programming in .NET - COMP 10204/Week 2/Exercise2/Exercise2WinForm/b5a4e1rd.nz0~",
+    "Programming in .NET - COMP 10204/Week 2/Exercise2/Exercise2WinForm/dojbxf3x.cky~",
+    "Programming in .NET - COMP 10204/Week 2/Exercise2/Exercise2WinForm/obj/Debug/Exercise2WinForm.csproj.FileListAbsolute.txt",
+    "Programming in .NET - COMP 10204/Week 2/Exercise2/Exercise2WinForm/bin/Debug/Exercise2WinForm.pdb",
+    "Programming in .NET - COMP 10204/Week 2/Exercise2/Exercise2WinForm/bin/Debug/Exercise2WinForm.exe",
+    "Programming in .NET - COMP 10204/Week 2/Exercise2/Exercise2WinForm/bin/Debug/Exercise2WinForm.exe.config",
+    "Programming in .NET - COMP 10204/Week 2/Exercise2/Exercise2WinForm/obj/Debug/Exercise.73F1BB2F.Up2Date",
+    "Programming in .NET - COMP 10204/Week 2/Exercise2/Exercise2WinForm/bin/Debug/Exercise2Console.exe",
+    "Programming in .NET - COMP 10204/Week 2/Exercise2/Exercise2WinForm/bin/Debug/Exercise2Console.pdb",
+    "Programming in .NET - COMP 10204/Week 2/Exercise2/Exercise2WinForm/bin/Debug/Exercise2Console.exe.config",
+    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
+    "Object Oriented Systems - COMP CO835/Course Information.md",
+    "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
+    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
+    "Programming in .NET - COMP 10204/Course Information.md",
     "Software Quality & Testing - COMP 10066/Course Information.md",
     "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
     "Software Quality & Testing - COMP 10066/Week 2/Class 2.md",
     "Software Quality & Testing - COMP 10066/Week 1/Class 1.md",
-    "Pasted image 20240910111240.png",
-    "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
-    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
-    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
-    "Object Oriented Systems - COMP CO835/To Do.md",
-    "Object Oriented Systems - COMP CO835/Course Information.md",
     "Assets/Pasted image 20240909182729.png",
     "Assets/Pasted image 20240909183208.png",
     "Assets/Pasted image 20240909183114.png",
     "Assets/Pasted image 20240909183057.png",
     "Assets/Pasted image 20240909182946.png",
-    "Server Side Web Programming - COMP 10260/To Do.md",
-    "Server Side Web Programming - COMP 10260/Course Information.md",
     "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
     "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
     "Programming in .NET - COMP 10204/YouTube Notes.md",
     "Programming in .NET - COMP 10204/Week 1/Class 1.md",
     "Programming in .NET - COMP 10204/Week 1/Resources.md",
-    "Database Theory - COMP CO859/To Do.md",
-    "Database Theory - COMP CO859/Week 2/Class 2.md",
     "Database Theory - COMP CO859/Week 1/Class 1.md",
-    "Database Theory - COMP CO859/Course Information.md",
     "Untitled.md",
     "Assets/Pasted image 20240909123005.png",
     "Assets/Pasted image 20240909114524.png",

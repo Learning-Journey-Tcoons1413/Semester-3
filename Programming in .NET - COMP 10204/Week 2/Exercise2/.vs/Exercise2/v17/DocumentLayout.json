@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\Exercise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5791A1A-2EAD-4ABA-8EE3-7A8A1A1741F3}|Exercise2WinForm\\Exercise2WinForm.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\week 2\\exercise2\\exercise2winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5791A1A-2EAD-4ABA-8EE3-7A8A1A1741F3}|Exercise2WinForm\\Exercise2WinForm.csproj|solutionrelative:exercise2winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5791A1A-2EAD-4ABA-8EE3-7A8A1A1741F3}|Exercise2WinForm\\Exercise2WinForm.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\Exercise2\\exercise2winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5791A1A-2EAD-4ABA-8EE3-7A8A1A1741F3}|Exercise2WinForm\\Exercise2WinForm.csproj|solutionrelative:exercise2winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B530A5B-8575-461B-BA52-7E21AC0B2A4F}|Exercise2Console\\Exercise2Console.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\Exercise2\\exercise2console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B530A5B-8575-461B-BA52-7E21AC0B2A4F}|Exercise2Console\\Exercise2Console.csproj|solutionrelative:exercise2console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B530A5B-8575-461B-BA52-7E21AC0B2A4F}|Exercise2Console\\Exercise2Console.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\Exercise2\\exercise2console\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B530A5B-8575-461B-BA52-7E21AC0B2A4F}|Exercise2Console\\Exercise2Console.csproj|solutionrelative:exercise2console\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\Exercise2\\Exercise2WinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise2WinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\Exercise2\\Exercise2WinForm\\Form1.cs [Design]",
+              "RelativeToolTip": "Exercise2WinForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T00:22:56.554Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\Exercise2\\Exercise2WinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise2WinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\Exercise2\\Exercise2WinForm\\Form1.cs",
+              "RelativeToolTip": "Exercise2WinForm\\Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T00:31:22.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\Exercise2\\Exercise2Console\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise2Console\\Program.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\Exercise2\\Exercise2Console\\Program.cs",
+              "RelativeToolTip": "Exercise2Console\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:34:25.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\Exercise2\\Exercise2Console\\Car.cs",
+              "RelativeDocumentMoniker": "Exercise2Console\\Car.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\Exercise2\\Exercise2Console\\Car.cs",
+              "RelativeToolTip": "Exercise2Console\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:35:34.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

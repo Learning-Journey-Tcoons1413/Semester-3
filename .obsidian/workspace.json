@@ -11,8 +11,12 @@
             "id": "e82132c16c294648",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Server Side Web Programming - COMP 10260/To Do.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 209.5
   },
   "right": {
     "id": "5abc4daafee84734",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Server Side Web Programming - COMP 10260/To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Server Side Web Programming - COMP 10260/To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Server Side Web Programming - COMP 10260/To Do.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "e82132c16c294648",
   "lastOpenFiles": [
+    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
     "Co-op Prep - PLAC CO-OP/Resume (2).pdf",
     "Co-op Prep - PLAC CO-OP/To Do.md",
     "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
@@ -150,8 +160,6 @@
     "Speculative Fiction - LITR 10000/To Do.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
     "Server Side Web Programming - COMP 10260/Course Information.md",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
     "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
     "Programming in .NET - COMP 10204/To Do.md",
     "Object Oriented Systems - COMP CO835/To Do.md",

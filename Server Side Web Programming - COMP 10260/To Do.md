@@ -6,3 +6,6 @@
 
 - Before Thursday September 12th
 	- [ ] Set Up CSUNIX Directory
+- [ ] Complete the Three Problems on MyCanvas
+- [ ] Read over php.net documentation
+

@@ -1,11 +1,6 @@
 *Date: September 11th 2024*
 
 [MyCanvas Notes](https://mycanvas.mohawkcollege.ca/courses/107243/files/20878080?module_item_id=5880239)
-
-Database Terminology, 
-Data Dictionary, 
-Creating Tables
-
 ###### Relation (Table in a Database)
 - Basically an excel sheet 
 - **Row**
@@ -131,11 +126,12 @@ Creating Tables
 	- Fill in the data from there  
 	- Example follows on next few slides
 
-###### **Creating Tables Images**
+###### **Creating a Table with GUI**
 - ![[Pasted image 20240911104747.png]]
 - ![[Pasted image 20240911104813.png]]
-- REFRESH
-- **Script For Creating Tables**
+- MUST CLICK REFRESH
+
+**Creating a Table with Script**
 ```sql
 CREATE TABLE employees2  
 (employee_id INT,  
@@ -152,6 +148,7 @@ CONSTRAINT FK_employees2_department_id FOREIGN KEY(department_id)
 REFERENCES departments(department_id))
 ```
 
+```
 • CHAR is fixed length  
 • VARCHAR is variable length with a maximum  
 • CHAR is typically used for “code” values that  
@@ -161,3 +158,6 @@ VARCHAR is more common
 • The values below are not equal  
 CHAR(5) 'ABC '  
 VARCHAR(5) 'ABC'
+```
+
+

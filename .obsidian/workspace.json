@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0f2eed2967583285",
+        "id": "c9fbd6f1516dd3db",
         "type": "tabs",
         "children": [
           {
-            "id": "142ed760410982ba",
+            "id": "e82132c16c294648",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming in .NET - COMP 10204/Week 2/Class 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285.5
   },
   "right": {
     "id": "5abc4daafee84734",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 2/Class 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 2/Class 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming in .NET - COMP 10204/Week 2/Class 3.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "142ed760410982ba",
+  "active": "e82132c16c294648",
   "lastOpenFiles": [
+    "Co-op Prep - PLAC CO-OP/Resume (2).pdf",
+    "Co-op Prep - PLAC CO-OP/To Do.md",
+    "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
+    "Database Theory - COMP CO859/Week 2/Class 3.md",
+    "Database Theory - COMP CO859/Week 2/Class 2.md",
+    "Database Theory - COMP CO859/Week 1/Class 1.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Speculative Fiction - LITR 10000/To Do.md",
+    "Server Side Web Programming - COMP 10260/To Do.md",
+    "Server Side Web Programming - COMP 10260/Course Information.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
+    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Object Oriented Systems - COMP CO835/To Do.md",
+    "Database Theory - COMP CO859/Course Information.md",
+    "Programming in .NET - COMP 10204/Course Information.md",
+    "Programming in .NET - COMP 10204/Week 2/Class 3.md",
+    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
     "Assets/Pasted image 20240911104813.png",
     "Assets/Pasted image 20240911104747.png",
     "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start (1)/W02_FileIO_start/HotelFormApp/bin/Debug/Guests.txt",
@@ -159,40 +170,20 @@
     "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start (1)/W02_FileIO_start/HotelFormApp/bin/Debug/ConsoleFileApp.pdb",
     "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start (1)/W02_FileIO_start/ConsoleFileApp/obj/Debug/ConsoleFileApp.csproj.FileListAbsolute.txt",
     "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start (1)/W02_FileIO_start/ConsoleFileApp/bin/Debug/ConsoleFileApp.exe",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start (1)/W02_FileIO_start/ConsoleFileApp/bin/Debug/ConsoleFileApp.pdb",
-    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
-    "Programming in .NET - COMP 10204/Week 2/Class 3.md",
-    "Database Theory - COMP CO859/To Do.md",
-    "Database Theory - COMP CO859/Week 2/Class 3.md",
     "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
     "Object Oriented Systems - COMP CO835/Assignments/Assignment 1 SDLC and Agile.md",
     "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
     "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
     "Object Oriented Systems - COMP CO835/Quizzes/Quiz 1.md",
-    "Database Theory - COMP CO859/Course Information.md",
     "Pasted image 20240911104813.png",
     "Pasted image 20240911104747.png",
-    "Database Theory - COMP CO859/Week 2/Class 2.md",
-    "Co-op Prep - PLAC CO-OP/To Do.md",
-    "Object Oriented Systems - COMP CO835/To Do.md",
-    "Programming in .NET - COMP 10204/To Do.md",
-    "Server Side Web Programming - COMP 10260/To Do.md",
     "Software Quality & Testing - COMP 10066/To Do.md",
-    "Speculative Fiction - LITR 10000/To Do.md",
-    "Server Side Web Programming - COMP 10260/Course Information.md",
     "Assets/Pasted image 20240910111240.png",
     "Object Oriented Systems - COMP CO835/Course Information.md",
-    "Programming in .NET - COMP 10204/Course Information.md",
     "Software Quality & Testing - COMP 10066/Course Information.md",
-    "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
-    "Software Quality & Testing - COMP 10066/Week 2/Class 2.md",
-    "Software Quality & Testing - COMP 10066/Week 1/Class 1.md",
     "Assets/Pasted image 20240909182729.png",
     "Assets/Pasted image 20240909183208.png",
     "Assets/Pasted image 20240909183114.png",
-    "Assets/Pasted image 20240909183057.png",
-    "Assets/Pasted image 20240909182946.png",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
-    "Assets/Pasted image 20240909123005.png"
+    "Assets/Pasted image 20240909183057.png"
   ]
 }

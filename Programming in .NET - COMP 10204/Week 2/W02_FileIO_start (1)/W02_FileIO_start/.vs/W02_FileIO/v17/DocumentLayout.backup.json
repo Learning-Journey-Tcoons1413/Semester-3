@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start (1)\\W02_FileIO_start\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\week 2\\w02_fileio_start (1)\\w02_fileio_start\\hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start (1)\\W02_FileIO_start\\hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|solutionrelative:hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|solutionrelative:hotelformapp\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\week 2\\w02_fileio_start (1)\\w02_fileio_start\\hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start (1)\\W02_FileIO_start\\hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|solutionrelative:hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "HotelFormApp\\Form1.cs",
               "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start (1)\\W02_FileIO_start\\HotelFormApp\\Form1.cs",
               "RelativeToolTip": "HotelFormApp\\Form1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwCAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T18:29:32.851Z",
               "EditorCaption": ""
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "HotelFormApp\\Guest.cs",
               "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start (1)\\W02_FileIO_start\\HotelFormApp\\Guest.cs",
               "RelativeToolTip": "HotelFormApp\\Guest.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwBIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T18:07:02.991Z",
               "EditorCaption": ""

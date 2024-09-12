@@ -8,4 +8,6 @@
 
 [[Speculative Fiction - LITR 10000/Week 2/Class 2|Week 2]]
 
-- [ ] Nothing for now
+- [ ] Review PowerPoint for Week 2
+- [ ] Complete Discussion 1 
+- [ ] Read the content

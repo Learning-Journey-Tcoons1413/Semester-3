@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start (1)\\W02_FileIO_start\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start (1)\\W02_FileIO_start\\hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|solutionrelative:hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\week 2\\w02_fileio_start (1)\\w02_fileio_start\\hotelformapp\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|solutionrelative:hotelformapp\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\week 2\\w02_fileio_start (1)\\w02_fileio_start\\hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start (1)\\W02_FileIO_start\\hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|solutionrelative:hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\week 2\\w02_fileio_start (1)\\w02_fileio_start\\hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D842CCF7-7400-4623-BCED-85B0D7453C69}|HotelFormApp\\HotelFormApp.csproj|solutionrelative:hotelformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start (1)\\W02_FileIO_start\\HotelFormApp\\Form1.cs",
               "RelativeDocumentMoniker": "HotelFormApp\\Form1.cs",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start (1)\\W02_FileIO_start\\HotelFormApp\\Form1.cs",
               "RelativeDocumentMoniker": "HotelFormApp\\Form1.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Guest.cs",
               "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 2\\W02_FileIO_start (1)\\W02_FileIO_start\\HotelFormApp\\Guest.cs",
               "RelativeDocumentMoniker": "HotelFormApp\\Guest.cs",

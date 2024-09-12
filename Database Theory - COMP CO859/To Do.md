@@ -6,3 +6,5 @@
 - Before Wednesday September 11th
 	- [x] Get set up with SQL Applications. Download.
 - [x] Lab1
+- [ ] Create Lab1 Recap Notes
+

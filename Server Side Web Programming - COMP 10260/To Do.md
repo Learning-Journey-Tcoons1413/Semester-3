@@ -4,8 +4,8 @@
 
 [[Server Side Web Programming - COMP 10260/Week 2/Class 2|Week 2]]
 
-- Before Thursday September 12th
-	- [ ] Set Up CSUNIX Directory
+- [ ] Set Up CSUNIX Directory
 - [ ] Complete the Three Problems on MyCanvas
 - [ ] Read over php.net documentation
+- [ ] Multiplication Table Question
 

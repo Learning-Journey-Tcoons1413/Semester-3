@@ -20,7 +20,9 @@
 
 - [x] Watch Videos For [Week 2](https://mycanvas.mohawkcollege.ca/courses/107650/pages/w02-exercise?module_item_id=5684063)
 - [x] Finish Week 2 Practice Section
-- [ ] Complete [Lab Assignment 1](https://mycanvas.mohawkcollege.ca/courses/107650/pages/lab-assignment-1-fall-2024?module_item_id=5684075) - Due September 25th
-- [ ] Copy and Review Code from WO2_FileIO_start /  ConsoleFileApp
+- [ ] Complete [Lab Assignment 1](https://mycanvas.mohawkcollege.ca/courses/107650/pages/lab-assignment-1-fall-2024?module_item_id=5684075) - Due September 25th - [Watch This First](https://mycanvas.mohawkcollege.ca/courses/107650/discussion_topics/967496)
+- [x] Copy and Review Code from MyCanvas WO2_FileIO_start /  ConsoleFileApp
 
+Week 3
 
+- 

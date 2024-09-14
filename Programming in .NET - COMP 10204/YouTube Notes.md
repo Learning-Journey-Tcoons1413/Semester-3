@@ -5,7 +5,7 @@
 		- Data / Attributes /  Instance Variables
 		- Methods / Functions
 - **Namespace:**
-	- Container for related classes
+	- Container for related classes. Think of Java Packages
 
 - **Assemblies:**
 	- A container for Namespaces and Classes

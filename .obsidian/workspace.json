@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65ffaae5c009a0d4",
+        "id": "b9b40f5cea7ea6c0",
         "type": "tabs",
         "children": [
           {
-            "id": "e10f1a5c150cce8c",
+            "id": "706535cfbf742f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Theory - COMP CO859/Labs/Lab1.md",
+                "file": "Speculative Fiction - LITR 10000/To Do.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Theory - COMP CO859/Labs/Lab1.md",
+                "file": "Speculative Fiction - LITR 10000/To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Theory - COMP CO859/Labs/Lab1.md",
+                "file": "Speculative Fiction - LITR 10000/To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Theory - COMP CO859/Labs/Lab1.md"
+                "file": "Speculative Fiction - LITR 10000/To Do.md"
               }
             }
           }
@@ -146,15 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e10f1a5c150cce8c",
+  "active": "706535cfbf742f02",
   "lastOpenFiles": [
-    "Database Theory - COMP CO859/Week 2/Class 3.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Object Oriented Systems - COMP CO835/To Do.md",
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Server Side Web Programming - COMP 10260/To Do.md",
+    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Speculative Fiction - LITR 10000/To Do.md",
+    "Object Oriented Systems - COMP CO835/Textbook.pdf",
+    "Object Oriented Systems - COMP CO835/Course Information.md",
+    "Speculative Fiction - LITR 10000/Assignments/Intro Paragraph SF Week 1.md",
+    "Speculative Fiction - LITR 10000/Discussions/Discussion1.docx",
+    "Speculative Fiction - LITR 10000/Discussions/New Microsoft Word Document.docx",
+    "Speculative Fiction - LITR 10000/Discussions",
+    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
+    "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
+    "Object Oriented Systems - COMP CO835/Week 2/Class 3.md",
+    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
+    "Co-op Prep - PLAC CO-OP/To Do.md",
     "Database Theory - COMP CO859/Labs/Lab1.md",
+    "Database Theory - COMP CO859/Week 2/Class 3.md",
     "Database Theory - COMP CO859/Labs",
     "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
     "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
-    "Server Side Web Programming - COMP 10260/To Do.md",
-    "Programming in .NET - COMP 10204/To Do.md",
     "Programming in .NET - COMP 10204/Week 3/Class 4.md",
     "Programming in .NET - COMP 10204/Week 2/Class 3.md",
     "Programming in .NET - COMP 10204/Week 2/Class 2.md",
@@ -164,27 +179,11 @@
     "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/HotelFormApp/Properties/Settings.settings",
     "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/HotelFormApp/Properties/Settings.Designer.cs",
     "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/HotelFormApp/Properties/Resources.resx",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/HotelFormApp/Properties/Resources.Designer.cs",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/HotelFormApp/Properties/AssemblyInfo.cs",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/HotelFormApp/Properties",
-    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/HotelFormApp/obj/Debug/TempPE",
     "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
-    "Co-op Prep - PLAC CO-OP/To Do.md",
     "Programming in .NET - COMP 10204/YouTube Notes.md",
     "Co-op Prep - PLAC CO-OP/Week 2/Class 2.md",
     "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
-    "Speculative Fiction - LITR 10000/To Do.md",
-    "Software Quality & Testing - COMP 10066/To Do.md",
-    "Object Oriented Systems - COMP CO835/To Do.md",
-    "Database Theory - COMP CO859/To Do.md",
-    "Object Oriented Systems - COMP CO835/Week 2/Class 3.md",
-    "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
-    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
     "Database Theory - COMP CO859/Week 2/Class 2.md",
-    "Database Theory - COMP CO859/Week 1/Class 1.md",
-    "Server Side Web Programming - COMP 10260/Course Information.md",
-    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
-    "Database Theory - COMP CO859/Course Information.md",
     "Assets/Pasted image 20240911104813.png",
     "Assets/Pasted image 20240911104747.png",
     "Pasted image 20240911104813.png",

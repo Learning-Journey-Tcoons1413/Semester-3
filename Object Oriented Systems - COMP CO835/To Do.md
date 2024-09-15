@@ -6,6 +6,9 @@
 [[Object Oriented Systems - COMP CO835/Week 2/Class 2|Week 2]]
 
 - [x] Complete Quiz 2
+- [ ] Complete Exercise 2 by Wednesday September 18th, 5:00pm
+
+
 
 
 

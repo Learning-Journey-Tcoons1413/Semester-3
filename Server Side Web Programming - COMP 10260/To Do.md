@@ -9,3 +9,6 @@
 - [ ] Read over php.net documentation
 - [ ] Multiplication Table Question
 
+[[Server Side Web Programming - COMP 10260/Week 3/Class 4|Week 3]]
+
+- [ ] Web Architecture Module Review

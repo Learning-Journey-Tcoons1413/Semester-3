@@ -4,9 +4,8 @@
 
 Code Reviews
 Debugging
-  
 ###### **Code Reviews**
--  A developer looks at your code and reviews it
+- A developer looks at your code and reviews it
 - Looking for style, guidelines followed, error checking, the methods you used to solve problems
 
 - **Participants in Code Review**

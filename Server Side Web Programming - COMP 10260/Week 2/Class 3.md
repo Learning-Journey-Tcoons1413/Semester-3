@@ -97,7 +97,7 @@ printf('%s is my name',$name);
 - SPRINTF
 ```php
 $a = sprintf('%b',$my_var);
-//This is weird
+//It allows us to format a string and store it in a variable
 ```
 - FOPEN
 ```php

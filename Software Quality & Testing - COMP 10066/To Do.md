@@ -6,3 +6,7 @@
 
 - [x] Nothing for now
 
+[[Software Quality & Testing - COMP 10066/Week 3/Class 4|Week 3]]
+
+- [ ] Complete Git Repo Exercise /  Tutorial [Here](https://mycanvas.mohawkcollege.ca/courses/107218/files/20633688?module_item_id=5794370)
+

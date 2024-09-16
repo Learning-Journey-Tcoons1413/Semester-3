@@ -8,3 +8,10 @@
 - [x] Lab1
 - [x] Create Lab1 Recap Notes
 
+[[Database Theory - COMP CO859/Week 3/Class 4|Week 3]]
+
+- [ ] Nothing for now
+
+
+
+ 

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d91ddf74e7260cde",
+        "id": "c9fbd6f1516dd3db",
         "type": "tabs",
         "children": [
           {
-            "id": "9e07535c49f9497a",
+            "id": "e82132c16c294648",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Object Oriented Systems - COMP CO835/Week 2/Class 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 3/Class 4.md",
+                "file": "Object Oriented Systems - COMP CO835/Week 2/Class 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 3/Class 4.md",
+                "file": "Object Oriented Systems - COMP CO835/Week 2/Class 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 3/Class 4.md"
+                "file": "Object Oriented Systems - COMP CO835/Week 2/Class 3.md"
               }
             }
           }
@@ -129,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -144,33 +148,29 @@
   },
   "active": "bede1d7d730be6e9",
   "lastOpenFiles": [
-    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
-    "Pasted image 20240916101600.png",
-    "Database Theory - COMP CO859/Week 3/Class 4.md",
-    "Database Theory - COMP CO859/Week 2/Class 3.md",
-    "Database Theory - COMP CO859/Week 2/Class 2.md",
-    "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
-    "Software Quality & Testing - COMP 10066/Week 3",
-    "Object Oriented Systems - COMP CO835/Textbook.pdf",
-    "Object Oriented Systems - COMP CO835/Learning Plan.pdf",
-    "Database Theory - COMP CO859/To Do.md",
-    "Database Theory - COMP CO859/Week 3",
-    "Object Oriented Systems - COMP CO835/Week 2/Class 3.md",
-    "Database Theory - COMP CO859/Labs/Lab1.md",
-    "Database Theory - COMP CO859/Labs",
-    "Programming in .NET - COMP 10204/Assignments/Assignment1/OutOfSorts/obj/Debug/TempPE",
-    "Programming in .NET - COMP 10204/Assignments/Assignment1/OutOfSorts/obj/Debug/OutOfSorts.pdb",
-    "Programming in .NET - COMP 10204/Assignments/Assignment1/OutOfSorts/obj/Debug/OutOfSorts.exe",
-    "Programming in .NET - COMP 10204/Assignments/Assignment1/OutOfSorts/obj/Debug/OutOfSorts.csproj.FileListAbsolute.txt",
-    "Programming in .NET - COMP 10204/Assignments/Assignment1/OutOfSorts/obj/Debug/OutOfSorts.csproj.CoreCompileInputs.cache",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/HotelFormApp/obj/Debug/HotelFormApp.csproj.CopyComplete",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/HotelFormApp/obj/Debug/HotelFormApp.csproj.CoreCompileInputs.cache",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Debug/People.txt",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Debug/ConsoleFileApp.pdb",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Debug/ConsoleFileApp.exe.config",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/bin/Debug/ConsoleFileApp.exe",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/TempPE",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/ConsoleFileApp.pdb",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/ConsoleFileApp.exe",
+    "Programming in .NET - COMP 10204/Week 2/W02_FileIO_start/ConsoleFileApp/obj/Debug/ConsoleFileApp.csproj.FileListAbsolute.txt",
     "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
+    "Object Oriented Systems - COMP CO835/Week 2/Class 3.md",
     "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
     "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
     "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
     "Co-op Prep - PLAC CO-OP/To Do.md",
     "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
+    "Database Theory - COMP CO859/Week 2/Class 3.md",
+    "Database Theory - COMP CO859/Week 2/Class 2.md",
     "Database Theory - COMP CO859/Week 1/Class 1.md",
+    "Database Theory - COMP CO859/To Do.md",
     "Speculative Fiction - LITR 10000/To Do.md",
     "Server Side Web Programming - COMP 10260/Course Information.md",
     "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
@@ -183,11 +183,16 @@
     "Assets/Pasted image 20240911104813.png",
     "Assets/Pasted image 20240911104747.png",
     "Object Oriented Systems - COMP CO835/Assignments/Assignment 1 SDLC and Agile.md",
+    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
+    "Object Oriented Systems - COMP CO835/Quizzes/Quiz 1.md",
     "Pasted image 20240911104813.png",
     "Pasted image 20240911104747.png",
+    "Software Quality & Testing - COMP 10066/To Do.md",
     "Assets/Pasted image 20240910111240.png",
+    "Object Oriented Systems - COMP CO835/Course Information.md",
     "Assets/Pasted image 20240909182729.png",
     "Assets/Pasted image 20240909183208.png",
-    "Assets/Pasted image 20240909183114.png"
+    "Assets/Pasted image 20240909183114.png",
+    "Assets/Pasted image 20240909183057.png"
   ]
 }

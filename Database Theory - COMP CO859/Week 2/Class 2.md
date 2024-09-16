@@ -27,7 +27,6 @@
 - **Database Dictionary**:
 	- Repo of all data definitions for all objects within the scope of the database
 	- Contains meta-data
-	- 
 
 ###### **Column**
 - Sometimes referred to  as a field

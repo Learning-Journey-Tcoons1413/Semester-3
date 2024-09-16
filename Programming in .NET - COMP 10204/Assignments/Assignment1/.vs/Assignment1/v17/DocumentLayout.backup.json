@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "OutOfSorts\\Lab1.cs",
               "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\OutOfSorts\\Lab1.cs",
               "RelativeToolTip": "OutOfSorts\\Lab1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T18:21:22.226Z",
               "EditorCaption": ""
@@ -45,10 +45,9 @@
               "RelativeDocumentMoniker": "OutOfSorts\\Employee.cs",
               "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\OutOfSorts\\Employee.cs",
               "RelativeToolTip": "OutOfSorts\\Employee.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T18:22:46.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T18:22:46.061Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "OutOfSorts\\employees.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-15T18:25:15.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T18:25:15.271Z"
             }
           ]
         }

@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b381e8fafd48f3e",
+        "id": "78ffc846f69fe98b",
         "type": "tabs",
         "children": [
           {
-            "id": "1b757b5a9bc08485",
+            "id": "44966987584c796d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Assets/Pasted image 20240916101600.png"
+              }
             }
           }
         ]
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 3/Class 4.md",
+                "file": "Assets/Pasted image 20240916101600.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 3/Class 4.md",
+                "file": "Assets/Pasted image 20240916101600.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 3/Class 4.md"
+                "file": "Assets/Pasted image 20240916101600.png"
               }
             }
           }
@@ -144,6 +146,18 @@
   },
   "active": "bede1d7d730be6e9",
   "lastOpenFiles": [
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Object Oriented Systems - COMP CO835/To Do.md",
+    "Object Oriented Systems - COMP CO835/Week 3/Class 4.md",
+    "Object Oriented Systems - COMP CO835/Week 3",
+    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
+    "Software Quality & Testing - COMP 10066/Week 3/Class 5.md",
+    "Server Side Web Programming - COMP 10260/To Do.md",
+    "Programming in .NET - COMP 10204/Week 3/Class 4.md",
+    "Programming in .NET - COMP 10204/Week 2/Class 3.md",
+    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
+    "Object Oriented Systems - COMP CO835/Course Information.md",
     "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md",
     "Software Quality & Testing - COMP 10066/Labs/Lab2/src",
     "Software Quality & Testing - COMP 10066/Labs/Lab2",
@@ -153,18 +167,13 @@
     "Software Quality & Testing - COMP 10066/Labs/Lab2/out/production/Lab2",
     "Software Quality & Testing - COMP 10066/Labs/Lab2/out/production",
     "Software Quality & Testing - COMP 10066/Labs/Lab2/out",
-    "Software Quality & Testing - COMP 10066/Week 3/Class 5.md",
     "Software Quality & Testing - COMP 10066/Quizzes",
-    "Server Side Web Programming - COMP 10260/To Do.md",
-    "Software Quality & Testing - COMP 10066/To Do.md",
     "Software Quality & Testing - COMP 10066/Course Information.md",
     "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
-    "Programming in .NET - COMP 10204/Assignments/Assignment1/OutOfSorts/bin/Debug/employees.txt",
-    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
     "Database Theory - COMP CO859/Week 3/Class 4.md",
     "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
     "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
-    "Pasted image 20240916101600.png",
+    "Assets/Pasted image 20240916101600.png",
     "Database Theory - COMP CO859/Week 2/Class 3.md",
     "Database Theory - COMP CO859/Week 2/Class 2.md",
     "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
@@ -175,12 +184,6 @@
     "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
     "Co-op Prep - PLAC CO-OP/To Do.md",
     "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
-    "Database Theory - COMP CO859/Week 1/Class 1.md",
-    "Speculative Fiction - LITR 10000/To Do.md",
-    "Server Side Web Programming - COMP 10260/Course Information.md",
-    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
-    "Programming in .NET - COMP 10204/To Do.md",
-    "Object Oriented Systems - COMP CO835/To Do.md",
     "Assets/Pasted image 20240911104813.png",
     "Assets/Pasted image 20240911104747.png",
     "Pasted image 20240911104813.png",

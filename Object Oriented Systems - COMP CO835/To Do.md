@@ -12,6 +12,11 @@
 [[Object Oriented Systems - COMP CO835/Week 3/Class 4|Week 3]]
 
 - [ ] Complete Quiz 3 
+- [x] Create Notes from PowerPoint for Week 3
+
+
+
+
 
 
 

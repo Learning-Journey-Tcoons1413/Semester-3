@@ -1,4 +1,3 @@
-C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment1\OutOfSorts\bin\Debug\employees.txt
 C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment1\OutOfSorts\bin\Debug\OutOfSorts.exe.config
 C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment1\OutOfSorts\bin\Debug\OutOfSorts.exe
 C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment1\OutOfSorts\bin\Debug\OutOfSorts.pdb
@@ -6,3 +5,4 @@ C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 102
 C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment1\OutOfSorts\obj\Debug\OutOfSorts.csproj.CoreCompileInputs.cache
 C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment1\OutOfSorts\obj\Debug\OutOfSorts.exe
 C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment1\OutOfSorts\obj\Debug\OutOfSorts.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment1\OutOfSorts\bin\Debug\employees.txt

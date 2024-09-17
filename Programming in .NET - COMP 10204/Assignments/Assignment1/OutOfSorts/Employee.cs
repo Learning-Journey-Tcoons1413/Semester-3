@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 //Author: Thomas Coons
 //Student ID: 000317961
 //Date: Sept 15th 2024
+//Purpose: Employee Sorting Application
 
 //I, Thomas Coons, 000317961 certify that this material is my original work.
 //No other person's work has been used without due acknowledgement.

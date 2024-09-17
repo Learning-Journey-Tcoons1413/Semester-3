@@ -22,30 +22,49 @@ namespace OutOfSorts
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            try
+            string choice = "";
+
+            while (!choice.Equals("6"))
             {
-                Employee[] employees = Read();
-                for (int i = 0; i < employees.Length; i++)
+                Console.WriteLine("1. Sort by Employee Name");
+                Console.WriteLine("2. Sort by Employee Number");
+                Console.WriteLine("3. Sort by Employee Pay Rate");
+                Console.WriteLine("4. Sort by Employee Hours");
+                Console.WriteLine("5. Sort by Employee Gross Pay");
+                Console.WriteLine("6. Exit");
+                Console.WriteLine("");
+                Console.Write("Enter Choice: ");
+                choice = Console.ReadLine();
+                try
                 {
-                    Console.WriteLine(employees[i]);
+                    int numChoice = int.Parse(choice);
+                    Sort(numChoice);
                 }
+                catch (Exception ex) { Console.WriteLine(ex.Message); }
+                Console.WriteLine("");
             }
-            catch (Exception ex) { Console.WriteLine(ex.Message); }
+
         }
 
         /// <summary>
         /// Reads in text from employees.txt and returns an array of Employee Objects
         /// </summary>
-        /// <returns></returns>
+        /// <returns>An array of Employee Objects</returns>
         /// <exception cref="Exception"></exception>
         public static Employee[] Read()
         {
             StreamReader data = new StreamReader("employees.txt");
-            
             Employee employee = null;
+
+            // Checking if file is empty using .Peek() Method. Source: 
+            if (data.Peek() == -1)
+            {
+                throw new Exception("File is empty.");
+            }
 
             string[] dataList = data.ReadToEnd().Trim().Split('\n');
 
+            // Checking if file size will produce an array larger than 100 employees. 
             if (dataList.Length > 100)
             {
                 throw new Exception("File size too large.");
@@ -69,6 +88,7 @@ namespace OutOfSorts
                         int number = int.Parse(employeeList[i].Split(',')[1].Trim());
                         decimal rate = decimal.Parse(employeeList[i].Split(',')[2].Trim());
                         double hours = double.Parse(employeeList[i].Split(',')[3].Trim());
+
                         employee = new Employee(name, number, rate, hours);
                         employees[i] = employee;
                         empInfoTracker++;
@@ -80,5 +100,29 @@ namespace OutOfSorts
             }
         }
 
+        public static void Sort(int choice)
+        {
+            if (choice < 1 || choice > 6)
+            {
+                throw new Exception("Input is out of range.");
+            }
+
+            try
+            {
+                Employee[] employees = Read();
+                if (choice == 1)
+                {
+                    string[] names;
+                    int[] asciiValues = new int[employees.Length];
+
+                    for (int i = 0; i < employees.Length; i++)
+                    {
+                        asciiValues[i] = (int)employees[i].GetName()[0];
+                    }
+                }
+            }
+            catch (Exception ex) { Console.WriteLine(ex.Message); }
+
+        }
     }
 }

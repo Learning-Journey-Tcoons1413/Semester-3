@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3E6B121D-DF16-43C3-96CA-0B7158EB0848}</ProjectGuid>
+    <ProjectGuid>{49CC3048-C489-4302-A297-F312FBE80FDB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>OutOfSorts</RootNamespace>
     <AssemblyName>OutOfSorts</AssemblyName>

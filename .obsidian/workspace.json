@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
+                "file": "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
+                "file": "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
+                "file": "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Week 3/Class 4.md"
+                "file": "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md"
               }
             }
           }
@@ -146,33 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e07535c49f9497a",
+  "active": "bede1d7d730be6e9",
   "lastOpenFiles": [
-    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
-    "Software Quality & Testing - COMP 10066/Week 3/Git Tutorial.md",
-    "Database Theory - COMP CO859/Week 3/Class 4.md",
-    "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Software Quality & Testing - COMP 10066/Labs/Lab2/src",
+    "Software Quality & Testing - COMP 10066/Labs/Lab2",
+    "Software Quality & Testing - COMP 10066/Labs/Lab2/Lab2.iml",
+    "Software Quality & Testing - COMP 10066/Labs/Lab2/src/Main.java",
+    "Software Quality & Testing - COMP 10066/Labs/Lab2/out/production/Lab2/Main.class",
+    "Software Quality & Testing - COMP 10066/Labs/Lab2/out/production/Lab2",
+    "Software Quality & Testing - COMP 10066/Labs/Lab2/out/production",
+    "Software Quality & Testing - COMP 10066/Labs/Lab2/out",
+    "Software Quality & Testing - COMP 10066/Week 3/Class 5.md",
+    "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md",
+    "Software Quality & Testing - COMP 10066/Quizzes",
     "Server Side Web Programming - COMP 10260/To Do.md",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
     "Software Quality & Testing - COMP 10066/To Do.md",
-    "Server Side Web Programming - COMP 10260/Week 3",
+    "Software Quality & Testing - COMP 10066/Course Information.md",
+    "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
+    "Programming in .NET - COMP 10204/Assignments/Assignment1/OutOfSorts/bin/Debug/employees.txt",
+    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
+    "Database Theory - COMP CO859/Week 3/Class 4.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
     "Pasted image 20240916101600.png",
     "Database Theory - COMP CO859/Week 2/Class 3.md",
     "Database Theory - COMP CO859/Week 2/Class 2.md",
     "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
-    "Software Quality & Testing - COMP 10066/Week 3",
-    "Object Oriented Systems - COMP CO835/Textbook.pdf",
-    "Object Oriented Systems - COMP CO835/Learning Plan.pdf",
     "Database Theory - COMP CO859/To Do.md",
-    "Database Theory - COMP CO859/Week 3",
     "Object Oriented Systems - COMP CO835/Week 2/Class 3.md",
     "Database Theory - COMP CO859/Labs/Lab1.md",
-    "Database Theory - COMP CO859/Labs",
-    "Programming in .NET - COMP 10204/Assignments/Assignment1/OutOfSorts/obj/Debug/TempPE",
-    "Programming in .NET - COMP 10204/Assignments/Assignment1/OutOfSorts/obj/Debug/OutOfSorts.pdb",
-    "Programming in .NET - COMP 10204/Assignments/Assignment1/OutOfSorts/obj/Debug/OutOfSorts.exe",
-    "Programming in .NET - COMP 10204/Assignments/Assignment1/OutOfSorts/obj/Debug/OutOfSorts.csproj.FileListAbsolute.txt",
     "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
     "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
     "Co-op Prep - PLAC CO-OP/To Do.md",
@@ -183,9 +185,6 @@
     "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
     "Programming in .NET - COMP 10204/To Do.md",
     "Object Oriented Systems - COMP CO835/To Do.md",
-    "Database Theory - COMP CO859/Course Information.md",
-    "Programming in .NET - COMP 10204/Course Information.md",
-    "Programming in .NET - COMP 10204/Week 2/Class 3.md",
     "Assets/Pasted image 20240911104813.png",
     "Assets/Pasted image 20240911104747.png",
     "Pasted image 20240911104813.png",

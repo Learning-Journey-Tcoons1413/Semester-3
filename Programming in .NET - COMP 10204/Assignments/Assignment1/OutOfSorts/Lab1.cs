@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 //Author: Thomas Coons
 //Student ID: 000317961
@@ -16,6 +17,8 @@ namespace OutOfSorts
 {
     internal class Lab1
     {
+        static public Employee[] employees = Read();
+
         /// <summary>
         /// Main method of the application
         /// </summary>
@@ -37,13 +40,14 @@ namespace OutOfSorts
                 choice = Console.ReadLine();
                 try
                 {
+                    Console.Clear();
                     int numChoice = int.Parse(choice);
-                    Sort(numChoice);
+                    Console.WriteLine($"{"NAME",-20} {"NUMBER",-10} {"RATE",-10} {"HOURS",-10}");
+                    foreach (Employee employee in employees) { Console.WriteLine(employee); }
                 }
                 catch (Exception ex) { Console.WriteLine(ex.Message); }
                 Console.WriteLine("");
             }
-
         }
 
         /// <summary>
@@ -95,33 +99,12 @@ namespace OutOfSorts
                     }
                     empInfoTracker = 0;
                 }
-
                 return employees;
             }
         }
 
-        public static void Sort(int choice)
+        public static void Sort()
         {
-            if (choice < 1 || choice > 6)
-            {
-                throw new Exception("Input is out of range.");
-            }
-
-            try
-            {
-                Employee[] employees = Read();
-                if (choice == 1)
-                {
-                    string[] names;
-                    int[] asciiValues = new int[employees.Length];
-
-                    for (int i = 0; i < employees.Length; i++)
-                    {
-                        asciiValues[i] = (int)employees[i].GetName()[0];
-                    }
-                }
-            }
-            catch (Exception ex) { Console.WriteLine(ex.Message); }
 
         }
     }

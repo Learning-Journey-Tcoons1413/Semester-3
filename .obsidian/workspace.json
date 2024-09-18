@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "78ffc846f69fe98b",
+        "id": "d91ddf74e7260cde",
         "type": "tabs",
         "children": [
           {
-            "id": "44966987584c796d",
+            "id": "9e07535c49f9497a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf"
+                "file": "Speculative Fiction - LITR 10000/Week 3/Class 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 209.5
   },
   "right": {
     "id": "5abc4daafee84734",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf",
+                "file": "Speculative Fiction - LITR 10000/Week 3/Class 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf",
+                "file": "Speculative Fiction - LITR 10000/Week 3/Class 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf"
+                "file": "Speculative Fiction - LITR 10000/Week 3/Class 3.md"
               }
             }
           }
@@ -144,45 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44966987584c796d",
+  "active": "9e07535c49f9497a",
   "lastOpenFiles": [
-    "Object Oriented Systems - COMP CO835/Week 3/Class 4.md",
-    "Object Oriented Systems - COMP CO835/Week 2/Week 2 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/To Do.md",
-    "Object Oriented Systems - COMP CO835/Week 3/mso1727.tmp",
-    "Object Oriented Systems - COMP CO835/Week 3/msoFEFB.tmp",
-    "Assets/Pasted image 20240917172540.png",
-    "Assets/Pasted image 20240917172314.png",
-    "Object Oriented Systems - COMP CO835/Course Information.md",
-    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Speculative Fiction - LITR 10000/Week 2/Class 2.md",
+    "Speculative Fiction - LITR 10000/To Do.md",
+    "Speculative Fiction - LITR 10000/Week 3/Class 3.md",
+    "Speculative Fiction - LITR 10000/Week 2/Horror 1.pdf",
+    "Speculative Fiction - LITR 10000/Week 2/mso83C2.tmp",
+    "Speculative Fiction - LITR 10000/Week 3",
+    "Database Theory - COMP CO859/Labs/Lab2.md",
+    "Database Theory - COMP CO859/Labs/Lab1.md",
+    "Database Theory - COMP CO859/Labs/Lab2.xlsx",
+    "Database Theory - COMP CO859/To Do.md",
+    "Database Theory - COMP CO859/Course Information.md",
+    "Database Theory - COMP CO859/Week 1/Class 1.md",
+    "Database Theory - COMP CO859/Week 2/Class 2.md",
+    "Database Theory - COMP CO859/Week 2/Class 3.md",
     "Database Theory - COMP CO859/Week 3/Class 4.md",
-    "Timetable.md",
-    "Software Quality & Testing - COMP 10066/Course Information.md",
-    "Assets/Pasted image 20240916101600.png",
-    "Programming in .NET - COMP 10204/To Do.md",
-    "Object Oriented Systems - COMP CO835/Week 3",
-    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
-    "Software Quality & Testing - COMP 10066/Week 3/Class 5.md",
-    "Server Side Web Programming - COMP 10260/To Do.md",
     "Programming in .NET - COMP 10204/Week 3/Class 4.md",
-    "Programming in .NET - COMP 10204/Week 2/Class 3.md",
-    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
+    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Software Quality & Testing - COMP 10066/Week 3/Class 5.md",
+    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
+    "Programming in .NET - COMP 10204/Course Information.md",
     "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md",
-    "Software Quality & Testing - COMP 10066/Labs/Lab2/src",
-    "Software Quality & Testing - COMP 10066/Labs/Lab2",
-    "Software Quality & Testing - COMP 10066/Labs/Lab2/Lab2.iml",
-    "Software Quality & Testing - COMP 10066/Labs/Lab2/src/Main.java",
-    "Software Quality & Testing - COMP 10066/Labs/Lab2/out/production/Lab2/Main.class",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Cities/bin/Debug",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Cities/bin/Release",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Cities/bin",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Cities/obj/Debug/TempPE",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Cities/obj/Debug",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Cities/obj",
+    "Assets/Pasted image 20240916101600.png",
+    "Server Side Web Programming - COMP 10260/To Do.md",
+    "Software Quality & Testing - COMP 10066/Course Information.md",
     "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
     "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
     "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
-    "Database Theory - COMP CO859/Week 2/Class 3.md",
-    "Database Theory - COMP CO859/Week 2/Class 2.md",
+    "Pasted image 20240916101600.png",
     "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
-    "Database Theory - COMP CO859/To Do.md",
     "Object Oriented Systems - COMP CO835/Week 2/Class 3.md",
-    "Database Theory - COMP CO859/Labs/Lab1.md",
     "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
     "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
     "Assets/Pasted image 20240911104813.png",
@@ -190,6 +191,7 @@
     "Pasted image 20240911104813.png",
     "Pasted image 20240911104747.png",
     "Assets/Pasted image 20240910111240.png",
-    "Assets/Pasted image 20240909182729.png"
+    "Assets/Pasted image 20240909182729.png",
+    "Assets/Pasted image 20240909183208.png"
   ]
 }

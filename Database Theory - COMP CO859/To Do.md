@@ -10,7 +10,9 @@
 
 [[Database Theory - COMP CO859/Week 3/Class 4|Week 3]]
 
-- [ ] Nothing for now
+- [ ] Complete Lab2
+
+
 
 
 

@@ -1,0 +1,8 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 3\Week3Numbers\Cities\bin\Debug\CanadaPop.csv
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 3\Week3Numbers\Cities\bin\Debug\Cities.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 3\Week3Numbers\Cities\bin\Debug\Cities.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 3\Week3Numbers\Cities\bin\Debug\Cities.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 3\Week3Numbers\Cities\obj\Debug\Cities.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 3\Week3Numbers\Cities\obj\Debug\Cities.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 3\Week3Numbers\Cities\obj\Debug\Cities.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 3\Week3Numbers\Cities\obj\Debug\Cities.pdb

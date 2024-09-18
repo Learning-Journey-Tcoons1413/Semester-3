@@ -10,4 +10,8 @@
 
 - [x] Review PowerPoint for Week 2
 - [x] Complete Discussion 1 
-- [ ] Read the Short Story
+- [x] Read the Short Story
+
+[[Speculative Fiction - LITR 10000/Week 3/Class 3|Week 3]]
+
+- [ ] 

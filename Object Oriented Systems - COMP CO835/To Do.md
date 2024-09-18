@@ -13,6 +13,7 @@
 
 - [ ] Complete Quiz 3 
 - [x] Create Notes from PowerPoint for Week 3
+- [ ] Prepare Slides Presentation
 
 
 

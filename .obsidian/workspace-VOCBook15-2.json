@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "8319db289baa67d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d91ddf74e7260cde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e07535c49f9497a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f5673a4383db020",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe8bbf78a90de48a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bede1d7d730be6e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f8be9555706cc9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc617885486db698",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "5abc4daafee84734",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b69172274c0582d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f2276e9031cef72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe14bdf31baa2bb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e39f74b0a5c661d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e88f2ba413f3a22d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bede1d7d730be6e9",
+  "lastOpenFiles": [
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Numbers/bin/Debug",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Numbers/bin",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Numbers/Properties",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Numbers/obj/Debug/TempPE",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Numbers/obj/Debug",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Numbers/obj",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers/Numbers",
+    "Programming in .NET - COMP 10204/Week 3/Week3Numbers",
+    "Object Oriented Systems - COMP CO835/Week 3",
+    "Assets/Pasted image 20240916101600.png",
+    "Software Quality & Testing - COMP 10066/Labs/Lab2/src",
+    "Software Quality & Testing - COMP 10066/Labs/Lab2",
+    "Software Quality & Testing - COMP 10066/Week 3/Class 5.md",
+    "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md",
+    "Server Side Web Programming - COMP 10260/To Do.md",
+    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Software Quality & Testing - COMP 10066/Course Information.md",
+    "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
+    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
+    "Database Theory - COMP CO859/Week 3/Class 4.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
+    "Pasted image 20240916101600.png",
+    "Database Theory - COMP CO859/Week 2/Class 3.md",
+    "Database Theory - COMP CO859/Week 2/Class 2.md",
+    "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Object Oriented Systems - COMP CO835/Week 2/Class 3.md",
+    "Database Theory - COMP CO859/Labs/Lab1.md",
+    "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
+    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
+    "Co-op Prep - PLAC CO-OP/To Do.md",
+    "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
+    "Database Theory - COMP CO859/Week 1/Class 1.md",
+    "Speculative Fiction - LITR 10000/To Do.md",
+    "Server Side Web Programming - COMP 10260/Course Information.md",
+    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Object Oriented Systems - COMP CO835/To Do.md",
+    "Assets/Pasted image 20240911104813.png",
+    "Assets/Pasted image 20240911104747.png",
+    "Pasted image 20240911104813.png",
+    "Pasted image 20240911104747.png",
+    "Assets/Pasted image 20240910111240.png",
+    "Assets/Pasted image 20240909182729.png",
+    "Assets/Pasted image 20240909183208.png"
+  ]
+}

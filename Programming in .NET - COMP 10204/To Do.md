@@ -25,4 +25,4 @@
 
 [[Programming in .NET - COMP 10204/Week 3/Class 4|Week 3]]
 
-- [ ] Review Week 3 Module 
+- [ ] Watch this [Video](https://mycanvas.mohawkcollege.ca/courses/107650/pages/w03-exercise?module_item_id=5684082)

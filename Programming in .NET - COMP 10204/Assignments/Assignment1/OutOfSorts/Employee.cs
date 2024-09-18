@@ -54,7 +54,7 @@ namespace OutOfSorts
 
         public override string ToString()
         {
-            return $"{name}, {number}, {rate}, {hours}";
+            return $"{name, -20} {number,-10} {rate,-10} {hours,-10}";
         }
     }
 }

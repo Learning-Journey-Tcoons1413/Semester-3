@@ -6,14 +6,13 @@
 [[Object Oriented Systems - COMP CO835/Week 2/Class 2|Week 2]]
 
 - [x] Complete Quiz 2
-- [ ] Complete Exercise 2 by Wednesday September 18th, 5:00pm
-
 
 [[Object Oriented Systems - COMP CO835/Week 3/Class 4|Week 3]]
 
 - [ ] Complete Quiz 3 
 - [x] Create Notes from PowerPoint for Week 3
 - [ ] Prepare Slides Presentation
+- [ ] Complete Exercise 2
 
 
 

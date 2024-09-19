@@ -1,0 +1,2 @@
+- Ya my question is, if you are unable to find a coop job in January, then what do you do? Do you just sit around for 4 months doing nothing? Because I’d rather just continue with school and start the 4th semester. Would it be worth transferring into 559 at that point?
+- Are you able to transfer into 559 and do the 8 month coop and then apply to graduate with just the two year diploma?

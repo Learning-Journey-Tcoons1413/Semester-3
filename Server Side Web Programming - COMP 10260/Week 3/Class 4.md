@@ -1,5 +1,5 @@
 *Date: September 16th 2024
-### **Web Architecture Module**
+##### **Web Architecture Module**
 ###### **HTTP**
 - Works via requests and responses 
 - GET - Browser specifies a path and requests- ? and & 
@@ -37,14 +37,4 @@ header("Location: http://www.apple.com")
 
 ###### **==NOTE: Research isset()
 
-### **Session Management**
 
-###### **Maintaining State**
-- Web applications personalize your experience 
-- They try to remember you 
-- ==Stateless== 
-- **How Do We Do This:**
-	- Keeping track of ==sessions==
-
-###### **How is Session Management Done**
-- 

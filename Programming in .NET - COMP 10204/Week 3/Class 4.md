@@ -2,6 +2,9 @@ Numbers,
 LINQ (Language Independent Query),
 Bubble Sort
 
+[Helpful Video](https://mycanvas.mohawkcollege.ca/courses/107650/files/20334825?module_item_id=5684080)
+[Helpful Video](https://mycanvas.mohawkcollege.ca/courses/107650/files/20334824?module_item_id=5684081)
+[Exercise 3](https://mycanvas.mohawkcollege.ca/courses/107650/pages/w03-exercise?module_item_id=5684082)
 ###### **Random Number With Array**
 ```cs
 	int[] data = new int[100];

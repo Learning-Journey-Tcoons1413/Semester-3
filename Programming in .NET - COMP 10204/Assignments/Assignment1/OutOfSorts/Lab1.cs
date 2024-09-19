@@ -8,7 +8,7 @@ using System.Xml.Linq;
 
 //Author: Thomas Coons
 //Student ID: 000317961
-//Date: Sept 15th 2024
+//Date: Sept 15th 2024 
 //Purpose: Employee Sorting Application
 
 //I, Thomas Coons, 000317961 certify that this material is my original work.
@@ -17,7 +17,10 @@ namespace OutOfSorts
 {
     internal class Lab1
     {
-        static public Employee[] employees = Read();
+        /// <summary>
+        /// Static Property of Main Class
+        /// </summary>
+        static public  Employee[] employees = Read();
 
         /// <summary>
         /// Main method of the application

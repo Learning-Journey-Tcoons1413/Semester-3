@@ -10,7 +10,7 @@
 
 [[Database Theory - COMP CO859/Week 3/Class 4|Week 3]]
 
-- [ ] Complete Lab2
+- [x] Complete Lab2
 
 
 

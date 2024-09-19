@@ -1,14 +1,14 @@
 ###### **Assignment Due Dates:**
 
-| **Lab Assignments**                                                                                                          | **Due Date**   |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [Lab Assignment 1](https://mycanvas.mohawkcollege.ca/courses/107650/pages/lab-assignment-1-fall-2024?module_item_id=5684075) | September 25th |
-|                                                                                                                              |                |
-|                                                                                                                              |                |
-|                                                                                                                              |                |
-|                                                                                                                              |                |
-|                                                                                                                              |                |
-|                                                                                                                              |                |
+| **Lab Assignments**                                                                                                          | **Due Date**   | **Complete** |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------ |
+| [Lab Assignment 1](https://mycanvas.mohawkcollege.ca/courses/107650/pages/lab-assignment-1-fall-2024?module_item_id=5684075) | September 25th |              |
+|                                                                                                                              |                |              |
+|                                                                                                                              |                |              |
+|                                                                                                                              |                |              |
+|                                                                                                                              |                |              |
+|                                                                                                                              |                |              |
+|                                                                                                                              |                |              |
 
 ###### [[Programming in .NET - COMP 10204/Week 1/Class 1|Week 1]]
 

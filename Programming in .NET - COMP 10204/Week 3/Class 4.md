@@ -64,6 +64,6 @@ Bubble Sort
 ###### **Filtering and Selecting Certain Things we Want using LINQ**
 ![[Pasted image 20240917195555.png]]
 
-**Comparing Strings and Sorting them Using CompareTo**
+###### **Comparing Strings and Sorting them Using CompareTo**
 ![[Pasted image 20240920121533.png]]
 

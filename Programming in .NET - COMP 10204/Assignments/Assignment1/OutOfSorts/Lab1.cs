@@ -1,7 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Linq;
-using System.Threading;
 
 //Author: Thomas Coons
 //Student ID: 000317961
@@ -17,6 +15,7 @@ namespace OutOfSorts
         const string DATA = "employees.txt";
         static void Main(string[] args)
         {
+            
             Employee[] employees = null;
             string choice = "";
             try
@@ -26,7 +25,7 @@ namespace OutOfSorts
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
-                Console.WriteLine("Please any key to restart program...");
+                Console.WriteLine("Press any key to close the program...");
                 Console.ReadKey();
                 return;
             }
@@ -39,6 +38,8 @@ namespace OutOfSorts
                     PrintMenu();
                     Console.Write("Enter Choice: ");
                     choice = Console.ReadLine();
+                    Console.Write("\x1b[2J"); //Site This
+                    Console.Write("\x1b[3J"); //Site This
                     Console.Clear();
                     PrintData(choice, employees);
                 }
@@ -48,7 +49,12 @@ namespace OutOfSorts
 
         public static Employee[] Read()
         {
+
             StreamReader data = new StreamReader(DATA);
+            if (data.Peek() == -1)
+            {
+                throw new Exception("Insufficient File Size");
+            }
             string[] dataList = data.ReadToEnd().Trim().Split('\n');
             if (dataList.Length > 100)
             {

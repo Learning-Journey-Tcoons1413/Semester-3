@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //Author: Thomas Coons
 //Student ID: 000317961
@@ -69,7 +65,7 @@ namespace OutOfSorts
         }
         public override string ToString()
         {
-            return $"{name, -20} {number,-10} {rate,-10} {hours,-10} ${Math.Round(this.GetGross(), 2),-10}";
+            return $"{name, -20} {number,-10} ${rate,-10} {hours,-10} ${Math.Round(this.GetGross(), 2),-10}";
         }
     }
 }

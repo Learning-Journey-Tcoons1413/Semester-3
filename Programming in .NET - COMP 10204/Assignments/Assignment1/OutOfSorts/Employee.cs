@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 //Author: Thomas Coons
 //Student ID: 000317961
-//Date: Sept 15th 2024
+//Date Completed: Sept 15th 2024
 //Purpose: Employee Sorting Application
 
 //I, Thomas Coons, 000317961 certify that this material is my original work.
@@ -52,9 +52,24 @@ namespace OutOfSorts
         public void SetRate(decimal rate)
         { this.rate = rate; }
 
+        public decimal GetGross()
+        {
+            //Rate of pay * hours worked and after 40 hours overtime is at time and a half
+            if (hours <= 40)
+            {
+                decimal gross = (decimal)hours * rate;
+                return gross;
+            }
+            else 
+            {
+                decimal overtimePay = (decimal)((hours - 40) * ((double)rate * 1.5));
+                decimal regularPay = (decimal)(40 * rate);
+                return overtimePay + regularPay;
+            }
+        }
         public override string ToString()
         {
-            return $"{name, -20} {number,-10} {rate,-10} {hours,-10}";
+            return $"{name, -20} {number,-10} {rate,-10} {hours,-10} ${Math.Round(this.GetGross(), 2),-10}";
         }
     }
 }

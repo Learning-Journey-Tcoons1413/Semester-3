@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c6b18a230a65db54",
+        "id": "0eaab60fc4a4c67b",
         "type": "tabs",
         "children": [
           {
-            "id": "eeb53b8170940d6b",
+            "id": "916434afd2c6aef2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Transcripts.pdf"
+                "file": "Speculative Fiction - LITR 10000/To Do.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Transcripts.pdf",
+                "file": "Speculative Fiction - LITR 10000/To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Transcripts.pdf",
+                "file": "Speculative Fiction - LITR 10000/To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Transcripts.pdf"
+                "file": "Speculative Fiction - LITR 10000/To Do.md"
               }
             }
           }
@@ -144,47 +146,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eeb53b8170940d6b",
+  "active": "916434afd2c6aef2",
   "lastOpenFiles": [
-    "Co-op Prep - PLAC CO-OP/Job Applications/Job Applications.md",
-    "Co-op Prep - PLAC CO-OP/Thomas Coons - Resume.pdf",
-    "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
-    "Database Theory - COMP CO859/Week 3/Class 4.md",
-    "Database Theory - COMP CO859/Week 2/Class 2.md",
-    "Database Theory - COMP CO859/Week 2/Class 3.md",
-    "Co-op Prep - PLAC CO-OP/Transcripts.pdf",
-    "Co-op Prep - PLAC CO-OP/Transcripts",
-    "Co-op Prep - PLAC CO-OP/Unconfirmed 823860.crdownload",
+    "Speculative Fiction - LITR 10000/Course Information.md",
     "Speculative Fiction - LITR 10000/To Do.md",
-    "Co-op Prep - PLAC CO-OP/Job Applications",
+    "Speculative Fiction - LITR 10000/Week 3/Slides Lecture HHorror 2.pdf",
+    "Speculative Fiction - LITR 10000/Week 2/Horror 1.pdf",
+    "Speculative Fiction - LITR 10000/Week 3/mso8E8E.tmp",
     "Speculative Fiction - LITR 10000/Week 3/Class 3.md",
+    "Speculative Fiction - LITR 10000/Week 3/Slides Lecture HHorror 2.pptx",
     "Software Quality & Testing - COMP 10066/To Do.md",
+    "Software Quality & Testing - COMP 10066/Course Information.md",
+    "Software Quality & Testing - COMP 10066/Week 3/Class 5.md",
+    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
+    "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
+    "Software Quality & Testing - COMP 10066/Week 2/Class 2.md",
+    "Software Quality & Testing - COMP 10066/Week 1/Class 1.md",
+    "Software Quality & Testing - COMP 10066/Quizzes/Quiz 3.md",
+    "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
-    "Programming in .NET - COMP 10204/To Do.md",
-    "Programming in .NET - COMP 10204/Week 3/Class 4.md",
-    "Co-op Prep - PLAC CO-OP/Applications.md",
-    "Co-op Prep - PLAC CO-OP/Week 3/Class 3.md",
-    "Assets/Pasted image 20240920135419.png",
-    "Co-op Prep - PLAC CO-OP/To Do.md",
-    "Assets/Pasted image 20240920135240.png",
-    "Co-op Prep - PLAC CO-OP/Week 3",
-    "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
-    "Assets/Pasted image 20240920121533.png",
-    "Co-op Prep - PLAC CO-OP/ThomasCoonsResume.pdf",
     "Server Side Web Programming - COMP 10260/Week 3/Class 5.md",
     "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
+    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
+    "Programming in .NET - COMP 10204/To Do.md",
     "Programming in .NET - COMP 10204/Course Information.md",
-    "Object Oriented Systems - COMP CO835/Labs/Lab2Diagram.pdf",
-    "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/Labs/Lab3.docx",
-    "Object Oriented Systems - COMP CO835/Week 3/Class 4.md",
-    "Co-op Prep - PLAC CO-OP/Questions.md",
-    "README.md",
-    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
-    "Software Quality & Testing - COMP 10066/Week 3/Class 5.md",
+    "Programming in .NET - COMP 10204/Week 3/Class 4.md",
+    "Programming in .NET - COMP 10204/Week 2/Class 3.md",
+    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
+    "Programming in .NET - COMP 10204/Week 1/Class 1.md",
     "Object Oriented Systems - COMP CO835/To Do.md",
-    "Database Theory - COMP CO859/To Do.md",
-    "Database Theory - COMP CO859/Labs/Lab2.md",
+    "Object Oriented Systems - COMP CO835/Learning Plan.pdf",
+    "Object Oriented Systems - COMP CO835/Course Information.md",
+    "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf",
+    "Object Oriented Systems - COMP CO835/Week 2/Week 2 Lecture Summary.pdf",
+    "Object Oriented Systems - COMP CO835/Labs/Lab2Diagram.pdf",
+    "Co-op Prep - PLAC CO-OP/Transcripts.pdf",
+    "Co-op Prep - PLAC CO-OP/Thomas Coons - Resume.pdf",
+    "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
+    "Assets/Pasted image 20240920135419.png",
+    "Assets/Pasted image 20240920135240.png",
+    "Assets/Pasted image 20240920121533.png",
     "Assets/Pasted image 20240916101600.png",
     "Pasted image 20240916101600.png",
     "Assets/Pasted image 20240911104813.png",

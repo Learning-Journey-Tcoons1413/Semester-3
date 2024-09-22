@@ -14,5 +14,6 @@
 
 [[Speculative Fiction - LITR 10000/Week 3/Class 3|Week 3]]
 
-- [ ] Create Week 3 Notes - Download PDF
+- [x] Create Week 3 Notes - Download PDF
 - [ ] Assignment 1 Due 
+- [ ] Complete Reading - The Dunwich Horror, p. 159

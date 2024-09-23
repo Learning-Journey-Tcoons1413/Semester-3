@@ -21,7 +21,7 @@
 - Indeed [Link](https://ca.indeed.com/viewjob?jk=82b08c11589fd5de&tk=1i89el4k7ia6e800&from=serp&vjs=3)
 
 
-
+Waiting to hear back from all of these.
 
 
 

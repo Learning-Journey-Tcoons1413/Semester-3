@@ -12,7 +12,9 @@
 
 - [x] Complete Lab2
 
+[[Database Theory - COMP CO859/Week 4/Class 5|Week 4]]
 
+- [ ] Download co859.sql [Link](https://mycanvas.mohawkcollege.ca/courses/107243/pages/student-resources)
 
 
 

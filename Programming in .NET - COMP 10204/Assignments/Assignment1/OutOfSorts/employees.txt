@@ -11,5 +11,3 @@ Ray Palmer,     120985, 24.75, 40.00
 Ronald Raymond, 239824, 16.43, 35.00
 Carter Hall,    657123, 19.34, 42.75
 Shayera Hol,    761742, 16.73, 38.50
-Bruce Wayne,    123456, 25.88, 35.50
-Clark Kent,     232344, 25.88, 38.75

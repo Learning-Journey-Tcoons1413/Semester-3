@@ -4,11 +4,12 @@
 
 [[Server Side Web Programming - COMP 10260/Week 2/Class 2|Week 2]]
 
-- [ ] Set Up CSUNIX Directory
-- [ ] Read over php.net documentation
-- [ ] Multiplication Table Question
+- [x] Set Up CSUNIX Directory
+- [x] Read over php.net documentation
+- [x] Multiplication Table Question
 
 [[Server Side Web Programming - COMP 10260/Week 3/Class 4|Week 3]]
 
 - [ ] Web Architecture Module Review
-- [ ] Complete the Three Problems on MyCanvas
+- [ ] ![[Pasted image 20240922211704.png]]
+- [ ] Complete Class 4, Class 5, and Class 6

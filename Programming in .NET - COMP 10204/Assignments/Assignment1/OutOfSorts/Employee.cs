@@ -65,7 +65,7 @@ namespace OutOfSorts
         }
         public override string ToString()
         {
-            return $"{name, -20} {number,-10} ${rate,-10} {hours,-10} ${Math.Round(this.GetGross(), 2),-10}";
+            return $"{name, -20} {number,-10} ${rate,-10}{hours,-10} ${Math.Round(this.GetGross(), 2),-10}";
         }
     }
 }

@@ -11,9 +11,11 @@
             "id": "1317e4a88eceab73",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Pasted image 20240922211704.png"
+                "file": "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Pasted image 20240922211704.png",
+                "file": "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Pasted image 20240922211704.png",
+                "file": "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Pasted image 20240922211704.png"
+                "file": "Server Side Web Programming - COMP 10260/Week 2/Class 3.md"
               }
             }
           }
@@ -144,22 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bede1d7d730be6e9",
+  "active": "1317e4a88eceab73",
   "lastOpenFiles": [
+    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
+    "Assets/Pasted image 20240922211704.png",
     "Database Theory - COMP CO859/To Do.md",
     "Database Theory - COMP CO859/Course Information.md",
     "Database Theory - COMP CO859/Week 3/Class 4.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
-    "Assets/Pasted image 20240922211704.png",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 3/Class 3.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 2/FlashCards.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 2/Class 2.md",
     "Assets/Pasted image 20240922141432.png",
     "Assets/Pasted image 20240922143719.png",
     "Assets/Pasted image 20240922143827.png",
-    "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
     "Server Side Web Programming - COMP 10260/Week 3/Class 5.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 3",
     "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
@@ -182,7 +184,6 @@
     "Software Quality & Testing - COMP 10066/Quizzes/Quiz 3.md",
     "Software Quality & Testing - COMP 10066/Quizzes/Quiz 2.md",
     "Programming in .NET - COMP 10204/To Do.md",
-    "Programming in .NET - COMP 10204/Course Information.md",
     "Object Oriented Systems - COMP CO835/Learning Plan.pdf",
     "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf",
     "Object Oriented Systems - COMP CO835/Week 2/Week 2 Lecture Summary.pdf",

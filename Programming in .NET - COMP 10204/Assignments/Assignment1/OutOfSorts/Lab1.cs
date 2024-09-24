@@ -3,16 +3,27 @@ using System.IO;
 
 //Author: Thomas Coons
 //Student ID: 000317961
-//Date Completed: Sept 15th 2024 
+//Date Completed: Sept 24th 2024 
 //Purpose: Employee Sorting Application
 
 //I, Thomas Coons, 000317961 certify that this material is my original work.
 //No other person's work has been used without due acknowledgement.
 namespace OutOfSorts
 {
+    /// <summary>
+    /// Lab1 is the main class of the program. 
+    /// </summary>
     internal class Lab1
     {
-        const string DATA = "employees.txt";
+        /// <summary>
+        /// Constant variable representing the data found in employees.txt
+        /// </summary>
+        const string DATA = "employees.csv";
+
+        /// <summary>
+        /// The main method of Lab1 Class. Handles user input and output. 
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             
@@ -47,6 +58,11 @@ namespace OutOfSorts
             }
         }
 
+        /// <summary>
+        /// Reads the text from employees.txt and creates an array of Employee Objects.
+        /// </summary>
+        /// <returns>Array of Employees</returns>
+        /// <exception cref="Exception">Throws when employees.txt exceeds 100 employees or is empty.</exception>
         public static Employee[] Read()
         {
 
@@ -69,6 +85,15 @@ namespace OutOfSorts
             return arr;
         }
 
+        /// <summary>
+        /// Sorting method using the 'Quick Sort' Algorithm. 
+        /// Sources for Algorithm: https://www.youtube.com/watch?v=Vtckgz38QHs&t=68s | https://www.geeksforgeeks.org/quick-sort-algorithm/#how-does-quicksort-work
+        /// </summary>
+        /// <param name="arr">Employee array</param>
+        /// <param name="start">Starting index of employee array</param>
+        /// <param name="end">Ending index of employee array</param>
+        /// <param name="choice">User choice represented as in integer</param>
+        /// <exception cref="Exception">Throws when user choice is out of specified range</exception>
         public static void Sort(Employee[] arr, int start, int end, int choice)
         {
             if (end <= start)
@@ -84,6 +109,14 @@ namespace OutOfSorts
             Sort(arr, pivot + 1, end, choice);
         }
 
+        /// <summary>
+        /// Partitions the array into two sub arrays. 
+        /// </summary>
+        /// <param name="arr">Employee array</param>
+        /// <param name="start">Starting index of partition</param>
+        /// <param name="end">Ending index of partition</param>
+        /// <param name="choice">User choice represented as in integer</param>
+        /// <returns>The index of the pivot</returns>
         public static int Partition(Employee[] arr, int start, int end, int choice)
         {
             Employee temp;
@@ -150,6 +183,9 @@ namespace OutOfSorts
             return i;
         }
 
+        /// <summary>
+        /// Prints the menu to the console.
+        /// </summary>
         public static void PrintMenu()
         {
             Console.WriteLine("");
@@ -163,10 +199,21 @@ namespace OutOfSorts
             
         }
 
+        /// <summary>
+        /// Prints the sorted data from the Employee array.
+        /// </summary>
+        /// <param name="choice">User choice represented as a string</param>
+        /// <param name="arr">Employee array</param>
+        /// <exception cref="Exception">Throws when choice is not a valid integer.</exception>
         public static void PrintData(string choice, Employee[] arr)
         {
             Console.WriteLine($"{"NAME",-20} {"NUMBER",-10} {"RATE",-10} {"HOURS",-10} {"GROSSPAY",-10}");
             Console.WriteLine("");
+            bool isValidInt = int.TryParse(choice, out int value);
+            if (!isValidInt)
+            { 
+                throw new Exception("Input must be integer only.");
+            }
             int numChoice = int.Parse(choice);
             Sort(arr, 0, arr.Length - 1, numChoice);
             for (int i = 0; i < arr.Length; i++)

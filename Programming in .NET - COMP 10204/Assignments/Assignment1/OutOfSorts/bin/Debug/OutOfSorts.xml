@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OutOfSorts</name>
+    </assembly>
+    <members>
+        <member name="T:OutOfSorts.Employee">
+            <summary>
+            Employee class of the program. 
+            </summary>
+        </member>
+        <member name="M:OutOfSorts.Employee.#ctor(System.String,System.Int32,System.Decimal,System.Double)">
+            <summary>
+            Employee constructor.
+            </summary>
+            <param name="name">Name of employee</param>
+            <param name="number">Number of employee</param>
+            <param name="rate">Rate of employee</param>
+            <param name="hours">Hours of employee</param>
+        </member>
+        <member name="M:OutOfSorts.Employee.GetHours">
+            <summary>
+            Get employee hours
+            </summary>
+            <returns>Hours</returns>
+        </member>
+        <member name="M:OutOfSorts.Employee.SetHour(System.Double)">
+            <summary>
+            Set employee hours
+            </summary>
+            <param name="hours"></param>
+        </member>
+        <member name="M:OutOfSorts.Employee.GetName">
+            <summary>
+            Get employee name
+            </summary>
+            <returns>Name</returns>
+        </member>
+        <member name="M:OutOfSorts.Employee.SetName(System.String)">
+            <summary>
+            Set employee name
+            </summary>
+            <param name="name"></param>
+        </member>
+        <member name="M:OutOfSorts.Employee.GetNumber">
+            <summary>
+            Get employee number
+            </summary>
+            <returns>Number</returns>
+        </member>
+        <member name="M:OutOfSorts.Employee.SetNumber(System.Int32)">
+            <summary>
+            Set employee number
+            </summary>
+            <param name="number"></param>
+        </member>
+        <member name="M:OutOfSorts.Employee.GetRate">
+            <summary>
+            Get employee rate
+            </summary>
+            <returns>Rate</returns>
+        </member>
+        <member name="M:OutOfSorts.Employee.SetRate(System.Decimal)">
+            <summary>
+            Set employee rate
+            </summary>
+            <param name="rate"></param>
+        </member>
+        <member name="M:OutOfSorts.Employee.GetGross">
+            <summary>
+            Calculates gross pay of employee.
+            </summary>
+            <returns>Gross Pay</returns>
+        </member>
+        <member name="M:OutOfSorts.Employee.ToString">
+            <summary>
+            ToString of employee object
+            </summary>
+            <returns>ToString</returns>
+        </member>
+        <member name="T:OutOfSorts.Lab1">
+            <summary>
+            Lab1 is the main class of the program. 
+            </summary>
+        </member>
+        <member name="F:OutOfSorts.Lab1.DATA">
+            <summary>
+            Constant variable representing the data found in employees.txt
+            </summary>
+        </member>
+        <member name="M:OutOfSorts.Lab1.Main(System.String[])">
+            <summary>
+            The main method of Lab1 Class. Handles user input and output. 
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:OutOfSorts.Lab1.Read">
+            <summary>
+            Reads the text from employees.txt and creates an array of Employee Objects.
+            </summary>
+            <returns>Array of Employees</returns>
+            <exception cref="T:System.Exception">Throws when employees.txt exceeds 100 employees or is empty.</exception>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:OutOfSorts.Lab1.Sort(OutOfSorts.Employee[],System.Int32,System.Int32,System.Int32)" -->
+        <member name="M:OutOfSorts.Lab1.Partition(OutOfSorts.Employee[],System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Partitions the array into two sub arrays. 
+            </summary>
+            <param name="arr">Employee array</param>
+            <param name="start">Starting index of partition</param>
+            <param name="end">Ending index of partition</param>
+            <param name="choice">User choice represented as in integer</param>
+            <returns>The index of the pivot</returns>
+        </member>
+        <member name="M:OutOfSorts.Lab1.PrintMenu">
+            <summary>
+            Prints the menu to the console.
+            </summary>
+        </member>
+        <member name="M:OutOfSorts.Lab1.PrintData(System.String,OutOfSorts.Employee[])">
+            <summary>
+            Prints the sorted data from the Employee array.
+            </summary>
+            <param name="choice">User choice represented as a string</param>
+            <param name="arr">Employee array</param>
+            <exception cref="T:System.Exception">Throws when choice is not a valid integer.</exception>
+        </member>
+    </members>
+</doc>

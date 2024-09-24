@@ -13,3 +13,9 @@
 - [ ] Web Architecture Module Review
 - [ ] ![[Pasted image 20240922211704.png]]
 - [ ] Complete Class 4, Class 5, and Class 6
+
+[[Server Side Web Programming - COMP 10260/Week 4/Class 6|Week 4]]
+
+- [ ] Set up xamp on laptop
+- [ ] Review Jonathan's Slideshows
+

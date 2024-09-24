@@ -2,7 +2,7 @@
 
 | **Lab Assignments**                                                                                                          | **Due Date**   | **Complete** |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------ |
-| [Lab Assignment 1](https://mycanvas.mohawkcollege.ca/courses/107650/pages/lab-assignment-1-fall-2024?module_item_id=5684075) | September 25th |              |
+| [Lab Assignment 1](https://mycanvas.mohawkcollege.ca/courses/107650/pages/lab-assignment-1-fall-2024?module_item_id=5684075) | September 25th | ✅            |
 |                                                                                                                              |                |              |
 |                                                                                                                              |                |              |
 |                                                                                                                              |                |              |
@@ -25,4 +25,4 @@
 [[Programming in .NET - COMP 10204/Week 3/Class 4|Week 3]]
 
 - [ ] Week 3 Exercise [Video](https://mycanvas.mohawkcollege.ca/courses/107650/pages/w03-exercise?module_item_id=5684082)
-- [ ] Complete [Lab Assignment 1](https://mycanvas.mohawkcollege.ca/courses/107650/pages/lab-assignment-1-fall-2024?module_item_id=5684075) - Due September 25th - [Watch This First](https://mycanvas.mohawkcollege.ca/courses/107650/discussion_topics/967496)
+- [x] Complete [Lab Assignment 1](https://mycanvas.mohawkcollege.ca/courses/107650/pages/lab-assignment-1-fall-2024?module_item_id=5684075) - Due September 25th - [Watch This First](https://mycanvas.mohawkcollege.ca/courses/107650/discussion_topics/967496)

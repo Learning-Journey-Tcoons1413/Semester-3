@@ -44,6 +44,7 @@ header("Location: http://www.apple.com")
 ```
 ###### **==NOTE: Research Headers with PHP
 
-###### **==NOTE: Research isset()
+###### **isset()**
+- The `isset()` function in PHP checks whether a variable is set and is not `NULL`. It returns `true` if the variable exists and has a value other than `NULL`; otherwise, it returns `false`.
 
 

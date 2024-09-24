@@ -1,0 +1,6 @@
+C:\Users\nicholas.corkigian\Desktop\C#\Examples\ch10\fig10_05-06\Time2\Time2\bin\Debug\Time2.exe
+C:\Users\nicholas.corkigian\Desktop\C#\Examples\ch10\fig10_05-06\Time2\Time2\bin\Debug\Time2.pdb
+C:\Users\nicholas.corkigian\Desktop\C#\Examples\ch10\fig10_05-06\Time2\Time2\obj\Debug\Time2.csprojResolveAssemblyReference.cache
+C:\Users\nicholas.corkigian\Desktop\C#\Examples\ch10\fig10_05-06\Time2\Time2\obj\Debug\Time2.csproj.CoreCompileInputs.cache
+C:\Users\nicholas.corkigian\Desktop\C#\Examples\ch10\fig10_05-06\Time2\Time2\obj\Debug\Time2.exe
+C:\Users\nicholas.corkigian\Desktop\C#\Examples\ch10\fig10_05-06\Time2\Time2\obj\Debug\Time2.pdb

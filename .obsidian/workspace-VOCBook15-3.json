@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "8319db289baa67d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "547b2cd438a4d181",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1317e4a88eceab73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Co-op Prep - PLAC CO-OP/Job Applications/Job Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f5673a4383db020",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe8bbf78a90de48a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bede1d7d730be6e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f8be9555706cc9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc617885486db698",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "5abc4daafee84734",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b69172274c0582d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f2276e9031cef72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Co-op Prep - PLAC CO-OP/Job Applications/Job Applications.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe14bdf31baa2bb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Co-op Prep - PLAC CO-OP/Job Applications/Job Applications.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e39f74b0a5c661d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e88f2ba413f3a22d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Co-op Prep - PLAC CO-OP/Job Applications/Job Applications.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1317e4a88eceab73",
+  "lastOpenFiles": [
+    "Server Side Web Programming - COMP 10260/Assignments/Assignment 1.md",
+    "Server Side Web Programming - COMP 10260/Week 4/Class 6.md",
+    "Server Side Web Programming - COMP 10260/To Do.md",
+    "Server Side Web Programming - COMP 10260/Assignments",
+    "Software Quality & Testing - COMP 10066/Week 4/Class 6.md",
+    "Server Side Web Programming - COMP 10260/Week 3/Class 5.md",
+    "Server Side Web Programming - COMP 10260/Week 4",
+    "Software Quality & Testing - COMP 10066/Week 3/Class 5.md",
+    "Database Theory - COMP CO859/Week 4/Class 5.md",
+    "Software Quality & Testing - COMP 10066/Week 4",
+    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
+    "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
+    "Software Quality & Testing - COMP 10066/Week 2/Class 2.md",
+    "Software Quality & Testing - COMP 10066/Week 1/Class 1.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Assets/Pasted image 20240923080136.png",
+    "Assets/Pasted image 20240923080103.png",
+    "Database Theory - COMP CO859/Week 3/Class 4.md",
+    "Database Theory - COMP CO859/Week 4",
+    "Co-op Prep - PLAC CO-OP/Job Applications/Job Applications.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
+    "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
+    "Assets/Pasted image 20240922211704.png",
+    "Database Theory - COMP CO859/Course Information.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 3/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 2/FlashCards.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 2/Class 2.md",
+    "Assets/Pasted image 20240922141432.png",
+    "Assets/Pasted image 20240922143719.png",
+    "Assets/Pasted image 20240922143827.png",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 3",
+    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 2",
+    "Server Side Web Programming - COMP 10260/Slemons Guide",
+    "Speculative Fiction - LITR 10000/To Do.md",
+    "Speculative Fiction - LITR 10000/Course Information.md",
+    "Speculative Fiction - LITR 10000/Week 3/Slides Lecture HHorror 2.pdf",
+    "Speculative Fiction - LITR 10000/Week 2/Horror 1.pdf",
+    "Speculative Fiction - LITR 10000/Week 3/mso8E8E.tmp",
+    "Speculative Fiction - LITR 10000/Week 3/Class 3.md",
+    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
+    "Assets/Pasted image 20240920135419.png",
+    "Assets/Pasted image 20240920135240.png",
+    "Assets/Pasted image 20240920121533.png"
+  ]
+}

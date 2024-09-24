@@ -18,7 +18,7 @@ namespace OutOfSorts
         /// <summary>
         /// Constant variable representing the data found in employees.txt
         /// </summary>
-        const string DATA = "employees.csv";
+        const string DATA = "employees.txt";
 
         /// <summary>
         /// The main method of Lab1 Class. Handles user input and output. 

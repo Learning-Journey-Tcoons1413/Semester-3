@@ -1,0 +1,64 @@
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\People.txt
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\HotelFormAppStart.exe.config
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\HotelFormAppStart.exe
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\HotelFormAppStart.pdb
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\ConsoleFileApp.exe
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\ConsoleFileApp.pdb
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\ConsoleFileApp.exe.config
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.csprojResolveAssemblyReference.cache
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.Properties.Resources.resources
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.GenerateResource.Cache
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.CoreCompileInputs.cache
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.exe
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.pdb
+C:\myendt\educ\Comp10204\Fall 2018\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.FormHotel.resources
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\People.txt
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\HotelFormAppStart.exe.config
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\HotelFormAppStart.exe
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\HotelFormAppStart.pdb
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\ConsoleFileApp.exe
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\ConsoleFileApp.pdb
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\bin\Debug\ConsoleFileApp.exe.config
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.csprojAssemblyReference.cache
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.FormHotel.resources
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.Properties.Resources.resources
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.GenerateResource.cache
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.CoreCompileInputs.cache
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.CopyComplete
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.exe
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console\HotelFormAppStart\obj\Debug\HotelFormAppStart.pdb
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\obj\Debug\HotelFormAppStart.csprojAssemblyReference.cache
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\obj\Debug\HotelFormAppStart.FormHotel.resources
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\obj\Debug\HotelFormAppStart.Properties.Resources.resources
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.GenerateResource.cache
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.CoreCompileInputs.cache
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\obj\Debug\HotelFormAppStart.exe
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\obj\Debug\HotelFormAppStart.pdb
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\bin\Debug\People.txt
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\bin\Debug\HotelFormAppStart.exe.config
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\bin\Debug\HotelFormAppStart.exe
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\bin\Debug\HotelFormAppStart.pdb
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\bin\Debug\ConsoleFileAppStart.exe
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\bin\Debug\ConsoleFileAppStart.pdb
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\bin\Debug\ConsoleFileAppStart.exe.config
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week2\Week2_FileIO_Console_2020\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.CopyComplete
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W04\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.csprojAssemblyReference.cache
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W04\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.FormHotel.resources
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W04\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.Properties.Resources.resources
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W04\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.GenerateResource.cache
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W04\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.CoreCompileInputs.cache
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W04\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.exe
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W04\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.pdb
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W04\Week4_Hotel_start\HotelFormAppStart\bin\Debug\HotelFormAppStart.exe.config
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W04\Week4_Hotel_start\HotelFormAppStart\bin\Debug\HotelFormAppStart.exe
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W04\Week4_Hotel_start\HotelFormAppStart\bin\Debug\HotelFormAppStart.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 4\Week4_Hotel_start\HotelFormAppStart\bin\Debug\HotelFormAppStart.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 4\Week4_Hotel_start\HotelFormAppStart\bin\Debug\HotelFormAppStart.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 4\Week4_Hotel_start\HotelFormAppStart\bin\Debug\HotelFormAppStart.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 4\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 4\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.FormHotel.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 4\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.Properties.Resources.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 4\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.GenerateResource.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 4\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 4\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 4\Week4_Hotel_start\HotelFormAppStart\obj\Debug\HotelFormAppStart.pdb

@@ -11,13 +11,14 @@
 
 - [x] Complete Quiz 3 
 - [x] Create Notes from PowerPoint for Week 3
-- [ ] Prepare Slides Presentation
+- [x] Prepare Slides Presentation
 - [x] Complete Lab 2
 - [x] Complete Lab 3
 
-Week 4
+[[Object Oriented Systems - COMP CO835/Week 4/Class 5|Week 4]]
 
 - [ ] [Assignment 2](https://mycanvas.mohawkcollege.ca/courses/106931/assignments/970961) Due - Friday by 11:59p.m.
+- [ ] [Quiz 4](https://mycanvas.mohawkcollege.ca/courses/106931/quizzes/438046) Due - Friday by 11:59pm
 
 
 

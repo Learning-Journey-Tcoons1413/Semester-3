@@ -1,5 +1,6 @@
 *Date: September 24th 2024
 
+[Useful Video](https://mycanvas.mohawkcollege.ca/courses/107650/pages/w04-exercise?module_item_id=5684097)
 ###### **Data Validation**
 - To make sure the three layers below work together. 
 

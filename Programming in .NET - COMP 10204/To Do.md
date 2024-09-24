@@ -29,4 +29,5 @@
 
 [[Programming in .NET - COMP 10204/Week 4/Class 5|Week 4]]
 
-- [ ] Watch Mark Yendt Video
+- [ ] Watch Mark Yendt [Video](https://mycanvas.mohawkcollege.ca/courses/107650/pages/w04-exercise?module_item_id=5684097)
+

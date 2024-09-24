@@ -15,6 +15,6 @@
 
 [[Server Side Web Programming - COMP 10260/Week 4/Class 6|Week 4]]
 
-- [ ] Set up xamp on laptop
+- [x] Set up xamp on laptop
 - [ ] Review Jonathan's Slideshows
 

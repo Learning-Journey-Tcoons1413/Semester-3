@@ -10,7 +10,6 @@
 
 [[Server Side Web Programming - COMP 10260/Week 3/Class 4|Week 3]]
 
-- [ ] Web Architecture Module Review
 - [ ] ![[Pasted image 20240922211704.png]]
 - [ ] Complete Class 4, Class 5, and Class 6
 

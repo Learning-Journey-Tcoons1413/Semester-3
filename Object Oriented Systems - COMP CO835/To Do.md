@@ -15,7 +15,9 @@
 - [x] Complete Lab 2
 - [x] Complete Lab 3
 
+Week 4
 
+- [ ] [Assignment 2](https://mycanvas.mohawkcollege.ca/courses/106931/assignments/970961) Due - Friday by 11:59p.m.
 
 
 

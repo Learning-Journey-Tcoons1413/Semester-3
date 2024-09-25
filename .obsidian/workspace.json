@@ -11,11 +11,9 @@
             "id": "3ddec94d336ac410",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Programming in .NET - COMP 10204/To Do.md",
-                "mode": "source",
-                "source": false
+                "file": "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming in .NET - COMP 10204/To Do.md",
+                "file": "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming in .NET - COMP 10204/To Do.md",
+                "file": "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming in .NET - COMP 10204/To Do.md"
+                "file": "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf"
               }
             }
           }
@@ -148,22 +146,29 @@
   },
   "active": "3ddec94d336ac410",
   "lastOpenFiles": [
+    "Speculative Fiction - LITR 10000/Week 4/Reading Summary.md",
+    "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf",
+    "Speculative Fiction - LITR 10000/Week 4/msoB4BF.tmp",
+    "Database Theory - COMP CO859/Week 4/Class 5.md",
+    "Speculative Fiction - LITR 10000/Week 4",
+    "Database Theory - COMP CO859/Labs/Lab 3.pdf",
+    "Database Theory - COMP CO859/Labs/Lab3.md",
+    "Database Theory - COMP CO859/Labs/Lab2.md",
+    "Database Theory - COMP CO859/Labs/Lab1.md",
+    "Database Theory - COMP CO859/Week 2/Class 3.md",
+    "Database Theory - COMP CO859/Labs/lab3.txt",
+    "Database Theory - COMP CO859/Week 2/Class 2.md",
+    "Database Theory - COMP CO859/Week 1/Class 1.md",
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Programming in .NET - COMP 10204/Week 4/Class 5.md",
     "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/obj/Debug/DotNETProperties.csproj.FileListAbsolute.txt",
     "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/bin/Debug/DotNETProperties.pdb",
     "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/bin/Debug/DotNETProperties.exe",
     "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/bin/Debug/DotNETProperties.exe.config",
     "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/obj/Debug/DotNETProperties.pdb",
-    "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/obj/Debug/DotNETProperties.exe",
-    "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/obj/Debug/DotNETProperties.csproj.CoreCompileInputs.cache",
-    "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/Person.cs",
-    "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache",
-    "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/obj/Debug/DotNETProperties.csproj.AssemblyReference.cache",
-    "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/obj/Debug/TempPE",
     "Speculative Fiction - LITR 10000/To Do.md",
     "Software Quality & Testing - COMP 10066/To Do.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
-    "Programming in .NET - COMP 10204/To Do.md",
-    "Programming in .NET - COMP 10204/Week 4/Class 5.md",
     "Programming in .NET - COMP 10204/Week 2/Class 3.md",
     "Programming in .NET - COMP 10204/Week 2/Class 2.md",
     "Programming in .NET - COMP 10204/Week 3/Class 4.md",
@@ -176,14 +181,6 @@
     "Software Quality & Testing - COMP 10066/Week 4/Class 6.md",
     "Programming in .NET - COMP 10204/Week 1/Class 1.md",
     "Co-op Prep - PLAC CO-OP/To Do.md",
-    "Co-op Prep - PLAC CO-OP/Job Applications/Job Applications.md",
-    "Server Side Web Programming - COMP 10260/Assignments/Assignment 1.md",
-    "Server Side Web Programming - COMP 10260/Week 4/Class 6.md",
-    "Server Side Web Programming - COMP 10260/Week 3/Class 5.md",
-    "Software Quality & Testing - COMP 10066/Week 3/Class 5.md",
-    "Database Theory - COMP CO859/Week 4/Class 5.md",
-    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
-    "Software Quality & Testing - COMP 10066/Week 2/Class 3.md",
     "Assets/Pasted image 20240923080136.png",
     "Assets/Pasted image 20240923080103.png",
     "Assets/Pasted image 20240922211704.png",

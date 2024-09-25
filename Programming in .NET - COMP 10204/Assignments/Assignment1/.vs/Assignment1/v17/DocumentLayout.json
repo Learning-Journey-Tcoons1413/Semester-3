@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|solutionrelative:outofsorts\\lab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\outofsorts\\employees.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|solutionrelative:outofsorts\\employees.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\assignments\\assignment1\\outofsorts\\employees.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|solutionrelative:outofsorts\\employees.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\outofsorts\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "OutOfSorts\\Lab1.cs",
               "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\OutOfSorts\\Lab1.cs",
               "RelativeToolTip": "OutOfSorts\\Lab1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T23:38:37.94Z",
               "IsPinned": true,
@@ -46,21 +46,23 @@
               "RelativeDocumentMoniker": "OutOfSorts\\Employee.cs",
               "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\OutOfSorts\\Employee.cs",
               "RelativeToolTip": "OutOfSorts\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T23:40:48.579Z"
+              "WhenOpened": "2024-09-16T23:40:48.579Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "employees.csv",
-              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\OutOfSorts\\employees.csv",
-              "RelativeDocumentMoniker": "OutOfSorts\\employees.csv",
-              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\OutOfSorts\\employees.csv",
-              "RelativeToolTip": "OutOfSorts\\employees.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-09-24T00:54:12.596Z"
+              "Title": "employees.txt",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\OutOfSorts\\employees.txt",
+              "RelativeDocumentMoniker": "OutOfSorts\\employees.txt",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\OutOfSorts\\employees.txt",
+              "RelativeToolTip": "OutOfSorts\\employees.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-24T22:35:23.866Z",
+              "EditorCaption": ""
             }
           ]
         }

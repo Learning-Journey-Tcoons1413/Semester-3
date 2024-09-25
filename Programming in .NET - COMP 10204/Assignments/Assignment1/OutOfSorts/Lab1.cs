@@ -49,8 +49,8 @@ namespace OutOfSorts
                     PrintMenu();
                     Console.Write("Enter Choice: ");
                     choice = Console.ReadLine();
-                    Console.Write("\x1b[2J"); //Site This
-                    Console.Write("\x1b[3J"); //Site This
+                    Console.Write("\x1b[2J"); // This helpes with clearing the buffer on the Console so the information displays correctly. Source: https://github.com/dotnet/runtime/issues/28355
+                    Console.Write("\x1b[3J"); // This helpes with clearing the buffer on the Console so the information displays correctly. Source: https://github.com/dotnet/runtime/issues/28355
                     Console.Clear();
                     PrintData(choice, employees);
                 }

@@ -8,20 +8,18 @@ namespace Week4Exercise
 {
     public enum TransactionType
     { 
-        DEPOSIT = 0, WITHDRAWL = 1
+        DEPOSIT, WITHDRAWL
     }
     internal class Transaction
     {
-        private TransactionType type;
-        private decimal amount;
+        public TransactionType Type { get; }
 
-        public TransactionType Type { get { return type; } }
-        public decimal Amount { get { return amount; } }
+        public decimal Amount { get; }
 
         public Transaction(TransactionType type, decimal amount)
         {
-            this.type = type;
-            this.amount = amount;
+            Type = type;
+            Amount = amount;
         }
 
         public override string ToString()

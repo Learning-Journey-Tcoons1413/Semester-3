@@ -13,5 +13,5 @@
 
 [[Software Quality & Testing - COMP 10066/Week 4/Class 6|Week 4]]
 
-- [ ] Nothing for now
+- [ ] Submit Assignment 1
 

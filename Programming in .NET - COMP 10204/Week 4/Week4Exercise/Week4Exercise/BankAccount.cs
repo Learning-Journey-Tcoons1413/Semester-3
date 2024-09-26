@@ -13,49 +13,57 @@ namespace Week4Exercise
     }
     internal class BankAccount
     {
-        static int nextBankAccount = 10000;
+        private static int nextBankAccountNUmber = 10000; 
 
         public decimal Balance { get; private set; }
+
         public BankAccountType Type { get; }
-        public int Number { get; }
+
+        public int Number {  get; }
+
         public Person Owner { get; }
 
-        public List<Transaction> Transactions = new List<Transaction>();
+        public List<Transaction> Transactions { get; }
 
         public BankAccount(Person owner, BankAccountType type)
-        { 
+        {
             Owner = owner;
             Type = type;
-            nextBankAccount++;
+            Balance = 0;
+            Number = nextBankAccountNUmber;
+            nextBankAccountNUmber++;
+            Transactions = new List<Transaction>();
         }
 
         public decimal GetCurrentBalance()
         {
-            decimal balance = 0;
-            foreach (Transaction t in Transactions)
+            Balance = 0;
+            foreach (var t in Transactions)
             {
-                balance += t.Amount;
+                if (t.Type == TransactionType.DEPOSIT)
+                {
+                    Balance += t.Amount;
+                }
+                else { Balance -= t.Amount; }
             }
-            return balance;
+            return Balance;
         }
 
         public void AddTransaction(Transaction t)
         {
-            if (t.Type == 0)
+            if (t.Type == TransactionType.WITHDRAWL)
             {
-                Transactions.Add(t);
-                Balance += t.Amount;
+                if (t.Amount <= Balance)
+                {
+                    Transactions.Add(t);
+                }
+                else { throw new ArgumentException("ERROR:"); }
             }
-            else
-            {
-                Transactions.Add(t);
-                Balance -= t.Amount;
-            }
+            else { Transactions.Add(t); }
         }
         public override string ToString()
         {
-            return "Account Owner: " + Owner.FirstName + " " + Owner.LastName + "\n"
-                +  "Account Type: " + Type;
+            return $"Account#: {Number} | Account Type: {Type} | Owner: {Owner}";
         }
 
     }

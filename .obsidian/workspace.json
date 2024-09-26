@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a32dcc518c9e7cd7",
+        "id": "77be3c79f1ee08e3",
         "type": "tabs",
         "children": [
           {
-            "id": "3ddec94d336ac410",
+            "id": "2afa17e3db441907",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf"
+                "file": "Programming in .NET - COMP 10204/Week 4/Class 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b3026f8cde590a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speculative Fiction - LITR 10000/To Do.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf",
+                "file": "Speculative Fiction - LITR 10000/To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf",
+                "file": "Speculative Fiction - LITR 10000/To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf"
+                "file": "Speculative Fiction - LITR 10000/To Do.md"
               }
             }
           }
@@ -144,43 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ddec94d336ac410",
+  "active": "6b3026f8cde590a1",
   "lastOpenFiles": [
+    "Speculative Fiction - LITR 10000/Week 4/Class 4.md",
+    "Speculative Fiction - LITR 10000/Week 3/Class 3.md",
+    "Speculative Fiction - LITR 10000/To Do.md",
+    "Software Quality & Testing - COMP 10066/Week 4/Class 7.md",
+    "Software Quality & Testing - COMP 10066/Week 4/Class 6.md",
+    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Server Side Web Programming - COMP 10260/Week 4/Class 6.md",
+    "Server Side Web Programming - COMP 10260/To Do.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 3/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 2/Class 2.md",
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Object Oriented Systems - COMP CO835/To Do.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Database Theory - COMP CO859/Labs/Lab3.md",
+    "Database Theory - COMP CO859/Week 4/Class 6.md",
+    "Database Theory - COMP CO859/Week 4/Class 5.md",
+    "Programming in .NET - COMP 10204/Week 4/Class 6.md",
+    "Programming in .NET - COMP 10204/Week 4/Class 5.md",
     "Speculative Fiction - LITR 10000/Week 4/Reading Summary.md",
     "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf",
     "Speculative Fiction - LITR 10000/Week 4/msoB4BF.tmp",
-    "Database Theory - COMP CO859/Week 4/Class 5.md",
     "Speculative Fiction - LITR 10000/Week 4",
     "Database Theory - COMP CO859/Labs/Lab 3.pdf",
-    "Database Theory - COMP CO859/Labs/Lab3.md",
     "Database Theory - COMP CO859/Labs/Lab2.md",
     "Database Theory - COMP CO859/Labs/Lab1.md",
     "Database Theory - COMP CO859/Week 2/Class 3.md",
     "Database Theory - COMP CO859/Labs/lab3.txt",
     "Database Theory - COMP CO859/Week 2/Class 2.md",
     "Database Theory - COMP CO859/Week 1/Class 1.md",
-    "Programming in .NET - COMP 10204/To Do.md",
-    "Programming in .NET - COMP 10204/Week 4/Class 5.md",
     "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/obj/Debug/DotNETProperties.csproj.FileListAbsolute.txt",
     "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/bin/Debug/DotNETProperties.pdb",
     "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/bin/Debug/DotNETProperties.exe",
     "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/bin/Debug/DotNETProperties.exe.config",
     "Programming in .NET - COMP 10204/Week 4/DotNETProperties/DotNETProperties/obj/Debug/DotNETProperties.pdb",
-    "Speculative Fiction - LITR 10000/To Do.md",
-    "Software Quality & Testing - COMP 10066/To Do.md",
-    "Server Side Web Programming - COMP 10260/To Do.md",
     "Programming in .NET - COMP 10204/Week 2/Class 3.md",
     "Programming in .NET - COMP 10204/Week 2/Class 2.md",
-    "Programming in .NET - COMP 10204/Week 3/Class 4.md",
-    "Object Oriented Systems - COMP CO835/To Do.md",
-    "Object Oriented Systems - COMP CO835/Course Information.md",
-    "Object Oriented Systems - COMP CO835/Week 4/Class 5.md",
-    "Database Theory - COMP CO859/To Do.md",
-    "Software Quality & Testing - COMP 10066/Week 4/Class 7.md",
-    "Programming in .NET - COMP 10204/YouTube Notes.md",
-    "Software Quality & Testing - COMP 10066/Week 4/Class 6.md",
-    "Programming in .NET - COMP 10204/Week 1/Class 1.md",
-    "Co-op Prep - PLAC CO-OP/To Do.md",
     "Assets/Pasted image 20240923080136.png",
     "Assets/Pasted image 20240923080103.png",
     "Assets/Pasted image 20240922211704.png",

@@ -136,6 +136,7 @@
             this.accountInformationGroupBox.Controls.Add(this.accountNumberLabel);
             this.accountInformationGroupBox.Controls.Add(this.transactionLabel);
             this.accountInformationGroupBox.Controls.Add(this.transactionsListBox);
+            this.accountInformationGroupBox.Enabled = false;
             this.accountInformationGroupBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.accountInformationGroupBox.Location = new System.Drawing.Point(21, 145);
             this.accountInformationGroupBox.Name = "accountInformationGroupBox";
@@ -161,6 +162,7 @@
             this.addTransactionBtn.TabIndex = 9;
             this.addTransactionBtn.Text = "Add Transaction";
             this.addTransactionBtn.UseVisualStyleBackColor = true;
+            this.addTransactionBtn.Click += new System.EventHandler(this.addTransactionBtn_Click);
             // 
             // amountTextbox
             // 
@@ -193,6 +195,7 @@
             // depositRadioBtn
             // 
             this.depositRadioBtn.AutoSize = true;
+            this.depositRadioBtn.Checked = true;
             this.depositRadioBtn.Location = new System.Drawing.Point(7, 59);
             this.depositRadioBtn.Name = "depositRadioBtn";
             this.depositRadioBtn.Size = new System.Drawing.Size(72, 20);
@@ -261,7 +264,7 @@
             this.transactionsListBox.ItemHeight = 16;
             this.transactionsListBox.Location = new System.Drawing.Point(6, 105);
             this.transactionsListBox.Name = "transactionsListBox";
-            this.transactionsListBox.Size = new System.Drawing.Size(374, 180);
+            this.transactionsListBox.Size = new System.Drawing.Size(374, 164);
             this.transactionsListBox.TabIndex = 1;
             // 
             // createBtn

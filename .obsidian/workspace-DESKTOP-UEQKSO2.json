@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98653d13245a7850",
+        "id": "ef43a8f6cb789d5b",
         "type": "tabs",
         "children": [
           {
-            "id": "b19edadef1d7adb9",
+            "id": "e4bd498a2674280f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b19edadef1d7adb9",
+  "active": "e4bd498a2674280f",
   "lastOpenFiles": [
     "Server Side Web Programming - COMP 10260/Week 3/Class 5.md",
     "Server Side Web Programming - COMP 10260/Week 4/Class 6.md",

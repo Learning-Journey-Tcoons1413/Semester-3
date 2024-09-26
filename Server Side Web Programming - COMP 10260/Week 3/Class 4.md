@@ -24,10 +24,19 @@
 ###### **Multiple HTML Forms**
 - Web pages can have multiple HTML Forms
 - They can not be nested
-###### **Working With HTML Forms and PHP**
+###### **Working With HTML Forms Using GET and POST**
 - PHP parses http://myserver.com/myapp.php?username=xxx
 - PHP then puts the values into an array 
 - PHP uses `$_GET` and `$_POST` to parse the data in the URL 
+- `$_GET`:
+	- data is appended to the URL
+	- not secure
+	- GET requests can be cached 
+- `$_POST`:
+	- Data is packaged inside the body of the HTTP Request
+	- More secure
+	- No data limit
+	- Requests are not cached
 ###### **NOTE: filter_input() is important**
 ```php
 $username = filter_input(INPUT_GET, "username", FILTER_SANITIZE_SPECIAL_CHARS);

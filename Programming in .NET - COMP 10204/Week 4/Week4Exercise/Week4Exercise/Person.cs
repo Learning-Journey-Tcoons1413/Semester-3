@@ -20,7 +20,7 @@ namespace Week4Exercise
 
         public override string ToString()
         {
-            return base.ToString(); 
+            return FirstName + " " + LastName; 
         }
 
 

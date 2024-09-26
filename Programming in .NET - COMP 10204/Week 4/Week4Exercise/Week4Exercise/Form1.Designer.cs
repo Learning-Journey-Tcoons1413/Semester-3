@@ -125,7 +125,6 @@
             // 
             // accountInformationGroupBox
             // 
-            this.accountInformationGroupBox.Controls.Add(this.statusLabel);
             this.accountInformationGroupBox.Controls.Add(this.addTransactionBtn);
             this.accountInformationGroupBox.Controls.Add(this.amountTextbox);
             this.accountInformationGroupBox.Controls.Add(this.amountLabel);
@@ -140,7 +139,7 @@
             this.accountInformationGroupBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.accountInformationGroupBox.Location = new System.Drawing.Point(21, 145);
             this.accountInformationGroupBox.Name = "accountInformationGroupBox";
-            this.accountInformationGroupBox.Size = new System.Drawing.Size(720, 323);
+            this.accountInformationGroupBox.Size = new System.Drawing.Size(720, 302);
             this.accountInformationGroupBox.TabIndex = 6;
             this.accountInformationGroupBox.TabStop = false;
             this.accountInformationGroupBox.Text = "Account Information";
@@ -148,7 +147,8 @@
             // statusLabel
             // 
             this.statusLabel.AutoSize = true;
-            this.statusLabel.Location = new System.Drawing.Point(16, 296);
+            this.statusLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.statusLabel.Location = new System.Drawing.Point(18, 458);
             this.statusLabel.Name = "statusLabel";
             this.statusLabel.Size = new System.Drawing.Size(44, 16);
             this.statusLabel.TabIndex = 10;
@@ -234,20 +234,20 @@
             // 
             // accountNumberTextbox
             // 
-            this.accountNumberTextbox.Location = new System.Drawing.Point(98, 33);
+            this.accountNumberTextbox.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.accountNumberTextbox.Location = new System.Drawing.Point(6, 33);
             this.accountNumberTextbox.Name = "accountNumberTextbox";
             this.accountNumberTextbox.ReadOnly = true;
-            this.accountNumberTextbox.Size = new System.Drawing.Size(128, 22);
+            this.accountNumberTextbox.Size = new System.Drawing.Size(374, 20);
             this.accountNumberTextbox.TabIndex = 3;
             // 
             // accountNumberLabel
             // 
             this.accountNumberLabel.AutoSize = true;
-            this.accountNumberLabel.Location = new System.Drawing.Point(9, 36);
+            this.accountNumberLabel.Location = new System.Drawing.Point(6, 36);
             this.accountNumberLabel.Name = "accountNumberLabel";
-            this.accountNumberLabel.Size = new System.Drawing.Size(62, 16);
+            this.accountNumberLabel.Size = new System.Drawing.Size(0, 16);
             this.accountNumberLabel.TabIndex = 2;
-            this.accountNumberLabel.Text = "Account#";
             // 
             // transactionLabel
             // 
@@ -286,12 +286,14 @@
             this.clearBtn.TabIndex = 8;
             this.clearBtn.Text = "Clear";
             this.clearBtn.UseVisualStyleBackColor = true;
+            this.clearBtn.Click += new System.EventHandler(this.clearBtn_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(759, 480);
+            this.Controls.Add(this.statusLabel);
             this.Controls.Add(this.clearBtn);
             this.Controls.Add(this.createBtn);
             this.Controls.Add(this.accountInformationGroupBox);
@@ -302,7 +304,6 @@
             this.Controls.Add(this.FirstNameLabel);
             this.Name = "Form1";
             this.Text = "Bank Account Manager";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.accountTypeGroupBox.ResumeLayout(false);
             this.accountTypeGroupBox.PerformLayout();
             this.accountInformationGroupBox.ResumeLayout(false);

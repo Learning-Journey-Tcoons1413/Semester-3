@@ -1,59 +1,60 @@
 I, Thomas Coons, student number 000317961, certify that this material is my original work. No other person's work has been used without due acknowledgment and I have not made my work available to anyone else.
 
 INSERT ERROR:
-
-Error Message: Violation of PRIMARY KEY constraint 'PK_sales_table'.
-Cannot insert duplicate key in object 'dbo.sales_table'. The duplicate
-key value is (1).
-
 --------------------------------------------------------------------------
+
+Error Message: Violation of PRIMARY KEY constraint 'PK_sales'.
+Cannot insert duplicate key in object 'dbo.sales'. The duplicate
+key value is (15).
+
 
 DELETE ERROR:
-
-Error Message: The DELETE statement conflicted with the REFERENCE constraint 'FK_sales_table_toms_plumbing_services'. The conflict occurred in databse 'toms_plumbing', table "dbo.sales_table", columns 'service_id'.
-
 --------------------------------------------------------------------------
+
+Error Message: The DELETE statement conflicted with the REFERENCE constraint 'FK_sales_service_id'. The conflict occurred in database 'toms_plumbing', table "dbo.sales", columns 'service_id'.
+
 
 SELECT 1 - Show the tables exist
 Database             Table
 -------------------- --------------------
-toms_plumbing        toms_plumbing_servic
-toms_plumbing        sales_table
+toms_plumbing        plumbing_services
+toms_plumbing        sales
 
 (2 rows affected)
 
 SELECT 2 - Show that the tables have the correct columns
 Table                Column               Pos         Type                 Length
 -------------------- -------------------- ----------- -------------------- -----------
-toms_plumbing_servic service_id           1           int                  NULL
-toms_plumbing_servic service_description  2           varchar              25
-toms_plumbing_servic service_type         3           char                 1
-toms_plumbing_servic hourly_rate          4           money                NULL
-toms_plumbing_servic sales                5           money                NULL
-sales_table          sales_id             1           int                  NULL
-sales_table          sales_date           2           date                 NULL
-sales_table          sales_amount         3           money                NULL
-sales_table          service_id           4           int                  NULL
+plumbing_services    service_id           1           int                  NULL
+plumbing_services    service_description  2           varchar              25
+plumbing_services    service_type         3           char                 1
+plumbing_services    hourly_rate          4           money                NULL
+plumbing_services    sales_ytd            5           money                NULL
+sales                sales_id             1           int                  NULL
+sales                sales_date           2           date                 NULL
+sales                sales_amount         3           money                NULL
+sales                service_id           4           int                  NULL
 
 (9 rows affected)
 
 SELECT 3 - Show that all the constraints (PK, CK and FK) were set up properly
 Table           Column               Constraint                          Type        Constraint_Details
 --------------- -------------------- ----------------------------------- ----------- ---------------------------------------------------------------------------
-sales_table     sales_id             PK_sales_table                      PRIMARY KEY sales_table(sales_id)
-sales_table     service_id           FK_sales_table_toms_plumbing_servic FOREIGN KEY sales_table(service_id)
-toms_plumbing_s service_id           PK_toms_plumbing_services           PRIMARY KEY toms_plumbing_s(service_id)
-toms_plumbing_s service_type         CK_toms_plumbing_services           CHECK       ([service_type]='E' OR [service_type]='I' OR [service_type]='R')
+plumbing_servic service_id           PK_plumbing_services                PRIMARY KEY plumbing_servic(service_id)
+plumbing_servic service_type         CK_plumbing_services_service_type   CHECK       ([service_type]='E' OR [service_type]='R' OR [service_type]='I')
+sales           sales_id             PK_sales                            PRIMARY KEY sales(sales_id)
+sales           service_id           FK_sales_service_id                 FOREIGN KEY sales(service_id)
+sales           sales_amount         CK_sales_sales_amount               CHECK       ([sales_amount]>=(0.00))
 
-(4 rows affected)
+(5 rows affected)
 
 SELECT 4 - Show the Master table data
-service_id  service_description       service_type hourly_rate           sales
+service_id  service_description       service_type hourly_rate           sales_ytd
 ----------- ------------------------- ------------ --------------------- ---------------------
 100         Laying Pipe               I            100.00                900.00
-200         Uncloggin/Drainage        R            50.00                 200.00
-300         Bathroom/Install          I            150.00                950.00
-400         Emergency Services        E            350.00                400.00
+200         Unclogging/Drainage       R            50.00                 200.00
+300         Bathroom Install          I            150.00                950.00
+400         Emergency Service         E            350.00                400.00
 500         Gas Services              I            200.00                1200.00
 
 (5 rows affected)
@@ -80,4 +81,5 @@ sales_id    sales_date sales_amount          service_id
 (15 rows affected)
 
 
-Completion time: 2024-09-25T11:23:26.2695542-04:00
+Completion time: 2024-09-25T22:13:47.0909239-04:00
+

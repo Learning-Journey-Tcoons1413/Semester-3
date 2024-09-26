@@ -12,25 +12,21 @@ namespace DotNETProperties
     }
     internal class Person
     {
-        private string _firstName;   
-        private string _lastName;
-
+        private string firstName;
         public string FirstName 
         {
-            get { return _firstName; }
+            get { return firstName; }
             set
             {
-                if (value == "GAY")
-                    throw new ArgumentException("Cant be gay!");
-                _firstName = value;
+                firstName = value;  
             }
-        }
-        public string LastName { get; set; }
+        }  
+        public string LastName { get; }
 
         public Person(string firstName, string lastName)
         {
             FirstName = firstName;
             LastName = lastName;
-        }       
+        }
     }
 }

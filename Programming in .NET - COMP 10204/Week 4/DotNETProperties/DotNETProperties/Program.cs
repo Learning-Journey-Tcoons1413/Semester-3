@@ -10,10 +10,9 @@ namespace DotNETProperties
     {
         static void Main(string[] args)
         {
-            Person person = new Person("Thomas", "Coons");
-            Console.WriteLine(person.FirstName + person.LastName);
-            person.LastName = "Hello";
-            Console.WriteLine(person.FirstName + person.LastName);
+            Person person = new Person("Thomas","Coons");
+            person.FirstName = "Joe";
+            Console.WriteLine(person.FirstName + " " + person.LastName);
         }
     }
 }

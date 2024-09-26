@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 4\\DotNETProperties\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3AEF8E8-AE37-42E6-A711-73E4CEAE9197}|DotNETProperties\\DotNETProperties.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\week 4\\dotnetproperties\\dotnetproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3AEF8E8-AE37-42E6-A711-73E4CEAE9197}|DotNETProperties\\DotNETProperties.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 4\\DotNETProperties\\dotnetproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3AEF8E8-AE37-42E6-A711-73E4CEAE9197}|DotNETProperties\\DotNETProperties.csproj|solutionrelative:dotnetproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 4\\DotNETProperties\\DotNETProperties\\Person.cs",
-              "RelativeDocumentMoniker": "DotNETProperties\\Person.cs",
-              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 4\\DotNETProperties\\DotNETProperties\\Person.cs",
-              "RelativeToolTip": "DotNETProperties\\Person.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T00:30:17.281Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "DotNETProperties\\Program.cs",
               "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 4\\DotNETProperties\\DotNETProperties\\Program.cs",
               "RelativeToolTip": "DotNETProperties\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T00:30:00.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 4\\DotNETProperties\\DotNETProperties\\Person.cs",
+              "RelativeDocumentMoniker": "DotNETProperties\\Person.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 4\\DotNETProperties\\DotNETProperties\\Person.cs",
+              "RelativeToolTip": "DotNETProperties\\Person.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:30:17.281Z",
               "EditorCaption": ""
             }
           ]

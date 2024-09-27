@@ -17,7 +17,7 @@
 
 [[Object Oriented Systems - COMP CO835/Week 4/Class 5|Week 4]]
 
-- [ ] [Assignment 2](https://mycanvas.mohawkcollege.ca/courses/106931/assignments/970961) Due - Friday by 11:59p.m.
+- [x] [Assignment 2](https://mycanvas.mohawkcollege.ca/courses/106931/assignments/970961) Due - Friday by 11:59p.m.
 - [ ] [Quiz 4](https://mycanvas.mohawkcollege.ca/courses/106931/quizzes/438046) Due - Friday by 11:59pm
 
 

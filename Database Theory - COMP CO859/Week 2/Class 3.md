@@ -1,7 +1,7 @@
 *Date: September 11th 2024*
 
 [MyCanvas Notes](https://mycanvas.mohawkcollege.ca/courses/107243/files/20878080?module_item_id=5880239)
-###### Relation (Table in a Database)
+###### **Relation (Table in a Database)**
 - Basically an excel sheet 
 - **Row**
 	- Tuple
@@ -86,7 +86,7 @@
 	- In SQL Server, schemas are used as containers to organize database objects
 
 ---
-###### Models and Database Design
+###### **Models and Database Design**
 - The Process of database design is evolutionary 
 - Stage 1:
 	- Develop the conceptual model

@@ -13,6 +13,7 @@
 ###### **Input Types**
 
 ###### **Methods**
+**==PHP puts the values into an associative array==**
 - GET request 
 	- can be cached
 	- human readable
@@ -26,7 +27,7 @@
 - They can not be nested
 ###### **Working With HTML Forms Using GET and POST**
 - PHP parses http://myserver.com/myapp.php?username=xxx
-- PHP then puts the values into an array 
+- **==PHP then puts the values into an associative array==** 
 - PHP uses `$_GET` and `$_POST` to parse the data in the URL 
 - `$_GET`:
 	- data is appended to the URL
@@ -37,6 +38,7 @@
 	- More secure
 	- No data limit
 	- Requests are not cached
+- We can access this associative array via keys `$_POST["nameFromForm"]` , `$_GET["nameFromForm"]`
 ###### **NOTE: filter_input() is important**
 ```php
 $username = filter_input(INPUT_GET, "username", FILTER_SANITIZE_SPECIAL_CHARS);
@@ -54,6 +56,10 @@ header("Location: http://www.apple.com")
 ###### **==NOTE: Research Headers with PHP
 
 ###### **isset()**
-- The `isset()` function in PHP checks whether a variable is set and is not `NULL`. It returns `true` if the variable exists and has a value other than `NULL`; otherwise, it returns `false`.
+- Returns TRUE if a variable is declared and not null
+- **From Mike:**
+	- Which means 'if this button is clicked, do this'.
+- **Example With Form:**
 
-
+###### **empty()**
+- returns TRUE if a variable is not declared, false, or null.

@@ -22,7 +22,7 @@
 	- Floats
 	- String
 	- Boolean 
-	- Array - Supports Associative Arrays
+	- Array 
 	- Object
 	- NULL
 	- Resource
@@ -93,5 +93,44 @@
 	.......missing info
 ```
  
-[[Server Side Web Programming - COMP 10260/To Do|To Do]]
+###### **Advanced Variable Types**
 
+- **Associative Arrays:**
+	- They are key / value pairs
+```php
+$capitals = array(
+    "Canada" => "Ottawa",
+    "Japan" => "Tokyo",
+    "Germany" => "Berlin",
+);
+
+$capitals["Japan"] = "Kyoto"; //update key
+$capitals["China"] = "Beijing"; //add key value
+array_pop($capitals); // Pop last element
+array_shift($capitals); // Pop first element
+$keys = array_keys($capitals); // Returns new array of keys
+$values = array_values($capitals); // Returns new array of values
+$capitals = array_flip($capitals); // Flips the key and value. Return new associative array
+
+foreach ($keys as $key) {
+    echo $key . "<br>";
+}
+```
+
+- Regular Arrays:
+	- implode (array to string) [( output )](https://csunix.mohawkcollege.ca/~slemon/SERVER-SIDE-Fall2024/docs/class4/implode.png) [( code )](https://csunix.mohawkcollege.ca/~slemon/SERVER-SIDE-Fall2024/docs/class4/implode.txt) [( run it )](https://csunix.mohawkcollege.ca/~slemon/SERVER-SIDE-Fall2024/docs/class4/implode.php)
+		- Array to string
+	```php
+			$arr = ["Thomas", "Coons"];
+			echo implode(" - ", $arr);
+			//output: Thomas - Coons
+	```
+	- explode (string to array) [( output )](https://csunix.mohawkcollege.ca/~slemon/SERVER-SIDE-Fall2024/docs/class4/explode.png) [( code )](https://csunix.mohawkcollege.ca/~slemon/SERVER-SIDE-Fall2024/docs/class4/explode.txt) [( run it )](https://csunix.mohawkcollege.ca/~slemon/SERVER-SIDE-Fall2024/docs/class4/explode.php)
+		```php
+			$str = "Thomas Coons";
+			$str =  explode(" ", $str);
+			foreach ($str as $letter) {
+			    echo $letter . "<br>";
+			}
+		```
+	- str_split (string to array of characters) [( output )](https://csunix.mohawkcollege.ca/~slemon/SERVER-SIDE-Fall2024/docs/class4/str_split.png) [( code )](https://csunix.mohawkcollege.ca/~slemon/SERVER-SIDE-Fall2024/docs/class4/str_split.txt) [( run it )](https://csunix.mohawkcollege.ca/~slemon/SERVER-SIDE-Fall2024/docs/class4/str_split.php)

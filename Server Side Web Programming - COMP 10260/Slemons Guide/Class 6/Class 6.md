@@ -1,0 +1,2 @@
+###### **PHP Array Functions** ( [list of functions](https://www.w3schools.com/php/php_ref_array.asp) )   ( [output](https://csunix.mohawkcollege.ca/~slemon/SERVER-SIDE-Fall2024/docs/class6/array_functions.png) )   ( [code](https://csunix.mohawkcollege.ca/~slemon/SERVER-SIDE-Fall2024/docs/class6/array_functions.txt) )   ( [run it](https://csunix.mohawkcollege.ca/~slemon/SERVER-SIDE-Fall2024/docs/class6/array_functions.php) )
+

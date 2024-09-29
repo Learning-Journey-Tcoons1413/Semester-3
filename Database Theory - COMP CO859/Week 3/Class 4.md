@@ -5,7 +5,7 @@
 Index,
 Views,
 Subqueries,
-###### ==**Remind yourself about primary keys:**==
+###### **Remind yourself about primary keys:**
 - A unique minimal identifier of an instance  
 - Used in  
 	- Index (created automatically)  

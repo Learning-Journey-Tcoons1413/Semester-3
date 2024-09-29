@@ -1,4 +1,3 @@
-
 ###### [Sam Scott Video Lecture 2](https://www.youtube.com/watch?v=S6itfPa9lA0)
 
 - ###### Things you should know:

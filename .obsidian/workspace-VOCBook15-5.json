@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ed83b7f175187a44",
+        "id": "85764fda718d4bd2",
         "type": "tabs",
         "children": [
           {
-            "id": "9aac76c40f0b8ef7",
+            "id": "9e597b8d38f8b82e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8/Class 8.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8/Class 8.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8/Class 8.md"
+                "file": "README.md"
               }
             }
           }
@@ -144,51 +148,51 @@
   },
   "active": "bede1d7d730be6e9",
   "lastOpenFiles": [
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 7/Class 7.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8/Class 8.md",
-    "Server Side Web Programming - COMP 10260/To Do.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 5/Class 5.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 6/Class 6.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 4/Class 4.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 7",
-    "Server Side Web Programming - COMP 10260/Week 4/Class 6.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 6",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
-    "Assets/Pasted image 20240929130956.png",
     "Timetable.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 2/Class 2.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 3/Class 3.md",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 5",
-    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
+    "README.md",
+    "Database Theory - COMP CO859/Labs/Lab 3.pdf",
+    "Database Theory - COMP CO859/Labs/Lab2.md",
+    "Database Theory - COMP CO859/Labs/Lab1.md",
+    "Database Theory - COMP CO859/Week 4/Class 6.md",
+    "Database Theory - COMP CO859/Week 4/Class 5.md",
+    "Object Oriented Systems - COMP CO835/Week 4/Class 6.md",
+    "Object Oriented Systems - COMP CO835/Week 4/Class 5.md",
+    "Object Oriented Systems - COMP CO835/Week 3/Class 4.md",
+    "Server Side Web Programming - COMP 10260/Week 4/Class 7.md",
+    "Server Side Web Programming - COMP 10260/Week 4/Class 6.md",
+    "Object Oriented Systems - COMP CO835/To Do.md",
+    "Object Oriented Systems - COMP CO835/Week 4/Week 4 Lecture Summary (1).pdf",
+    "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf",
+    "Object Oriented Systems - COMP CO835/Textbook.pdf",
+    "Object Oriented Systems - COMP CO835/Assignments/Assignment2-diagram.drawio.pdf",
+    "Object Oriented Systems - COMP CO835/Labs/Lab4-Use-Case.drawio.pdf",
+    "Object Oriented Systems - COMP CO835/Labs/Lab4-Use-Case.drawio",
+    "Software Quality & Testing - COMP 10066/Week 4/Class 7.md",
+    "Programming in .NET - COMP 10204/Week 4/Class 6.md",
+    "Object Oriented Systems - COMP CO835/Course Information.md",
+    "Server Side Web Programming - COMP 10260/To Do.md",
     "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
     "Server Side Web Programming - COMP 10260/Week 3/Class 5.md",
-    "Programming in .NET - COMP 10204/Week 4/Class 5.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 4",
-    "Programming in .NET - COMP 10204/Week 4/Class 6.md",
-    "Server Side Web Programming - COMP 10260/Week 4/Class 7.md",
-    "Server Side Web Programming - COMP 10260/Assignments/Assignment 1.md",
-    "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
-    "Co-op Prep - PLAC CO-OP/Thomas Coons - Resume.pdf",
-    "Co-op Prep - PLAC CO-OP/Week 3/Class 3.md",
-    "Co-op Prep - PLAC CO-OP/Week 4/Class 4.md",
-    "Assets/Pasted image 20240927132611.png",
-    "Co-op Prep - PLAC CO-OP/Week 4",
-    "Co-op Prep - PLAC CO-OP/Job Applications/Job Applications.md",
-    "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
-    "Server Side Web Programming - COMP 10260/Course Information.md",
-    "Assets/Pasted image 20240927110303.png",
-    "Server Side Web Programming - COMP 10260/Week 3/Class 4-VOCBook15.md",
-    "Object Oriented Systems - COMP CO835/Labs/Lab4-Use-Case.drawio.pdf",
-    "Object Oriented Systems - COMP CO835/Labs/Lab2Diagram.pdf",
-    "Object Oriented Systems - COMP CO835/Quizzes/Quiz 1.md",
-    "Database Theory - COMP CO859/Labs/Lab 3.pdf",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Speculative Fiction - LITR 10000/To Do.md",
+    "Speculative Fiction - LITR 10000/Week 4/Class 4.md",
+    "Speculative Fiction - LITR 10000/Week 3/Class 3.md",
+    "Software Quality & Testing - COMP 10066/Week 4/Class 6.md",
+    "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf",
+    "Speculative Fiction - LITR 10000/Week 4/msoB4BF.tmp",
+    "Speculative Fiction - LITR 10000/Week 4",
     "Assets/Pasted image 20240923080136.png",
     "Assets/Pasted image 20240923080103.png",
     "Assets/Pasted image 20240922211704.png",
     "Assets/Pasted image 20240922141432.png",
     "Assets/Pasted image 20240922143719.png",
-    "Assets/Pasted image 20240922143827.png"
+    "Assets/Pasted image 20240922143827.png",
+    "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
+    "Assets/Pasted image 20240920135419.png",
+    "Assets/Pasted image 20240920135240.png",
+    "Assets/Pasted image 20240920121533.png"
   ]
 }

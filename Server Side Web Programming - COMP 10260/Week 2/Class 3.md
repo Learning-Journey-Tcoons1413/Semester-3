@@ -217,12 +217,16 @@ $name = filter_input(INPUT_POST, "name", FILTER_SANITIZE_SPECIAL_CHARS);
 - **How does FILTER_SANITIZE_SPECIAL_CHARS work?**
 	- The FILTER_SANITIZE_SPECIAL_CHARS filter replaces special characters with their corresponding HTML entities. This means it converts characters like <, >, ", ', and & into &lt;, &gt;, &quot;, &#039;, and &amp; respectively. By doing so, it prevents these characters from being interpreted as HTML or JavaScript when output to the browser, thereby reducing the risk of XSS attacks.
 
+- **Sanitization**: Focuses on cleaning up the input, making it safe but not necessarily valid. It changes the input by removing unwanted parts.  
+	- $email = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_EMAIL); 
+- **Validation**: Focuses on checking whether the input is correct, expected, or conforms to a set of rules without altering the data. 
+	- filter_var($email, FILTER_VALIDATE_EMAIL) 
 ###### ***Super Global Variables*
 - **$SERVER['PHP_SELF'] - is the current file's name. ([read more](https://www.w3schools.com/php/php_superglobals_server.asp))*  
 
-- **$POST[ ] - is an array of all of the variables recently POSTed from a form submission. ([read more](https://www.w3schools.com/php/php_superglobals_post.asp))*  
+- **$POST[ ] - is an associative array of all of the variables recently POSTed from a form submission. ([read more](https://www.w3schools.com/php/php_superglobals_post.asp))*  
   
-- **$GET[ ] - is an array of all of the variables recently GETed from a form submission. ([read more](https://www.w3schools.com/php/php_superglobals_get.asp))*
+- **$GET[ ] - is an associative array of all of the variables recently GETed from a form submission. ([read more](https://www.w3schools.com/php/php_superglobals_get.asp))*
 ###### Reading Variables from Forms
 1. **Get & Post**  
     _( This is NOT a good way to read in a NAME and AGE from an html form. )_  

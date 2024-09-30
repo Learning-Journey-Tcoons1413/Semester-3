@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/To Do.md",
+                "file": "Database Theory - COMP CO859/Week 4/Class 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/To Do.md",
+                "file": "Database Theory - COMP CO859/Week 4/Class 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/To Do.md",
+                "file": "Database Theory - COMP CO859/Week 4/Class 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/To Do.md"
+                "file": "Database Theory - COMP CO859/Week 4/Class 7.md"
               }
             }
           }
@@ -148,40 +148,25 @@
   },
   "active": "68633a76309af735",
   "lastOpenFiles": [
-    "Software Quality & Testing - COMP 10066/Week 4/Class 6.md",
-    "Software Quality & Testing - COMP 10066/To Do.md",
-    "Software Quality & Testing - COMP 10066/Week 3/Class 4.md",
-    "Software Quality & Testing - COMP 10066/Week 2/Class 2.md",
-    "Software Quality & Testing - COMP 10066/Week 1/Class 1.md",
-    "Server Side Web Programming - COMP 10260/To Do.md",
-    "Server Side Web Programming - COMP 10260/Week 4/Class 7.md",
-    "Server Side Web Programming - COMP 10260/Week 4/Class 6.md",
-    "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 2.md",
-    "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
-    "Programming in .NET - COMP 10204/To Do.md",
-    "Programming in .NET - COMP 10204/Week 4/Class 6.md",
-    "Programming in .NET - COMP 10204/Week 3/Class 4.md",
-    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
-    "Programming in .NET - COMP 10204/Week 1/Class 1.md",
-    "Programming in .NET - COMP 10204/Course Information.md",
-    "Programming in .NET - COMP 10204/Week 4/Class 7.md",
-    "Programming in .NET - COMP 10204/Week 3/Class 5.md",
-    "Programming in .NET - COMP 10204/Week 2/Class 3.md",
-    "Object Oriented Systems - COMP CO835/To Do.md",
-    "Object Oriented Systems - COMP CO835/Textbook.pdf",
-    "Object Oriented Systems - COMP CO835/Week 4/Week 4 Lecture Summary (1).pdf",
-    "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/Week 2/Week 2 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
-    "Object Oriented Systems - COMP CO835/Week 2/Class 3.md",
-    "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
-    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
-    "Object Oriented Systems - COMP CO835/Week 4/Class 6.md",
+    "Database Theory - COMP CO859/Week 4/Class 6.md",
+    "Database Theory - COMP CO859/Week 3/Class 5.md",
+    "Database Theory - COMP CO859/Week 3/Class 4.md",
+    "Database Theory - COMP CO859/Week 2/Class 3.md",
+    "Database Theory - COMP CO859/Week 2/Class 2.md",
+    "Database Theory - COMP CO859/Week 4/Class 7.md",
+    "Database Theory - COMP CO859/Week 5/Class 7.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Database Theory - COMP CO859/Week 1/Class 1.md",
+    "Server Side Web Programming - COMP 10260/Week 5/Class 8.md",
+    "Software Quality & Testing - COMP 10066/Week 5/Class 8.md",
     "Assets/Pasted image 20240930090543.png",
     "Assets/Pasted image 20240930091734.png",
+    "Server Side Web Programming - COMP 10260/Week 4/Class 7.md",
     "Server Side Web Programming - COMP 10260/Week 5",
+    "Software Quality & Testing - COMP 10066/Week 4/Class 6.md",
+    "Software Quality & Testing - COMP 10066/Week 4/Class 7.md",
     "Software Quality & Testing - COMP 10066/Week 5",
+    "Database Theory - COMP CO859/Labs/Lab4.md",
     "Assets/Pasted image 20240930080311.png",
     "Assets/Pasted image 20240930085748.png",
     "Assets/Pasted image 20240930083530.png",
@@ -190,9 +175,24 @@
     "Assets/Pasted image 20240930082522.png",
     "Assets/Pasted image 20240930082219.png",
     "Assets/Pasted image 20240930082217.png",
+    "Speculative Fiction - LITR 10000/To Do.md",
     "Database Theory - COMP CO859/Week 5",
+    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Server Side Web Programming - COMP 10260/To Do.md",
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Object Oriented Systems - COMP CO835/To Do.md",
     "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf",
     "Speculative Fiction - LITR 10000/Week 3/Slides Lecture HHorror 2.pdf",
-    "Speculative Fiction - LITR 10000/Week 2/Horror 1.pdf"
+    "Speculative Fiction - LITR 10000/Week 2/Horror 1.pdf",
+    "Speculative Fiction - LITR 10000/Week 1/Class 1.md",
+    "Programming in .NET - COMP 10204/Week 4/Class 6.md",
+    "Programming in .NET - COMP 10204/Week 4/Class 5.md",
+    "Object Oriented Systems - COMP CO835/Assignments/Assignment2-diagram.drawio.pdf",
+    "Speculative Fiction - LITR 10000/Week 4/Reading Summary.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 7/Class 7.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8/Class 8.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 7",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 6"
   ]
 }

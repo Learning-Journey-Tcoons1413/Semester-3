@@ -1,3 +1,5 @@
+This weeks classes were online
+
 Numbers,
 LINQ (Language Independent Query),
 Bubble Sort

@@ -20,5 +20,5 @@
 [[Speculative Fiction - LITR 10000/Week 4/Class 4|Week 4]]
 
 - [x] Read Announcements
-- [ ] Assignment 1 Due 
+- [x] Assignment 1 Due 
 

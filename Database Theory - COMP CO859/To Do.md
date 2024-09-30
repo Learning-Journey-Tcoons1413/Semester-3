@@ -10,14 +10,16 @@
 
 [[Database Theory - COMP CO859/Week 3/Class 4|Week 3]]
 
-- [x] Complete Lab2
+- [x] Complete Lab 2
 
-[[Database Theory - COMP CO859/Week 4/Class 5|Week 4]]
+[[Database Theory - COMP CO859/Week 4/Class 6|Week 4]]
+
+- [x] Complete Lab 3
+
+[[Database Theory - COMP CO859/Week 5/Class 8|Week 5]]
 
 - [ ] Download co859.sql [Link](https://mycanvas.mohawkcollege.ca/courses/107243/pages/student-resources)
-- [x] Review Lab3
-
-
+- [ ] Complete Lab 4
 
 
 

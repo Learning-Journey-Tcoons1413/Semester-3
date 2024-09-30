@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed83b7f175187a44",
+        "id": "786b27760926adab",
         "type": "tabs",
         "children": [
           {
-            "id": "9aac76c40f0b8ef7",
+            "id": "68633a76309af735",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8/Class 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8/Class 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8/Class 8.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,8 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bede1d7d730be6e9",
+  "active": "68633a76309af735",
   "lastOpenFiles": [
+    "Speculative Fiction - LITR 10000/Week 4/Horror 3 Slides -L Lovecraft F23.pdf",
+    "Speculative Fiction - LITR 10000/Week 3/Slides Lecture HHorror 2.pdf",
+    "Speculative Fiction - LITR 10000/Week 2/Horror 1.pdf",
+    "Speculative Fiction - LITR 10000/Week 1/Class 1.md",
+    "Programming in .NET - COMP 10204/Week 4/Class 6.md",
+    "Programming in .NET - COMP 10204/Week 4/Class 5.md",
+    "Object Oriented Systems - COMP CO835/Assignments/Assignment2-diagram.drawio.pdf",
+    "Speculative Fiction - LITR 10000/Week 4/Reading Summary.md",
+    "Speculative Fiction - LITR 10000/To Do.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 7/Class 7.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8/Class 8.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
@@ -164,9 +169,7 @@
     "Server Side Web Programming - COMP 10260/Week 1/Class 1.md",
     "Server Side Web Programming - COMP 10260/Week 3/Class 4.md",
     "Server Side Web Programming - COMP 10260/Week 3/Class 5.md",
-    "Programming in .NET - COMP 10204/Week 4/Class 5.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 4",
-    "Programming in .NET - COMP 10204/Week 4/Class 6.md",
     "Server Side Web Programming - COMP 10260/Week 4/Class 7.md",
     "Server Side Web Programming - COMP 10260/Assignments/Assignment 1.md",
     "Co-op Prep - PLAC CO-OP/Thomas-Coons-WHSA-Cert.png",
@@ -176,14 +179,7 @@
     "Assets/Pasted image 20240927132611.png",
     "Co-op Prep - PLAC CO-OP/Week 4",
     "Co-op Prep - PLAC CO-OP/Job Applications/Job Applications.md",
-    "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
-    "Server Side Web Programming - COMP 10260/Course Information.md",
     "Assets/Pasted image 20240927110303.png",
-    "Server Side Web Programming - COMP 10260/Week 3/Class 4-VOCBook15.md",
-    "Object Oriented Systems - COMP CO835/Labs/Lab4-Use-Case.drawio.pdf",
-    "Object Oriented Systems - COMP CO835/Labs/Lab2Diagram.pdf",
-    "Object Oriented Systems - COMP CO835/Quizzes/Quiz 1.md",
-    "Database Theory - COMP CO859/Labs/Lab 3.pdf",
     "Assets/Pasted image 20240923080136.png",
     "Assets/Pasted image 20240923080103.png",
     "Assets/Pasted image 20240922211704.png",

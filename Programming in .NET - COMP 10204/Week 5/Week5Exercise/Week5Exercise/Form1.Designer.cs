@@ -42,32 +42,37 @@
             // namesListBox
             // 
             this.namesListBox.FormattingEnabled = true;
-            this.namesListBox.Location = new System.Drawing.Point(75, 234);
+            this.namesListBox.ItemHeight = 16;
+            this.namesListBox.Location = new System.Drawing.Point(100, 288);
+            this.namesListBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.namesListBox.Name = "namesListBox";
-            this.namesListBox.Size = new System.Drawing.Size(275, 212);
+            this.namesListBox.Size = new System.Drawing.Size(365, 260);
             this.namesListBox.TabIndex = 0;
             // 
             // nameLabel
             // 
             this.nameLabel.AutoSize = true;
-            this.nameLabel.Location = new System.Drawing.Point(75, 155);
+            this.nameLabel.Location = new System.Drawing.Point(100, 191);
+            this.nameLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.nameLabel.Name = "nameLabel";
-            this.nameLabel.Size = new System.Drawing.Size(35, 13);
+            this.nameLabel.Size = new System.Drawing.Size(44, 16);
             this.nameLabel.TabIndex = 1;
             this.nameLabel.Text = "Name";
             // 
             // nameTextBox
             // 
-            this.nameTextBox.Location = new System.Drawing.Point(141, 148);
+            this.nameTextBox.Location = new System.Drawing.Point(188, 182);
+            this.nameTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.nameTextBox.Name = "nameTextBox";
-            this.nameTextBox.Size = new System.Drawing.Size(209, 20);
+            this.nameTextBox.Size = new System.Drawing.Size(277, 22);
             this.nameTextBox.TabIndex = 2;
             // 
             // addButton
             // 
-            this.addButton.Location = new System.Drawing.Point(439, 145);
+            this.addButton.Location = new System.Drawing.Point(585, 178);
+            this.addButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.addButton.Name = "addButton";
-            this.addButton.Size = new System.Drawing.Size(75, 23);
+            this.addButton.Size = new System.Drawing.Size(100, 28);
             this.addButton.TabIndex = 3;
             this.addButton.Text = "Add";
             this.addButton.UseVisualStyleBackColor = true;
@@ -75,9 +80,10 @@
             // 
             // deleteButton
             // 
-            this.deleteButton.Location = new System.Drawing.Point(439, 234);
+            this.deleteButton.Location = new System.Drawing.Point(585, 288);
+            this.deleteButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.deleteButton.Name = "deleteButton";
-            this.deleteButton.Size = new System.Drawing.Size(75, 23);
+            this.deleteButton.Size = new System.Drawing.Size(100, 28);
             this.deleteButton.TabIndex = 4;
             this.deleteButton.Text = "Delete";
             this.deleteButton.UseVisualStyleBackColor = true;
@@ -85,9 +91,10 @@
             // 
             // moveUpButton
             // 
-            this.moveUpButton.Location = new System.Drawing.Point(439, 294);
+            this.moveUpButton.Location = new System.Drawing.Point(585, 362);
+            this.moveUpButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.moveUpButton.Name = "moveUpButton";
-            this.moveUpButton.Size = new System.Drawing.Size(75, 23);
+            this.moveUpButton.Size = new System.Drawing.Size(100, 28);
             this.moveUpButton.TabIndex = 5;
             this.moveUpButton.Text = "Move Up";
             this.moveUpButton.UseVisualStyleBackColor = true;
@@ -95,9 +102,10 @@
             // 
             // moveDownButton
             // 
-            this.moveDownButton.Location = new System.Drawing.Point(439, 356);
+            this.moveDownButton.Location = new System.Drawing.Point(585, 438);
+            this.moveDownButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.moveDownButton.Name = "moveDownButton";
-            this.moveDownButton.Size = new System.Drawing.Size(75, 23);
+            this.moveDownButton.Size = new System.Drawing.Size(100, 28);
             this.moveDownButton.TabIndex = 6;
             this.moveDownButton.Text = "Move Down";
             this.moveDownButton.UseVisualStyleBackColor = true;
@@ -105,9 +113,10 @@
             // 
             // clearButton
             // 
-            this.clearButton.Location = new System.Drawing.Point(439, 423);
+            this.clearButton.Location = new System.Drawing.Point(585, 521);
+            this.clearButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.clearButton.Name = "clearButton";
-            this.clearButton.Size = new System.Drawing.Size(75, 23);
+            this.clearButton.Size = new System.Drawing.Size(100, 28);
             this.clearButton.TabIndex = 7;
             this.clearButton.Text = "Clear";
             this.clearButton.UseVisualStyleBackColor = true;
@@ -117,17 +126,18 @@
             // 
             this.statusLabel.AutoSize = true;
             this.statusLabel.ForeColor = System.Drawing.Color.Green;
-            this.statusLabel.Location = new System.Drawing.Point(75, 466);
+            this.statusLabel.Location = new System.Drawing.Point(100, 574);
+            this.statusLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.statusLabel.Name = "statusLabel";
-            this.statusLabel.Size = new System.Drawing.Size(22, 13);
+            this.statusLabel.Size = new System.Drawing.Size(25, 16);
             this.statusLabel.TabIndex = 8;
             this.statusLabel.Text = "OK";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(562, 564);
+            this.ClientSize = new System.Drawing.Size(749, 694);
             this.Controls.Add(this.statusLabel);
             this.Controls.Add(this.clearButton);
             this.Controls.Add(this.moveDownButton);
@@ -137,8 +147,9 @@
             this.Controls.Add(this.nameTextBox);
             this.Controls.Add(this.nameLabel);
             this.Controls.Add(this.namesListBox);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = " ";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 5/Class 8.md",
+                "file": "Server Side Web Programming - COMP 10260/Week 5/Class 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 5/Class 8.md",
+                "file": "Server Side Web Programming - COMP 10260/Week 5/Class 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 5/Class 8.md",
+                "file": "Server Side Web Programming - COMP 10260/Week 5/Class 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 5/Class 8.md"
+                "file": "Server Side Web Programming - COMP 10260/Week 5/Class 8.md"
               }
             }
           }
@@ -148,32 +148,18 @@
   },
   "active": "68633a76309af735",
   "lastOpenFiles": [
-    "Programming in .NET - COMP 10204/Course Information.md",
-    "Programming in .NET - COMP 10204/Week 5/Class 8.md",
-    "Object Oriented Systems - COMP CO835/Week 5/Class 7.md",
-    "Object Oriented Systems - COMP CO835/Course Information.md",
-    "Object Oriented Systems - COMP CO835/Week 2/Week 2 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
-    "Server Side Web Programming - COMP 10260/Week 5/Class 8.md",
-    "Object Oriented Systems - COMP CO835/Week 5/Week 5 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/Week 5/mso4290.tmp",
-    "Object Oriented Systems - COMP CO835/Week 5/mso295A.tmp",
-    "Object Oriented Systems - COMP CO835/Week 3/Class 4.md",
-    "Object Oriented Systems - COMP CO835/Week 4/Class 6.md",
-    "Object Oriented Systems - COMP CO835/Week 4/Class 5.md",
-    "Object Oriented Systems - COMP CO835/Week 5",
-    "Software Quality & Testing - COMP 10066/Week 5/Class 9.md",
-    "Programming in .NET - COMP 10204/Week 4/Class 6.md",
+    "Programming in .NET - COMP 10204/csharppractise/RandomExercise/RandomExercise/obj/Debug/TempPE",
+    "Programming in .NET - COMP 10204/csharppractise/RandomExercise/RandomExercise/obj/Debug/RandomExercise.pdb",
+    "Programming in .NET - COMP 10204/csharppractise/RandomExercise/RandomExercise/obj/Debug/RandomExercise.exe",
+    "Programming in .NET - COMP 10204/csharppractise/RandomExercise/RandomExercise/obj/Debug/RandomExercise.csproj.FileListAbsolute.txt",
+    "Programming in .NET - COMP 10204/csharppractise/RandomExercise/RandomExercise/obj/Debug/RandomExercise.csproj.CoreCompileInputs.cache",
+    "Programming in .NET - COMP 10204/csharppractise/RandomExercise/RandomExercise/obj/Debug/RandomExercise.csproj.AssemblyReference.cache",
+    "Programming in .NET - COMP 10204/csharppractise/RandomExercise/RandomExercise/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache",
+    "Programming in .NET - COMP 10204/csharppractise/RandomExercise/RandomExercise/bin/Debug/RandomExercise.pdb",
+    "Programming in .NET - COMP 10204/csharppractise/RandomExercise/RandomExercise/bin/Debug/RandomExercise.exe.config",
+    "Programming in .NET - COMP 10204/csharppractise/RandomExercise/RandomExercise/bin/Debug/RandomExercise.exe",
+    "Programming in .NET - COMP 10204/csharppractise/RandomExercise/RandomExercise/Properties/AssemblyInfo.cs",
     "Programming in .NET - COMP 10204/Week 4/Class 7.md",
-    "Software Quality & Testing - COMP 10066/To Do.md",
-    "Software Quality & Testing - COMP 10066/Week 5/Class 8.md",
-    "Software Quality & Testing - COMP 10066/Week 4/Class 7.md",
-    "Co-op Prep - PLAC CO-OP/Job Applications/Job Applications.md",
-    "Co-op Prep - PLAC CO-OP/Cover Letter/Cover Letter - CIBC.pdf",
-    "Co-op Prep - PLAC CO-OP/Cover Letter/mso258.tmp",
-    "Programming in .NET - COMP 10204/Week 5/Week5Exercise/Week5Exercise/obj/Debug/Week5Exercise.csproj.GenerateResource.cache",
-    "Programming in .NET - COMP 10204/Week 5/Week5Exercise/Week5Exercise/obj/Debug/Week5Exercise.Form1.resources",
-    "Programming in .NET - COMP 10204/Week 5/Week5Exercise/Week5Exercise/obj/Debug/Week5Exercise.csproj.FileListAbsolute.txt",
     "Programming in .NET - COMP 10204/Week 3/Class 5.md",
     "Database Theory - COMP CO859/Week 5/Class 8.md",
     "Database Theory - COMP CO859/Week 4/Class 6.md",
@@ -182,7 +168,10 @@
     "Assets/Pasted image 20240930090543.png",
     "Assets/Pasted image 20240930091734.png",
     "Server Side Web Programming - COMP 10260/Week 4/Class 7.md",
+    "Server Side Web Programming - COMP 10260/Week 5/Class 8.md",
+    "Software Quality & Testing - COMP 10066/Week 5/Class 8.md",
     "Software Quality & Testing - COMP 10066/Week 4/Class 6.md",
+    "Software Quality & Testing - COMP 10066/Week 4/Class 7.md",
     "Database Theory - COMP CO859/Week 5/Class 7.md",
     "Pasted image 20240930091734.png",
     "Database Theory - COMP CO859/Labs/Lab4.md",
@@ -193,6 +182,17 @@
     "Assets/Pasted image 20240930082903.png",
     "Assets/Pasted image 20240930082735.png",
     "Assets/Pasted image 20240930082522.png",
-    "Database Theory - COMP CO859/To Do.md"
+    "Database Theory - COMP CO859/To Do.md",
+    "Database Theory - COMP CO859/Week 4/Class 5.md",
+    "Speculative Fiction - LITR 10000/To Do.md",
+    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Server Side Web Programming - COMP 10260/To Do.md",
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Object Oriented Systems - COMP CO835/To Do.md",
+    "Speculative Fiction - LITR 10000/Week 1/Class 1.md",
+    "Programming in .NET - COMP 10204/Week 4/Class 6.md",
+    "Programming in .NET - COMP 10204/Week 4/Class 5.md",
+    "Speculative Fiction - LITR 10000/Week 4/Reading Summary.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 7/Class 7.md"
   ]
 }

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{40E42247-1CF9-441E-B0AB-558B853ABEE4}|Week5Exercise\\Week5Exercise.csproj|solutionrelative:week5exercise\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40E42247-1CF9-441E-B0AB-558B853ABEE4}|Week5Exercise\\Week5Exercise.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\week 5\\week5exercise\\week5exercise\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40E42247-1CF9-441E-B0AB-558B853ABEE4}|Week5Exercise\\Week5Exercise.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\Week5Exercise\\week5exercise\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40E42247-1CF9-441E-B0AB-558B853ABEE4}|Week5Exercise\\Week5Exercise.csproj|solutionrelative:week5exercise\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Week5Exercise\\Form1.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAtwEwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T21:14:38.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T21:14:38.221Z"
             }
           ]
         }

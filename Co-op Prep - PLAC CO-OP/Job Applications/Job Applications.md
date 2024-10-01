@@ -23,6 +23,9 @@
 [MesoMat](https://mesomat.com/careers/)
 - Sent application via email
 
+[CIBC](https://cibc.wd3.myworkdayjobs.com/en-US/campus/userHome)
+- Applied via LinkedIn
+- Application/Software Developer Co-op - [Link](https://www.linkedin.com/jobs/view/4032366548/?alternateChannel=search&refId=YwoiJ39QThZ5dJmxow9SsA%3D%3D&trackingId=0uQ2jvWPjDXDewF1jV7DgQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_jobs_discovery_jymbii%3BlIJ3qfPCQKyDDUZZduHeZQ%3D%3D)
 
 
 

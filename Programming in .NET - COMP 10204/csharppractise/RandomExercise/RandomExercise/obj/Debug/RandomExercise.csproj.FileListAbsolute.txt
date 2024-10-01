@@ -1,0 +1,7 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\RandomExercise\RandomExercise\bin\Debug\RandomExercise.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\RandomExercise\RandomExercise\bin\Debug\RandomExercise.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\RandomExercise\RandomExercise\bin\Debug\RandomExercise.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\RandomExercise\RandomExercise\obj\Debug\RandomExercise.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\RandomExercise\RandomExercise\obj\Debug\RandomExercise.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\RandomExercise\RandomExercise\obj\Debug\RandomExercise.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\RandomExercise\RandomExercise\obj\Debug\RandomExercise.pdb

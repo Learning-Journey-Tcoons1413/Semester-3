@@ -1,0 +1,7 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\Week5Practise\Week5Practise\bin\Debug\Week5Practise.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\Week5Practise\Week5Practise\bin\Debug\Week5Practise.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\Week5Practise\Week5Practise\bin\Debug\Week5Practise.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\Week5Practise\Week5Practise\obj\Debug\Week5Practise.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\Week5Practise\Week5Practise\obj\Debug\Week5Practise.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\Week5Practise\Week5Practise\obj\Debug\Week5Practise.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\Week5Practise\Week5Practise\obj\Debug\Week5Practise.pdb

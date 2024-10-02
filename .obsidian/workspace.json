@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "786b27760926adab",
+        "id": "ee5d281f66cce808",
         "type": "tabs",
         "children": [
           {
-            "id": "68633a76309af735",
+            "id": "2a5587cc33f78a46",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,22 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68633a76309af735",
+  "active": "2a5587cc33f78a46",
   "lastOpenFiles": [
-    "Programming in .NET - COMP 10204/Course Information.md",
-    "Programming in .NET - COMP 10204/Week 5/Class 8.md",
     "Object Oriented Systems - COMP CO835/Week 5/Class 7.md",
+    "Object Oriented Systems - COMP CO835/Week 5/Week 5 Lecture Summary.pdf",
+    "Pasted image 20241001174352.png",
+    "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm_start/W05_PayRollForm/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll",
+    "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm_start/W05_PayRollForm/obj/Debug/PayRollForm.csproj.AssemblyReference.cache",
+    "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm_start/W05_PayRollForm/Properties/Settings.settings",
+    "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm_start/W05_PayRollForm/Properties/Settings.Designer.cs",
+    "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm_start/W05_PayRollForm/Properties/Resources.resx",
+    "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm_start/W05_PayRollForm/Properties/Resources.Designer.cs",
+    "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm_start/W05_PayRollForm/Properties/AssemblyInfo.cs",
+    "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm_start/W05_PayRollForm/Properties",
+    "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm_start/W05_PayRollForm/obj/Debug/TempPE",
+    "Assets/Pasted image 20241001171821.png",
+    "Programming in .NET - COMP 10204/Week 5/Class 8.md",
+    "Programming in .NET - COMP 10204/Course Information.md",
     "Object Oriented Systems - COMP CO835/Course Information.md",
-    "Object Oriented Systems - COMP CO835/Week 2/Week 2 Lecture Summary.pdf",
     "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
     "Server Side Web Programming - COMP 10260/Week 5/Class 8.md",
-    "Object Oriented Systems - COMP CO835/Week 5/Week 5 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/Week 5/mso4290.tmp",
-    "Object Oriented Systems - COMP CO835/Week 5/mso295A.tmp",
     "Object Oriented Systems - COMP CO835/Week 3/Class 4.md",
     "Object Oriented Systems - COMP CO835/Week 4/Class 6.md",
     "Object Oriented Systems - COMP CO835/Week 4/Class 5.md",
-    "Object Oriented Systems - COMP CO835/Week 5",
     "Software Quality & Testing - COMP 10066/Week 5/Class 9.md",
     "Programming in .NET - COMP 10204/Week 4/Class 6.md",
     "Programming in .NET - COMP 10204/Week 4/Class 7.md",
@@ -169,11 +176,6 @@
     "Software Quality & Testing - COMP 10066/Week 5/Class 8.md",
     "Software Quality & Testing - COMP 10066/Week 4/Class 7.md",
     "Co-op Prep - PLAC CO-OP/Job Applications/Job Applications.md",
-    "Co-op Prep - PLAC CO-OP/Cover Letter/Cover Letter - CIBC.pdf",
-    "Co-op Prep - PLAC CO-OP/Cover Letter/mso258.tmp",
-    "Programming in .NET - COMP 10204/Week 5/Week5Exercise/Week5Exercise/obj/Debug/Week5Exercise.csproj.GenerateResource.cache",
-    "Programming in .NET - COMP 10204/Week 5/Week5Exercise/Week5Exercise/obj/Debug/Week5Exercise.Form1.resources",
-    "Programming in .NET - COMP 10204/Week 5/Week5Exercise/Week5Exercise/obj/Debug/Week5Exercise.csproj.FileListAbsolute.txt",
     "Programming in .NET - COMP 10204/Week 3/Class 5.md",
     "Database Theory - COMP CO859/Week 5/Class 8.md",
     "Database Theory - COMP CO859/Week 4/Class 6.md",
@@ -190,9 +192,6 @@
     "Assets/Pasted image 20240930080311.png",
     "Assets/Pasted image 20240930085748.png",
     "Assets/Pasted image 20240930083530.png",
-    "Assets/Pasted image 20240930082903.png",
-    "Assets/Pasted image 20240930082735.png",
-    "Assets/Pasted image 20240930082522.png",
-    "Database Theory - COMP CO859/To Do.md"
+    "Assets/Pasted image 20240930082903.png"
   ]
 }

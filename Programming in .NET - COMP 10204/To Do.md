@@ -30,5 +30,9 @@
 [[Programming in .NET - COMP 10204/Week 4/Class 6|Week 4]]
 
 - [x] Watch Mark Yendt Week 4 [Video](https://mycanvas.mohawkcollege.ca/courses/107650/pages/w04-exercise?module_item_id=5684097)
-- [ ] Review code uploaded at the end of the week 4
 
+[[Programming in .NET - COMP 10204/Week 5/Class 8|Week 5]]
+
+- [ ] Review code uploaded at the end of the week 4
+- [ ] Review code uploaded at the end of the week 5
+- [ ] Ask about code snippet for saving and reading files for week 5 in class exercise 

@@ -1,4 +1,3 @@
-```sql
 /*******************************************************
 I, Thomas Coons, student number 000317961, certify that this material is my original work. 
 No other person's work has been used without due acknowledgment and I have not made my work available to anyone else.
@@ -100,4 +99,3 @@ PRINT 'Verification';
 SELECT table_name, actual, expected, expected - actual discrepancy FROM verify;
 DROP TABLE verify;
 GO
-```

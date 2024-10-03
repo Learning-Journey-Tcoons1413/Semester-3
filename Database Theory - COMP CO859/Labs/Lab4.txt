@@ -50,7 +50,7 @@ GO
 
 -- Insert plumbing_services records
 INSERT INTO plumbing_services VALUES(100, 'Laying Pipe', 'I', 100, 900);
-INSERT INTO plumbing_services VALUES(200, 'Uncloggin/Drainage', 'R', 50, 200);
+INSERT INTO plumbing_services VALUES(200, 'Unclogging - Drainage', 'R', 50, 200);
 INSERT INTO plumbing_services VALUES(300, 'Bathroom Install', 'I', 150, 950);
 INSERT INTO plumbing_services VALUES(400, 'Emergency Service', 'E', 350, 400);
 INSERT INTO plumbing_services VALUES(500, 'Gas Service', 'I', 200, 1200);

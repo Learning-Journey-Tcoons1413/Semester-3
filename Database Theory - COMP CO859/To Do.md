@@ -19,7 +19,7 @@
 [[Database Theory - COMP CO859/Week 5/Class 8|Week 5]]
 
 - [ ] Download co859.sql [Link](https://mycanvas.mohawkcollege.ca/courses/107243/pages/student-resources)
-- [ ] Complete Lab 4
+- [ ] Submit Lab 4
 
 
 

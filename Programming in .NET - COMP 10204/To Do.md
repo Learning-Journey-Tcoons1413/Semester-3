@@ -3,12 +3,12 @@
 | **Lab Assignments**                                                                                                          | **Due Date**   | **Complete** |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------ |
 | [Lab Assignment 1](https://mycanvas.mohawkcollege.ca/courses/107650/pages/lab-assignment-1-fall-2024?module_item_id=5684075) | September 25th | ✅            |
-|                                                                                                                              |                |              |
-|                                                                                                                              |                |              |
-|                                                                                                                              |                |              |
-|                                                                                                                              |                |              |
-|                                                                                                                              |                |              |
-|                                                                                                                              |                |              |
+| [Lab Assignment 2](https://mycanvas.mohawkcollege.ca/courses/107650/assignments/960144)                                      | October 11th   | ☐<br>        |
+|                                                                                                                              |                | ☐<br>        |
+|                                                                                                                              |                | ☐<br>        |
+|                                                                                                                              |                | ☐<br>        |
+|                                                                                                                              |                | ☐<br>        |
+|                                                                                                                              |                | ☐<br>        |
 
 ###### [[Programming in .NET - COMP 10204/Week 1/Class 1|Week 1]]
 
@@ -36,3 +36,5 @@
 - [ ] Review code uploaded at the end of the week 4
 - [ ] Review code uploaded at the end of the week 5
 - [ ] Ask about code snippet for saving and reading files for week 5 in class exercise 
+- [ ] Start [Lab Assignment 2](https://mycanvas.mohawkcollege.ca/courses/107650/assignments/960144)
+

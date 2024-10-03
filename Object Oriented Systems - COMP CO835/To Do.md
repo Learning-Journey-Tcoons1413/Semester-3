@@ -20,7 +20,9 @@
 - [x] [Assignment 2](https://mycanvas.mohawkcollege.ca/courses/106931/assignments/970961) Due - Friday by 11:59p.m.
 - [x] [Quiz 4](https://mycanvas.mohawkcollege.ca/courses/106931/quizzes/438046) Due - Friday by 11:59pm
 
+[[Object Oriented Systems - COMP CO835/Week 5/Class 7|Week 5]]
 
+- [ ] Complete Quiz 5
 
 
 

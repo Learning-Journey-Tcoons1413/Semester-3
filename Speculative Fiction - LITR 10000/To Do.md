@@ -22,3 +22,6 @@
 - [x] Read Announcements
 - [x] Assignment 1 Due 
 
+[[Speculative Fiction - LITR 10000/Week 5/Class 5|Week 5]]
+
+- [ ] Download Week 5 PowerPoint

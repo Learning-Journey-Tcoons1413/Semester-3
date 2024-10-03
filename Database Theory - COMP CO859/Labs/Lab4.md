@@ -57,8 +57,8 @@ INSERT INTO plumbing_services VALUES(400, 'Emergency Service', 'E', 350, 400);
 INSERT INTO plumbing_services VALUES(500, 'Gas Service', 'I', 200, 1200);
 
 -- Insert sales records
-INSERT INTO sales VALUES(1, '2024-08-01', 300, 100);    -- Month and day don't have to be 2 digits
-INSERT INTO sales VALUES(2, '2024-08-02', 100, 200); -- But they typically are
+INSERT INTO sales VALUES(1, '2024-08-01', 300, 100);
+INSERT INTO sales VALUES(2, '2024-08-02', 100, 200);
 INSERT INTO sales VALUES(3, '2024-08-03', 50, 200);
 INSERT INTO sales VALUES(4, '2024-08-04', 500, 100);
 INSERT INTO sales VALUES(5, '2024-08-05', 100, 400);

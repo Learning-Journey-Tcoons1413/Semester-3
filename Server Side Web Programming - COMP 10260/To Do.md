@@ -21,3 +21,5 @@
 [[Server Side Web Programming - COMP 10260/Week 5/Class 8|Week 5]]
 
 - [ ] Submit Assignment 1
+- [ ] Flash Cards
+

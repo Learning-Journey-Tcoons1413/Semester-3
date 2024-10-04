@@ -17,5 +17,5 @@
 
 [[Software Quality & Testing - COMP 10066/Week 5/Class 8|Week 5]]
 
-- [ ] Nothing for now
+- [x] Nothing for now
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/To Do.md",
+                "file": "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fopen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/To Do.md",
+                "file": "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/To Do.md",
+                "file": "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/To Do.md"
+                "file": "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md"
               }
             }
           }
@@ -148,6 +148,17 @@
   },
   "active": "708f4009aa6ef714",
   "lastOpenFiles": [
+    "Object Oriented Systems - COMP CO835/To Do.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Programming in .NET - COMP 10204/Week 2/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 5/Class 5.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 6/Class 6.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 7/Class 7.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8/Class 8.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 9/Class 9.md",
+    "Server Side Web Programming - COMP 10260/Week 5/Class 9.md",
+    "Server Side Web Programming - COMP 10260/Week 5/Class 8.md",
     "Speculative Fiction - LITR 10000/Week 5/Horror 4, After Lovecraft.pdf",
     "Speculative Fiction - LITR 10000/Week 5/Class 5.md",
     "Speculative Fiction - LITR 10000/To Do.md",
@@ -155,34 +166,24 @@
     "Software Quality & Testing - COMP 10066/To Do.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
     "Programming in .NET - COMP 10204/To Do.md",
-    "Database Theory - COMP CO859/To Do.md",
-    "Object Oriented Systems - COMP CO835/To Do.md",
     "Object Oriented Systems - COMP CO835/Course Information.md",
     "Object Oriented Systems - COMP CO835/Week 5/Class 7.md",
     "Object Oriented Systems - COMP CO835/Week 5/Class 8.md",
     "Database Theory - COMP CO859/Week 5/Class 9.md",
     "Database Theory - COMP CO859/Week 5/Class 8.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 9/Class 9.md",
     "Database Theory - COMP CO859/Labs/Lab4.md",
     "Database Theory - COMP CO859/Labs/Lab2.md",
     "Database Theory - COMP CO859/Labs/Lab1.md",
     "Database Theory - COMP CO859/Labs/Lab 3.pdf",
     "Database Theory - COMP CO859/Labs/Lab3.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 5/Class 5.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 6/Class 6.md",
     "README.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 9",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Untitled.md",
     "Object Oriented Systems - COMP CO835/Labs/Lab2Diagram.pdf",
     "Object Oriented Systems - COMP CO835/Labs/Lab4-Use-Case.drawio.pdf",
-    "Programming in .NET - COMP 10204/Week 5/Class 9.md",
-    "Server Side Web Programming - COMP 10260/Week 5/Class 8.md",
-    "Server Side Web Programming - COMP 10260/Week 5/Class 9.md",
     "Object Oriented Systems - COMP CO835/Week 5/Week 5 Lecture Summary.pdf",
     "Object Oriented Systems - COMP CO835/Labs/~$Lab5.tmp",
     "Object Oriented Systems - COMP CO835/Labs/Lab5.docx",
     "Object Oriented Systems - COMP CO835/Labs/New Microsoft Word Document.docx",
-    "Programming in .NET - COMP 10204/Week 5/Class 8.md",
     "Pasted image 20241001174352.png",
     "Assets/Pasted image 20241001171821.png",
     "Assets/Pasted image 20240930090543.png",

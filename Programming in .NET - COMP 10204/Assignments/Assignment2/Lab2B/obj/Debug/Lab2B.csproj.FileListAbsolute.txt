@@ -1,0 +1,10 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2B\bin\Debug\Lab2B.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2B\bin\Debug\Lab2B.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2B\bin\Debug\Lab2B.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2B\obj\Debug\Lab2B.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2B\obj\Debug\Lab2B.Properties.Resources.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2B\obj\Debug\Lab2B.csproj.GenerateResource.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2B\obj\Debug\Lab2B.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2B\obj\Debug\Lab2B.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2B\obj\Debug\Lab2B.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2B\obj\Debug\Lab2B.Form1.resources

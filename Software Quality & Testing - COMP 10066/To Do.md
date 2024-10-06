@@ -19,3 +19,9 @@
 
 - [x] Nothing for now
 
+[Week 6]
+
+- [ ] Ask about Lab 4
+- [ ] Review all labs for midterm
+- [ ] Review hand outs if you can find them 
+

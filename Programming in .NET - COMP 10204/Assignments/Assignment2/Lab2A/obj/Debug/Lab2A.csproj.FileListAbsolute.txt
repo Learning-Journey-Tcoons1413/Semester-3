@@ -1,0 +1,7 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2A\bin\Debug\Lab2A.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2A\bin\Debug\Lab2A.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2A\bin\Debug\Lab2A.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2A\obj\Debug\Lab2A.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2A\obj\Debug\Lab2A.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2A\obj\Debug\Lab2A.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment2\Lab2A\obj\Debug\Lab2A.pdb

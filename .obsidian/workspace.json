@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29380ec67ad0c5fd",
+        "id": "2f8d9e26f15c1ad7",
         "type": "tabs",
         "children": [
           {
-            "id": "708f4009aa6ef714",
+            "id": "48b2edc143e8171e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
+                "file": "Programming in .NET - COMP 10204/Personal Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
+                "file": "Programming in .NET - COMP 10204/Personal Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
+                "file": "Programming in .NET - COMP 10204/Personal Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md"
+                "file": "Programming in .NET - COMP 10204/Personal Learning.md"
               }
             }
           }
@@ -146,37 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "708f4009aa6ef714",
+  "active": "48b2edc143e8171e",
   "lastOpenFiles": [
-    "Object Oriented Systems - COMP CO835/To Do.md",
-    "Database Theory - COMP CO859/To Do.md",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
+    "Programming in .NET - COMP 10204/Personal Learning.md",
     "Programming in .NET - COMP 10204/Week 2/Class 3.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 5/Class 5.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 6/Class 6.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 7/Class 7.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 8/Class 8.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 9/Class 9.md",
-    "Server Side Web Programming - COMP 10260/Week 5/Class 9.md",
-    "Server Side Web Programming - COMP 10260/Week 5/Class 8.md",
-    "Speculative Fiction - LITR 10000/Week 5/Horror 4, After Lovecraft.pdf",
-    "Speculative Fiction - LITR 10000/Week 5/Class 5.md",
-    "Speculative Fiction - LITR 10000/To Do.md",
-    "Speculative Fiction - LITR 10000/Week 5/mso7ACB.tmp",
+    "Programming in .NET - COMP 10204/Week 3/Class 5.md",
+    "Programming in .NET - COMP 10204/Week 3/Class 4.md",
+    "Programming in .NET - COMP 10204/Week 4/Class 7.md",
+    "Programming in .NET - COMP 10204/Week 4/Class 6.md",
+    "Programming in .NET - COMP 10204/Week 5/Class 8.md",
     "Software Quality & Testing - COMP 10066/To Do.md",
-    "Server Side Web Programming - COMP 10260/To Do.md",
-    "Programming in .NET - COMP 10204/To Do.md",
-    "Object Oriented Systems - COMP CO835/Course Information.md",
-    "Object Oriented Systems - COMP CO835/Week 5/Class 7.md",
-    "Object Oriented Systems - COMP CO835/Week 5/Class 8.md",
     "Database Theory - COMP CO859/Week 5/Class 9.md",
     "Database Theory - COMP CO859/Week 5/Class 8.md",
+    "Database Theory - COMP CO859/Week 4/Class 6.md",
+    "Database Theory - COMP CO859/Week 4/Class 7.md",
+    "Database Theory - COMP CO859/Week 3/Class 5.md",
+    "Database Theory - COMP CO859/Week 3/Class 4.md",
+    "Database Theory - COMP CO859/Week 2/Class 2.md",
+    "Database Theory - COMP CO859/Week 2/Class 3.md",
+    "Software Quality & Testing - COMP 10066/Week 5/Class 9.md",
     "Database Theory - COMP CO859/Labs/Lab4.md",
-    "Database Theory - COMP CO859/Labs/Lab2.md",
-    "Database Theory - COMP CO859/Labs/Lab1.md",
+    "Git Commands-Instructions/Git.md",
+    "Git Commands-Instructions/Deployment.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Co-op Prep - PLAC CO-OP/Week 1/Class 1.md",
+    "Object Oriented Systems - COMP CO835/To Do.md",
+    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 5/Class 5.md",
+    "Speculative Fiction - LITR 10000/Week 5/Horror 4, After Lovecraft.pdf",
+    "Speculative Fiction - LITR 10000/Week 5/mso7ACB.tmp",
     "Database Theory - COMP CO859/Labs/Lab 3.pdf",
-    "Database Theory - COMP CO859/Labs/Lab3.md",
-    "README.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 9",
     "Object Oriented Systems - COMP CO835/Labs/Lab2Diagram.pdf",
     "Object Oriented Systems - COMP CO835/Labs/Lab4-Use-Case.drawio.pdf",

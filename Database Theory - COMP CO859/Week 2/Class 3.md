@@ -17,7 +17,7 @@
 	- An attribute that could be used a a primary key 
 - **Primary key**
 	- Cannot be NULL
-	- Meaningless but unique number MBUN
+	- Meaningless but unique number `MBUN`
 	- Start at 1 and increment 
 	- 2,147,483,647 possible values for int
 	- 9,223,372,036,854,775,807 possible values for big int

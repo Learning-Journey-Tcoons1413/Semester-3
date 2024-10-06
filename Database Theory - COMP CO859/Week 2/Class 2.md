@@ -74,7 +74,7 @@
 - SQL ignores white space
 
 ###### **SQL Basic Select Statement**
-- * means everything from patients
+- `*`means everything from patients
 - Keywords should be capitalized
 
 ```sql

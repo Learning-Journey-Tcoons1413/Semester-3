@@ -11,7 +11,7 @@ Subqueries,
 	- Index (created automatically)  
 	- Relationships
 ###### **Indexes**
-- A separate structure pointing   to the table
+- A separate structure pointing  to the table
 - Multiple indices allowed on on table
 - Consists of one or more columns
 - **Advantages**

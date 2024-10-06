@@ -21,6 +21,6 @@ namespace Lab2A
             return 0;
         }
 
-        public override string ToString() => $"{Math.Round(CalculateArea(),2),-20}{"Not Applicable",-20}";
+        public override string ToString() => $"{Math.Round(CalculateArea(),2),-20}{"N/A",-20}";
     }
 }

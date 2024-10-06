@@ -24,7 +24,7 @@ namespace Lab2A
             Console.Write("Enter semi-minor axis: ");
             Radius2 = double.Parse(Console.ReadLine());
         }
-        public override string ToString() => $"{"Ellipse",-20}{Math.Round(CalculateArea(),2),-20}{"Not Applicable",-20}R1:{Radius1} R2:{Radius2}";
+        public override string ToString() => $"{"Ellipse",-20}{Math.Round(CalculateArea(),2),-20}{"N/A",-20}R1:{Radius1} R2:{Radius2}";
 
     }
 }

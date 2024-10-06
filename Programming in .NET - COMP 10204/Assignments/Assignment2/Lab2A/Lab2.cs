@@ -17,11 +17,11 @@ namespace Lab2A
             {
                 
                 PrintMenu();
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.Write("Enter choice: ");
                 userInput =  Console.ReadLine().ToUpper();
                 
                 Console.Clear();
-                
                 switch (userInput)
                 {
                     case "1":
@@ -86,30 +86,37 @@ namespace Lab2A
                 Console.Clear();
                 
             }
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine($"{"SHAPE",-20}{"AREA",-20}{"VOLUME",-20}{"DETAILS",-20}");
             Console.WriteLine($"{"=====",-20}{"====",-20}{"======",-20}{"=======",-20}");
             Console.WriteLine();
+            Console.ForegroundColor = ConsoleColor.Green;
             foreach (var shape in shapes)
             {
                 Console.WriteLine(shape);
             }
+            Console.WriteLine();
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Total Shape Count: " + Shape.GetCount());
+            Console.WriteLine();
+            Console.ForegroundColor = ConsoleColor.White;
         }
 
         public static void PrintMenu()
         {
-            Console.WriteLine("1. Triangle");
-            Console.WriteLine("2. Square");
-            Console.WriteLine("3. Rectangle");
-            Console.WriteLine("4. Circle");
-            Console.WriteLine("5. Ellipse");
-            Console.WriteLine("6. Box");
-            Console.WriteLine("7. Cube");
-            Console.WriteLine("8. Sphere");
-            Console.WriteLine("9: Cylinder");
-            Console.WriteLine("10: Tetrahedron");
-            Console.WriteLine("E. Exit");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Author: Thomas Coons | Student ID: 000317961");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine();
+            Console.WriteLine($"{"1.Triangle",-15}{"2. Square",-15}{"3. Rectangle",-15}");
+            Console.WriteLine($"{"4.Circle",-15}{"5. Ellipse",-15}{"6. Box",-15}");
+            Console.WriteLine($"{"7.Cube",-15}{"8. Sphere",-15}{"9. Cylinder",-15}");
+            Console.WriteLine($"{"10.Tetrahedron",-15}{"E. Exit and Display Shapes",-15}");
+            Console.WriteLine();
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Current Shape Count: " + Shape.GetCount());
+            Console.WriteLine();
+            Console.ForegroundColor = ConsoleColor.Green;
         }
     }
 }

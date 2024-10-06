@@ -118,3 +118,36 @@ FileAccess access = FileAccess.Read | FileAccess.Write; if ((access & FileAccess
 ###### Summary
 
 Enums are a powerful feature in C# that enhance the readability and maintainability of your code. They allow you to work with a fixed set of related constants in a type-safe manner. Whether you're defining simple enums or using them with the `Flags` attribute, they are a valuable addition to your coding toolkit.
+
+### Reminder of Abstract
+
+Yes, in C#, any class that inherits from a base class containing an abstract method must provide an implementation for that method unless the inheriting class is also declared as abstract.
+
+Here's a quick rundown of how it works:
+
+- **Abstract Class**: A class that cannot be instantiated on its own and may contain abstract methods (which do not have an implementation).
+- **Abstract Method**: A method defined in an abstract class that must be implemented by any non-abstract derived class.
+
+Here's an example:
+
+```cs
+public abstract class Animal 
+{ 
+	public abstract void MakeSound(); 
+} 
+
+public class Dog : Animal 
+{ 
+	public override void MakeSound() { Console.WriteLine("Bark"); } 
+} 
+
+// This class would cause a compile-time error if it didn't implement MakeSound 
+public class Cat : Animal 
+{ 
+	public override void MakeSound() { Console.WriteLine("Meow"); } 
+}
+```
+
+If you were to define another class that inherits from `Animal` but does not implement `MakeSound`, you would get a compile-time error unless the class itself is declared as abstract:
+
+So, in summary, all non-abstract derived classes must implement all abstract methods from their base class.

@@ -30,6 +30,6 @@ namespace Lab2A
             Console.Write("Triangle Height: ");
             Height = double.Parse(Console.ReadLine());
         }
-        public override string ToString() => $"{"Triangle",-20}{CalculateArea(),-20}{"Not Applicable",-20}B:{Base} H:{Height}";
+        public override string ToString() => $"{"Triangle",-20}{CalculateArea(),-20}{"N/A",-20}B:{Base} H:{Height}";
     }
 }

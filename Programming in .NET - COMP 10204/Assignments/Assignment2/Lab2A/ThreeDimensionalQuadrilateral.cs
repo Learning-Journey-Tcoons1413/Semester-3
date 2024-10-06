@@ -23,7 +23,7 @@ namespace Lab2A
 
         public override string ToString()
         {
-            return $"{CalculateArea(),-20}{CalculateVolume(),-20}L:{Length} W:{Width} H:{Height}"; 
+            return $"{Math.Round(CalculateArea(),2),-20}{Math.Round(CalculateVolume(),2),-20}L:{Length} W:{Width} H:{Height}"; 
         }
     }
 

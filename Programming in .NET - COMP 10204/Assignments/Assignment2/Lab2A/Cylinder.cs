@@ -24,9 +24,9 @@ namespace Lab2A
 
         public override void SetData()
         {
-            Console.Write("Enter radius: ");
+            Console.Write("Enter Cylinder radius: ");
             Radius = double.Parse(Console.ReadLine());
-            Console.Write("Enter height: ");
+            Console.Write("Enter Cylinder height: ");
             Height = double.Parse(Console.ReadLine());
         }
 

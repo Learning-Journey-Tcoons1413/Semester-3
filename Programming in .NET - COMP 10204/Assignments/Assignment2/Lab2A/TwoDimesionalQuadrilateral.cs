@@ -21,6 +21,6 @@ namespace Lab2A
             return 0;
         }
 
-        public override string ToString() => $"{CalculateArea(),-20}{"Not Applicable",-20}" + $"L:{Length} W:{Width}";
+        public override string ToString() => $"{CalculateArea(),-20}{"N/A",-20}" + $"L:{Length} W:{Width}";
     }
 }

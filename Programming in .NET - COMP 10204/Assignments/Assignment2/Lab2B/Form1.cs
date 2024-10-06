@@ -41,7 +41,7 @@ namespace Lab2B
 
                 if (!cutCheckBox.Checked && !colourCheckBox.Checked && !highlightsCheckBox.Checked && !extensionsCheckBox.Checked)
                 {
-                    MessageBox.Show("Select at least on service type.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Select at least one service type.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
                 else 
                 {

@@ -8,7 +8,7 @@ namespace Lab2A
 {
     internal abstract class TwoDimesionalQuadrilateral : Shape
     {
-        protected double Length { get; set; }
+        protected double Length { get; set; } 
         protected double Width { get; set; }
 
         public override double CalculateArea()

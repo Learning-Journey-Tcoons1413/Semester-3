@@ -22,7 +22,7 @@
 
 [[Object Oriented Systems - COMP CO835/Week 5/Class 7|Week 5]]
 
-- [ ] Complete Quiz 5
+- [x] Complete Quiz 5
 
 
 

@@ -25,3 +25,6 @@
 [[Speculative Fiction - LITR 10000/Week 5/Class 5|Week 5]]
 
 - [x] Download Week 5 PowerPoint
+- [x] Complete Quiz 1
+
+

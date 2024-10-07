@@ -1,0 +1,39 @@
+C:\Users\Mark\Desktop\Courses\COMP10204\Week5\PayrollSystem\PayRollForm\bin\Debug\PayRollForm.exe.config
+C:\Users\Mark\Desktop\Courses\COMP10204\Week5\PayrollSystem\PayRollForm\bin\Debug\PayRollForm.exe
+C:\Users\Mark\Desktop\Courses\COMP10204\Week5\PayrollSystem\PayRollForm\bin\Debug\PayRollForm.pdb
+C:\Users\Mark\Desktop\Courses\COMP10204\Week5\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Courses\COMP10204\Week5\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.FormPayrollSystem.resources
+C:\Users\Mark\Desktop\Courses\COMP10204\Week5\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.Properties.Resources.resources
+C:\Users\Mark\Desktop\Courses\COMP10204\Week5\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Courses\COMP10204\Week5\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.exe
+C:\Users\Mark\Desktop\Courses\COMP10204\Week5\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.pdb
+C:\Users\Mark\Desktop\PayrollSystem\PayRollForm\bin\Debug\PayRollForm.exe.config
+C:\Users\Mark\Desktop\PayrollSystem\PayRollForm\bin\Debug\PayRollForm.exe
+C:\Users\Mark\Desktop\PayrollSystem\PayRollForm\bin\Debug\PayRollForm.pdb
+C:\Users\Mark\Desktop\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.FormPayrollSystem.resources
+C:\Users\Mark\Desktop\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.Properties.Resources.resources
+C:\Users\Mark\Desktop\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.exe
+C:\Users\Mark\Desktop\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.pdb
+C:\myendt\educ\Comp10204\Fall 2018\Week5\PayrollSystem\PayrollSystem\PayRollForm\bin\Debug\PayRollForm.exe.config
+C:\myendt\educ\Comp10204\Fall 2018\Week5\PayrollSystem\PayrollSystem\PayRollForm\bin\Debug\PayRollForm.exe
+C:\myendt\educ\Comp10204\Fall 2018\Week5\PayrollSystem\PayrollSystem\PayRollForm\bin\Debug\PayRollForm.pdb
+C:\myendt\educ\Comp10204\Fall 2018\Week5\PayrollSystem\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.csprojResolveAssemblyReference.cache
+C:\myendt\educ\Comp10204\Fall 2018\Week5\PayrollSystem\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.FormPayrollSystem.resources
+C:\myendt\educ\Comp10204\Fall 2018\Week5\PayrollSystem\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.Properties.Resources.resources
+C:\myendt\educ\Comp10204\Fall 2018\Week5\PayrollSystem\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.csproj.GenerateResource.Cache
+C:\myendt\educ\Comp10204\Fall 2018\Week5\PayrollSystem\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.csproj.CoreCompileInputs.cache
+C:\myendt\educ\Comp10204\Fall 2018\Week5\PayrollSystem\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.exe
+C:\myendt\educ\Comp10204\Fall 2018\Week5\PayrollSystem\PayrollSystem\PayRollForm\obj\Debug\PayRollForm.pdb
+C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\bin\Debug\PayRollForm.exe.config
+C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\bin\Debug\PayRollForm.exe
+C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\bin\Debug\PayRollForm.pdb
+C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\obj\Debug\PayRollForm.csprojAssemblyReference.cache
+C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\obj\Debug\PayRollForm.FormPayrollSystem.resources
+C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\obj\Debug\PayRollForm.Properties.Resources.resources
+C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\obj\Debug\PayRollForm.csproj.GenerateResource.cache
+C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\obj\Debug\PayRollForm.csproj.CoreCompileInputs.cache
+C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\obj\Debug\PayRollForm.exe
+C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\obj\Debug\PayRollForm.pdb

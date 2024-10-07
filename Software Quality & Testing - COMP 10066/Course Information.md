@@ -8,7 +8,7 @@
 **Grading**:
 - Assignments x4 (35%) 
 - Labs x8 (18%)
-- Midterm (17%) Paper
+- **==Midterm (17%) Paper - Monday October 21, 10:00am i126==**
 - Final Exam (30%) Paper
 
 **Software/Tools**:

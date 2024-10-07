@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\AbstractionExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB92143-F644-4724-9F43-C6CEE82FA23C}|AbstractionExercise\\AbstractionExercise.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\csharppractise\\abstractionexercise\\abstractionexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB92143-F644-4724-9F43-C6CEE82FA23C}|AbstractionExercise\\AbstractionExercise.csproj|solutionrelative:abstractionexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB92143-F644-4724-9F43-C6CEE82FA23C}|AbstractionExercise\\AbstractionExercise.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\csharppractise\\abstractionexercise\\abstractionexercise\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB92143-F644-4724-9F43-C6CEE82FA23C}|AbstractionExercise\\AbstractionExercise.csproj|solutionrelative:abstractionexercise\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB92143-F644-4724-9F43-C6CEE82FA23C}|AbstractionExercise\\AbstractionExercise.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\csharppractise\\abstractionexercise\\abstractionexercise\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB92143-F644-4724-9F43-C6CEE82FA23C}|AbstractionExercise\\AbstractionExercise.csproj|solutionrelative:abstractionexercise\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB92143-F644-4724-9F43-C6CEE82FA23C}|AbstractionExercise\\AbstractionExercise.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\csharppractise\\abstractionexercise\\abstractionexercise\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB92143-F644-4724-9F43-C6CEE82FA23C}|AbstractionExercise\\AbstractionExercise.csproj|solutionrelative:abstractionexercise\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\AbstractionExercise\\AbstractionExercise\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractionExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\AbstractionExercise\\AbstractionExercise\\Program.cs",
+              "RelativeToolTip": "AbstractionExercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:26:20.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\AbstractionExercise\\AbstractionExercise\\Class1.cs",
+              "RelativeDocumentMoniker": "AbstractionExercise\\Class1.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\AbstractionExercise\\AbstractionExercise\\Class1.cs",
+              "RelativeToolTip": "AbstractionExercise\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:29:24.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\AbstractionExercise\\AbstractionExercise\\Class2.cs",
+              "RelativeDocumentMoniker": "AbstractionExercise\\Class2.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\AbstractionExercise\\AbstractionExercise\\Class2.cs",
+              "RelativeToolTip": "AbstractionExercise\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:28:52.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\AbstractionExercise\\AbstractionExercise\\Class3.cs",
+              "RelativeDocumentMoniker": "AbstractionExercise\\Class3.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\AbstractionExercise\\AbstractionExercise\\Class3.cs",
+              "RelativeToolTip": "AbstractionExercise\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:29:54.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

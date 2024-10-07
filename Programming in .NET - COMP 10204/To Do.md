@@ -35,6 +35,5 @@
 
 - [ ] Review code uploaded at the end of the week 4
 - [ ] Review code uploaded at the end of the week 5
-- [ ] Ask about code snippet for saving and reading files for week 5 in class exercise 
-- [ ] Start [Lab Assignment 2](https://mycanvas.mohawkcollege.ca/courses/107650/assignments/960144)
+- [x] Start [Lab Assignment 2](https://mycanvas.mohawkcollege.ca/courses/107650/assignments/960144)
 

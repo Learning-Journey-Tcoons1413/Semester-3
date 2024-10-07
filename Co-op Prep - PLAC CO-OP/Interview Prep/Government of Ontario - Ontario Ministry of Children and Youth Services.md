@@ -102,3 +102,65 @@ Helping to improve outcomes for children, youth, families and individuals who ne
 
 **Women’s social and economic opportunity**
 - Supports the advancement of women’s equality and safety.
+- 
+###### **Fetch API**
+
+The Fetch API is a modern JavaScript interface that allows you to make network requests to servers, enabling you to retrieve or send data over the web. It provides a more powerful and flexible feature set compared to the older XMLHttpRequest.
+
+Key Features:
+
+1. **Promise-Based**: The Fetch API returns a Promise, which makes it easier to handle asynchronous operations using `.then()` and `.catch()` for success and error handling.
+    
+2. **Simple Syntax**: Fetch uses a more straightforward syntax for making requests and handling responses.
+    
+3. **Support for Various Methods**: You can use it to perform various HTTP methods, such as GET, POST, PUT, DELETE, etc.
+    
+4. **Response Handling**: The API allows you to easily handle responses, including parsing JSON, text, or other formats.
+    
+5. **CORS Support**: It supports Cross-Origin Resource Sharing (CORS), allowing you to make requests to different domains with the right permissions.
+    
+
+Basic Usage Example:
+
+Here’s a simple example of using the Fetch API to make a GET request:
+
+```js
+fetch('https://api.example.com/data') 
+	.then(response => { 
+		if (!response.ok) { 
+			throw new Error('Network response was not ok'); 
+		} 
+	return response.json(); // or response.text() for plain text 
+	}) 
+	.then(data => { 
+		console.log(data); // Handle the data from the response 
+	}) .catch(error => 
+		{ console.error('There was a problem with the fetch operation:', error); });
+```
+
+Summary:
+
+The Fetch API is widely used in web development for its simplicity and effectiveness in handling network requests, making it a go-to choice for modern JavaScript applications.
+
+###### **Async Await**
+
+`async` and `await` are JavaScript keywords that simplify working with asynchronous code, particularly when using Promises. They help make your code more readable and easier to understand by allowing you to write asynchronous code in a synchronous style.
+
+Key Concepts:
+1. **`async` Function**: When you declare a function as `async`, it always returns a Promise. This means you can use `await` within this function.
+2. **`await` Expression**: The `await` keyword can only be used inside an `async` function. It pauses the execution of the function until the Promise is resolved or rejected, making it easier to handle the results.
+
+```js
+async function getData() { 
+	try { 
+		const response = await fetch('https://api.example.com/data'); 
+		if (!response.ok) { 
+			throw new Error('Network response was not ok'); 
+		} 
+		const data = await response.json(); 
+		console.log(data); // Handle the fetched data 
+	} catch (error) { 
+		console.error('There was a problem with the fetch operation:', error);         } 
+} 
+getData();
+```

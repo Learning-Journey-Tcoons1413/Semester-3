@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Interview Prep/Government of Ontario - Ontario Ministry of Children and Youth Services.md",
+                "file": "Database Theory - COMP CO859/Week 6/Class 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Interview Prep/Government of Ontario - Ontario Ministry of Children and Youth Services.md",
+                "file": "Database Theory - COMP CO859/Week 6/Class 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Interview Prep/Government of Ontario - Ontario Ministry of Children and Youth Services.md",
+                "file": "Database Theory - COMP CO859/Week 6/Class 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Co-op Prep - PLAC CO-OP/Interview Prep/Government of Ontario - Ontario Ministry of Children and Youth Services.md"
+                "file": "Database Theory - COMP CO859/Week 6/Class 10.md"
               }
             }
           }
@@ -148,12 +148,27 @@
   },
   "active": "48b2edc143e8171e",
   "lastOpenFiles": [
+    "Database Theory - COMP CO859/To Do.md",
+    "Database Theory - COMP CO859/Week 6/Class 10.md",
+    "Assets/Pasted image 20241007081024.png",
+    "Untitled.md",
+    "Assets/Pasted image 20241007090633.png",
+    "Assets/Pasted image 20241007090504.png",
+    "Assets/Pasted image 20241007090411.png",
+    "Assets/Pasted image 20241007090311.png",
+    "Assets/Pasted image 20241007090140.png",
+    "Assets/Pasted image 20241007085744.png",
+    "Assets/Pasted image 20241007085509.png",
+    "Assets/Pasted image 20241007085037.png",
+    "Database Theory - COMP CO859/Week 5/Class 9.md",
+    "Database Theory - COMP CO859/Week 6",
+    "Database Theory - COMP CO859/Week 5/Class 8.md",
+    "Co-op Prep - PLAC CO-OP/Interview Prep/Government of Ontario - Ontario Ministry of Children and Youth Services.md",
     "Speculative Fiction - LITR 10000/To Do.md",
     "Software Quality & Testing - COMP 10066/To Do.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
     "Programming in .NET - COMP 10204/To Do.md",
     "Object Oriented Systems - COMP CO835/To Do.md",
-    "Database Theory - COMP CO859/To Do.md",
     "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm/Properties/Settings.settings",
     "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm/Properties/Resources.resx",
     "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm/Properties/Settings.Designer.cs",
@@ -163,8 +178,6 @@
     "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll",
     "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm/obj/Debug/TempPE",
     "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs",
-    "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs",
-    "Co-op Prep - PLAC CO-OP/Interview Prep/Government of Ontario - Ontario Ministry of Children and Youth Services.md",
     "Software Quality & Testing - COMP 10066/Course Information.md",
     "Object Oriented Systems - COMP CO835/Course Information.md",
     "Programming in .NET - COMP 10204/Personal Learning.md",
@@ -175,24 +188,10 @@
     "Programming in .NET - COMP 10204/Week 4/Class 7.md",
     "Programming in .NET - COMP 10204/Week 4/Class 6.md",
     "Programming in .NET - COMP 10204/Week 5/Class 8.md",
-    "Database Theory - COMP CO859/Week 5/Class 9.md",
-    "Database Theory - COMP CO859/Week 5/Class 8.md",
     "Database Theory - COMP CO859/Week 4/Class 6.md",
     "Database Theory - COMP CO859/Week 4/Class 7.md",
     "Database Theory - COMP CO859/Week 3/Class 5.md",
     "Database Theory - COMP CO859/Week 3/Class 4.md",
-    "Database Theory - COMP CO859/Week 2/Class 2.md",
-    "Database Theory - COMP CO859/Week 2/Class 3.md",
-    "Software Quality & Testing - COMP 10066/Week 5/Class 9.md",
-    "Pasted image 20241001174352.png",
-    "Assets/Pasted image 20241001171821.png",
-    "Assets/Pasted image 20240930090543.png",
-    "Assets/Pasted image 20240930091734.png",
-    "Pasted image 20240930091734.png",
-    "Pasted image 20240930090543.png",
-    "Assets/Pasted image 20240930080311.png",
-    "Assets/Pasted image 20240930085748.png",
-    "Assets/Pasted image 20240930083530.png",
-    "Assets/Pasted image 20240930082903.png"
+    "Pasted image 20241001174352.png"
   ]
 }

@@ -21,6 +21,7 @@
 - [x] Download co859.sql [Link](https://mycanvas.mohawkcollege.ca/courses/107243/pages/student-resources)
 - [x] Submit Lab 4
 
+[[Database Theory - COMP CO859/Week 6/Class 10|Week 6]]
 
 
  

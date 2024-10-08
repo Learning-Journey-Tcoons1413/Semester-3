@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 6/Class 10.md",
+                "file": "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 6/Class 10.md",
+                "file": "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 6/Class 10.md",
+                "file": "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 6/Class 10.md"
+                "file": "Software Quality & Testing - COMP 10066/Week 6/Class 10.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "48b2edc143e8171e",
   "lastOpenFiles": [
-    "Database Theory - COMP CO859/To Do.md",
+    "Server Side Web Programming - COMP 10260/Week 6/Class 10.md",
+    "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
+    "Software Quality & Testing - COMP 10066/Week 6",
     "Database Theory - COMP CO859/Week 6/Class 10.md",
+    "Server Side Web Programming - COMP 10260/Week 6",
+    "Co-op Prep - PLAC CO-OP/Interview Prep/Government of Ontario - Ontario Ministry of Children and Youth Services.md",
+    "Software Quality & Testing - COMP 10066/Course Information.md",
+    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Database Theory - COMP CO859/To Do.md",
     "Assets/Pasted image 20241007081024.png",
     "Untitled.md",
     "Assets/Pasted image 20241007090633.png",
@@ -163,9 +170,7 @@
     "Database Theory - COMP CO859/Week 5/Class 9.md",
     "Database Theory - COMP CO859/Week 6",
     "Database Theory - COMP CO859/Week 5/Class 8.md",
-    "Co-op Prep - PLAC CO-OP/Interview Prep/Government of Ontario - Ontario Ministry of Children and Youth Services.md",
     "Speculative Fiction - LITR 10000/To Do.md",
-    "Software Quality & Testing - COMP 10066/To Do.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
     "Programming in .NET - COMP 10204/To Do.md",
     "Object Oriented Systems - COMP CO835/To Do.md",
@@ -176,9 +181,6 @@
     "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm/Properties/AssemblyInfo.cs",
     "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm/Properties",
     "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll",
-    "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm/obj/Debug/TempPE",
-    "Programming in .NET - COMP 10204/Week 5/W05_PayRollForm/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs",
-    "Software Quality & Testing - COMP 10066/Course Information.md",
     "Object Oriented Systems - COMP CO835/Course Information.md",
     "Programming in .NET - COMP 10204/Personal Learning.md",
     "Programming in .NET - COMP 10204/Week 2/Class 2.md",
@@ -191,7 +193,6 @@
     "Database Theory - COMP CO859/Week 4/Class 6.md",
     "Database Theory - COMP CO859/Week 4/Class 7.md",
     "Database Theory - COMP CO859/Week 3/Class 5.md",
-    "Database Theory - COMP CO859/Week 3/Class 4.md",
     "Pasted image 20241001174352.png"
   ]
 }

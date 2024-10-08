@@ -164,3 +164,14 @@ async function getData() {
 } 
 getData();
 ```
+
+###### **SQL**
+SQL, or Structured Query Language, is a standard programming language used for managing and manipulating relational databases. It allows users to perform various operations such as:
+
+1. **Querying Data**: Retrieve specific information from one or more tables using the `SELECT` statement.
+2. **Inserting Data**: Add new records to a table with the `INSERT` statement.
+3. **Updating Data**: Modify existing records using the `UPDATE` statement.
+4. **Deleting Data**: Remove records from a table with the `DELETE` statement.
+5. **Creating and Modifying Structures**: Define new tables or modify existing ones using `CREATE`, `ALTER`, and `DROP` statements.
+
+SQL is widely used in many database management systems (DBMS) like MySQL, PostgreSQL, Microsoft SQL Server, and Oracle. Its declarative nature allows users to specify what data they want without detailing how to retrieve it, making it powerful for data manipulation and analysis.

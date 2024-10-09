@@ -19,9 +19,10 @@
 
 - [x] Nothing for now
 
-[Week 6]
+[[Software Quality & Testing - COMP 10066/Week 6/Class 10|Week 6]]
 
-- [ ] Ask about Lab 4
+- [x] Ask about Lab 4
 - [ ] Review all labs for midterm
-- [ ] Review hand outs if you can find them 
+- [ ] Review hand-outs 
+- [ ] Submit Assignment 2
 

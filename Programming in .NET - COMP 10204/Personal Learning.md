@@ -151,3 +151,80 @@ public class Cat : Animal
 If you were to define another class that inherits from `Animal` but does not implement `MakeSound`, you would get a compile-time error unless the class itself is declared as abstract:
 
 So, in summary, all non-abstract derived classes must implement all abstract methods from their base class.
+
+### Interfaces
+
+In C#, interfaces are a fundamental part of the language, enabling a way to define contracts that classes can implement. Here’s a brief overview:
+
+
+What is an Interface?
+
+An interface is a reference type in C# that defines a contract consisting of method signatures, properties, events, or indexers but does not provide any implementation. Classes or structs that implement an interface must provide concrete implementations for all its members.
+
+Defining an Interface
+
+You can define an interface using the `interface` keyword. Here's a simple example:
+
+```cs
+public interface IAnimal 
+{     
+	void Speak();     
+	string Name { get; set; } 
+}
+```
+
+Implementing an Interface
+
+A class implements an interface using the `:` syntax. For example:
+
+```cs
+public class Dog : IAnimal 
+{     
+	public string Name { get; set; }      
+	public void Speak()     
+	{         
+		Console.WriteLine("Woof!");     
+	} 
+}
+```
+
+Using Interfaces
+
+You can use interfaces to create flexible and reusable code. For instance:
+
+```cs
+public void MakeAnimalSpeak(IAnimal animal) 
+{     
+	animal.Speak(); 
+}  
+
+var dog = new Dog { Name = "Rex" }; 
+MakeAnimalSpeak(dog);
+```
+
+Benefits of Interfaces
+
+1. **Decoupling**: Interfaces promote loose coupling by allowing different classes to be interchangeable as long as they implement the same interface.
+2. **Multiple Inheritance**: C# does not support multiple inheritance for classes, but a class can implement multiple interfaces.
+3. **Testability**: Interfaces facilitate easier unit testing by allowing you to create mock implementations.
+
+Default Interface Methods
+
+Since C# 8.0, you can provide a default implementation in interfaces:
+
+```cs
+public interface IAnimal 
+{     
+	void Speak();     
+	string Name { get; set;}      
+	
+	void Sleep() // Default method     
+	{         
+		Console.WriteLine($"{Name} is sleeping.");     
+	} 
+}
+```
+
+Summary
+
+Interfaces are powerful tools in C# that promote clean architecture and design. They help in building systems that are easy to maintain and extend. If you have more specific questions or scenarios you'd like to discuss, feel free to ask!

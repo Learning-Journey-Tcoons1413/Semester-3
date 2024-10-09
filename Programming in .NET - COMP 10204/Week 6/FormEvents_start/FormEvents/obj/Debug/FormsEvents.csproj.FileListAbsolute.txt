@@ -1,0 +1,130 @@
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FormsEvents.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormAlbum.resources
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FormsEvents.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\220px-DS_Dire_Straits.jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\220px-Pink_Floyd,_Wish_You_Were_Here_(1975).png
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\220px-RSSF71.jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\220px-Tales_from_Topographic_Oceans_(Yes_album).jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\220px-TheClashLondonCallingalbumcover.jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\220px-The_Doors_-_L.A._Woman.jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\220px-The_Lamb_Lies_Down_on_Broadway.jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Fairport_Convention-Unhalfbricking_(album_cover).jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Led_Zeppelin_-_Led_Zeppelin_IV.jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Shoot_Out_the_Lights_(Richard_Thompson_album_-_cover_art).jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\220px-DS_Dire_Straits.jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\220px-Pink_Floyd,_Wish_You_Were_Here_(1975).png
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\220px-RSSF71.jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\220px-Tales_from_Topographic_Oceans_(Yes_album).jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\220px-TheClashLondonCallingalbumcover.jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\220px-The_Doors_-_L.A._Woman.jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\220px-The_Lamb_Lies_Down_on_Broadway.jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\Fairport_Convention-Unhalfbricking_(album_cover).jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\Led_Zeppelin_-_Led_Zeppelin_IV.jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\Shoot_Out_the_Lights_(Richard_Thompson_album_-_cover_art).jpg
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\obj\Debug\FormsEvents.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\obj\Debug\FormEvents.FormAlbum.resources
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\obj\Debug\FormEvents.Properties.Resources.resources
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\FormEvents\FormEvents\obj\Debug\FormsEvents.csproj.GenerateResource.Cache
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\220px-DS_Dire_Straits.jpg
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\220px-Pink_Floyd,_Wish_You_Were_Here_(1975).png
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\220px-RSSF71.jpg
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\220px-Tales_from_Topographic_Oceans_(Yes_album).jpg
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\220px-TheClashLondonCallingalbumcover.jpg
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\220px-The_Doors_-_L.A._Woman.jpg
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\220px-The_Lamb_Lies_Down_on_Broadway.jpg
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\Fairport_Convention-Unhalfbricking_(album_cover).jpg
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\Led_Zeppelin_-_Led_Zeppelin_IV.jpg
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\Shoot_Out_the_Lights_(Richard_Thompson_album_-_cover_art).jpg
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\WindowsFormsApplication1.exe.config
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\WindowsFormsApplication1.exe
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\bin\Debug\WindowsFormsApplication1.pdb
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\obj\Debug\FormsEvents.csprojAssemblyReference.cache
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\obj\Debug\FormEvents.FormAlbum.resources
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\obj\Debug\FormEvents.Properties.Resources.resources
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\obj\Debug\FormsEvents.csproj.GenerateResource.cache
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\obj\Debug\FormsEvents.csproj.CoreCompileInputs.cache
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\obj\Debug\WindowsFormsApplication1.exe
+C:\myendt\educ\Comp10204\Fall 2019\Week6\FormEvents\FormEvents\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\obj\Debug\FormsEvents.csprojAssemblyReference.cache
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\obj\Debug\FormEvents.FormAlbum.resources
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\obj\Debug\FormEvents.Properties.Resources.resources
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\obj\Debug\FormsEvents.csproj.GenerateResource.cache
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\obj\Debug\FormsEvents.csproj.CoreCompileInputs.cache
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\bin\Debug\220px-DS_Dire_Straits.jpg
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\bin\Debug\220px-Pink_Floyd,_Wish_You_Were_Here_(1975).png
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\bin\Debug\220px-Tales_from_Topographic_Oceans_(Yes_album).jpg
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\bin\Debug\220px-TheClashLondonCallingalbumcover.jpg
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\bin\Debug\Fairport_Convention-Unhalfbricking_(album_cover).jpg
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\bin\Debug\Led_Zeppelin_-_Led_Zeppelin_IV.jpg
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\bin\Debug\Shoot_Out_the_Lights_(Richard_Thompson_album_-_cover_art).jpg
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mmbre\Desktop\Courses\COMP10204\Fall 2020\Lectures\Week6\FormEvents\FormEvents\bin\Debug\Revolver.jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\bin\Debug\220px-DS_Dire_Straits.jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\bin\Debug\220px-Pink_Floyd,_Wish_You_Were_Here_(1975).png
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\bin\Debug\220px-Tales_from_Topographic_Oceans_(Yes_album).jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\bin\Debug\220px-TheClashLondonCallingalbumcover.jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\bin\Debug\Fairport_Convention-Unhalfbricking_(album_cover).jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\bin\Debug\Led_Zeppelin_-_Led_Zeppelin_IV.jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\bin\Debug\Revolver.jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\bin\Debug\Shoot_Out_the_Lights_(Richard_Thompson_album_-_cover_art).jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\bin\Debug\WindowsFormsApplication1.exe
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\bin\Debug\WindowsFormsApplication1.pdb
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\obj\Debug\FormsEvents.csprojAssemblyReference.cache
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\obj\Debug\FormEvents.FormAlbum.resources
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\obj\Debug\FormEvents.Properties.Resources.resources
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\obj\Debug\FormsEvents.csproj.GenerateResource.cache
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\obj\Debug\FormsEvents.csproj.CoreCompileInputs.cache
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\obj\Debug\WindowsFormsApplication1.exe
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_mark_complete\FormEvents\obj\Debug\WindowsFormsApplication1.pdb
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\bin\Debug\220px-DS_Dire_Straits.jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\bin\Debug\220px-Pink_Floyd,_Wish_You_Were_Here_(1975).png
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\bin\Debug\220px-Tales_from_Topographic_Oceans_(Yes_album).jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\bin\Debug\220px-TheClashLondonCallingalbumcover.jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\bin\Debug\Fairport_Convention-Unhalfbricking_(album_cover).jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\bin\Debug\Led_Zeppelin_-_Led_Zeppelin_IV.jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\bin\Debug\Revolver.jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\bin\Debug\Shoot_Out_the_Lights_(Richard_Thompson_album_-_cover_art).jpg
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\bin\Debug\WindowsFormsApplication1.exe
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\bin\Debug\WindowsFormsApplication1.pdb
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\obj\Debug\FormsEvents.csprojAssemblyReference.cache
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\obj\Debug\FormEvents.FormAlbum.resources
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\obj\Debug\FormEvents.Properties.Resources.resources
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\obj\Debug\FormsEvents.csproj.GenerateResource.cache
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\obj\Debug\FormsEvents.csproj.CoreCompileInputs.cache
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\obj\Debug\WindowsFormsApplication1.exe
+D:\Peter\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W06\FormEvents_start\FormEvents\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\bin\Debug\220px-DS_Dire_Straits.jpg
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\bin\Debug\220px-Pink_Floyd,_Wish_You_Were_Here_(1975).png
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\bin\Debug\220px-Tales_from_Topographic_Oceans_(Yes_album).jpg
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\bin\Debug\220px-TheClashLondonCallingalbumcover.jpg
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\bin\Debug\Fairport_Convention-Unhalfbricking_(album_cover).jpg
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\bin\Debug\Led_Zeppelin_-_Led_Zeppelin_IV.jpg
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\bin\Debug\Revolver.jpg
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\bin\Debug\Shoot_Out_the_Lights_(Richard_Thompson_album_-_cover_art).jpg
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\obj\Debug\FormsEvents.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\obj\Debug\FormEvents.FormAlbum.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\obj\Debug\FormEvents.Properties.Resources.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\obj\Debug\FormsEvents.csproj.GenerateResource.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\obj\Debug\FormsEvents.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 6\FormEvents_start\FormEvents\obj\Debug\WindowsFormsApplication1.pdb

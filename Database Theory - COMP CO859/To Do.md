@@ -23,5 +23,8 @@
 
 [[Database Theory - COMP CO859/Week 6/Class 10|Week 6]]
 
+- [ ] Start Lab 5
+
+
 
  

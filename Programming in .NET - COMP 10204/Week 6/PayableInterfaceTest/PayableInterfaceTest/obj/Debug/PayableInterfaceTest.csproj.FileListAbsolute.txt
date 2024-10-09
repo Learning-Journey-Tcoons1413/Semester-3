@@ -1,0 +1,6 @@
+C:\Users\000320018\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W07\PayableInterfaceTest\PayableInterfaceTest\bin\Debug\PayableInterfaceTest.exe
+C:\Users\000320018\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W07\PayableInterfaceTest\PayableInterfaceTest\bin\Debug\PayableInterfaceTest.pdb
+C:\Users\000320018\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W07\PayableInterfaceTest\PayableInterfaceTest\obj\Debug\PayableInterfaceTest.csprojAssemblyReference.cache
+C:\Users\000320018\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W07\PayableInterfaceTest\PayableInterfaceTest\obj\Debug\PayableInterfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\000320018\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W07\PayableInterfaceTest\PayableInterfaceTest\obj\Debug\PayableInterfaceTest.exe
+C:\Users\000320018\OneDrive\Courses\Mohawk\Courses\COMP10204\2020F\Weeks\W07\PayableInterfaceTest\PayableInterfaceTest\obj\Debug\PayableInterfaceTest.pdb

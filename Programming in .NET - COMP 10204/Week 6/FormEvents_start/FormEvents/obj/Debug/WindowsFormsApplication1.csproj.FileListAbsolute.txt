@@ -1,0 +1,2 @@
+C:\Users\Mark\Desktop\Courses\EngTech Fall2018\TT1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mark\Desktop\Courses\COMP10204\Week6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config

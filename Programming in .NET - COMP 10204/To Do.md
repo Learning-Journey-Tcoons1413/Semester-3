@@ -37,3 +37,7 @@
 - [ ] Review code uploaded at the end of the week 5
 - [x] Start [Lab Assignment 2](https://mycanvas.mohawkcollege.ca/courses/107650/assignments/960144)
 
+[[Programming in .NET - COMP 10204/Week 6/Class 10|Week 6]]
+
+- [ ] Watch Mark Yendt Videos 
+- [ ] Review code uploaded at the end of the week 6

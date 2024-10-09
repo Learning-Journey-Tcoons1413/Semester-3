@@ -16,10 +16,13 @@
 [[Server Side Web Programming - COMP 10260/Week 4/Class 6|Week 4]]
 
 - [x] Set up xamp on laptop
-- [ ] Review Jonathan's Slideshows
+- [x] Review Jonathan's Slideshows
 
 [[Server Side Web Programming - COMP 10260/Week 5/Class 8|Week 5]]
 
 - [x] Submit Assignment 1
 - [ ] Flash Cards
 
+[[Week 6]]
+
+- [ ] Catch up with Dave Slemons Guide

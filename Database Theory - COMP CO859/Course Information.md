@@ -11,7 +11,11 @@ Homework can be done during labs. It is not hard. Do not cheat. This class is ab
 **Grading:** 
 Must Have Passing Average
 - Homework/Labs (20%)
-- Midterm (40%) 60% is multiple choice (SQL Statements)
+- Midterm (40%) - **DATE:** Wednesday October 30th
+	- 60% Multiple Choice
+	- SELECT statements 10 questions
+	- JOIN and GROUP questions
+	- Practice Lab 5
 - Final Exam (40%)
 
 **Course Tools:**  

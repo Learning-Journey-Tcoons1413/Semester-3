@@ -1,5 +1,7 @@
 *Date: October 8th 2024*
 
+**Video was recorded**
+
 Important Events:
 - Clicking a link inside a textbox
 

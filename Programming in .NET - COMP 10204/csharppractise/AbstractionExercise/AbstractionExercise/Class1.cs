@@ -9,6 +9,7 @@ namespace AbstractionExercise
     internal abstract class Class1
     {
         public abstract void TestOne();
-       
+
+
     }
 }

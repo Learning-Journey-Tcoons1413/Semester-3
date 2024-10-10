@@ -12,6 +12,7 @@
 
 ###### **General Grading Information:**
 - 2x Tests (30%)
+	- First Test **DATE:** October 24th
 - 6x Assignments (30%)
 - Quizzes (10%)
 - Final Assessment (30%) 

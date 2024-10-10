@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/To Do.md",
+                "file": "Software Quality & Testing - COMP 10066/Course Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/To Do.md",
+                "file": "Software Quality & Testing - COMP 10066/Course Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/To Do.md",
+                "file": "Software Quality & Testing - COMP 10066/Course Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/To Do.md"
+                "file": "Software Quality & Testing - COMP 10066/Course Information.md"
               }
             }
           }
@@ -148,16 +148,23 @@
   },
   "active": "48b2edc143e8171e",
   "lastOpenFiles": [
-    "Server Side Web Programming - COMP 10260/To Do.md",
-    "Programming in .NET - COMP 10204/Week 6/Class 10.md",
+    "Server Side Web Programming - COMP 10260/Course Information.md",
+    "Database Theory - COMP CO859/Course Information.md",
+    "Object Oriented Systems - COMP CO835/Course Information.md",
+    "Programming in .NET - COMP 10204/Course Information.md",
     "Object Oriented Systems - COMP CO835/To Do.md",
-    "Database Theory - COMP CO859/Week 6/Class 10.md",
-    "Database Theory - COMP CO859/To Do.md",
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Programming in .NET - COMP 10204/Week 6/Class 11.md",
+    "Database Theory - COMP CO859/Week 6/Class 11.md",
+    "Software Quality & Testing - COMP 10066/Course Information.md",
     "Software Quality & Testing - COMP 10066/To Do.md",
     "Software Quality & Testing - COMP 10066/Week 6/Class 11.md",
     "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
+    "Programming in .NET - COMP 10204/Week 6/Class 10.md",
+    "Server Side Web Programming - COMP 10260/To Do.md",
+    "Database Theory - COMP CO859/Week 6/Class 10.md",
+    "Database Theory - COMP CO859/To Do.md",
     "Server Side Web Programming - COMP 10260/Week 6/Class 10.md",
-    "Programming in .NET - COMP 10204/To Do.md",
     "Programming in .NET - COMP 10204/Personal Learning.md",
     "Object Oriented Systems - COMP CO835/Week 6/Class 9.md",
     "Object Oriented Systems - COMP CO835/Week 6",
@@ -183,16 +190,9 @@
     "Programming in .NET - COMP 10204/Week 5/Class 9.md",
     "Programming in .NET - COMP 10204/Week 5/Class 8.md",
     "Co-op Prep - PLAC CO-OP/Interview Prep/Government of Ontario - Ontario Ministry of Children and Youth Services.md",
-    "Software Quality & Testing - COMP 10066/Course Information.md",
     "Untitled.md",
     "Database Theory - COMP CO859/Week 5/Class 9.md",
     "Database Theory - COMP CO859/Week 5/Class 8.md",
-    "Speculative Fiction - LITR 10000/To Do.md",
-    "Object Oriented Systems - COMP CO835/Course Information.md",
-    "Programming in .NET - COMP 10204/Week 2/Class 2.md",
-    "Programming in .NET - COMP 10204/Week 2/Class 3.md",
-    "Programming in .NET - COMP 10204/Week 3/Class 5.md",
-    "Programming in .NET - COMP 10204/Week 3/Class 4.md",
-    "Programming in .NET - COMP 10204/Week 4/Class 7.md"
+    "Speculative Fiction - LITR 10000/To Do.md"
   ]
 }

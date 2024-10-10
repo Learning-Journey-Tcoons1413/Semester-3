@@ -9,6 +9,12 @@
 - Assignments x4 (35%) 
 - Labs x8 (18%)
 - **==Midterm (17%) Paper - Monday October 21, 10:00am i126==**
+	- Midterm test information:
+	- Pencil Paper
+	- A lot of test cases
+	- Mutations
+	- Review notes from all weeks
+	- Review class hand outs from all weeks 
 - Final Exam (30%) Paper
 
 **Software/Tools**:

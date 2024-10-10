@@ -10,8 +10,12 @@ namespace AbstractionExercise
     {
         static void Main(string[] args)
         {
-            Class1 c1 = new Class3();
-            c1.TestOne();
+            Class1 c = new Class3();
+
+            if (c is Class3 asdasdasdasda)
+            {
+                asdasdasdasda.SayHelloFromClass2 ();   
+            }
         }
     }
 }

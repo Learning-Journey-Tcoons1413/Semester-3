@@ -39,5 +39,5 @@
 
 [[Programming in .NET - COMP 10204/Week 6/Class 10|Week 6]]
 
-- [ ] Watch Mark Yendt Videos 
+- [x] Watch Mark Yendt Videos 
 - [ ] Review code uploaded at the end of the week 6

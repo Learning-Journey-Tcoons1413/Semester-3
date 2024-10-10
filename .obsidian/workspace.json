@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2f8d9e26f15c1ad7",
+        "id": "ccccec34fe2c88c7",
         "type": "tabs",
         "children": [
           {
-            "id": "48b2edc143e8171e",
+            "id": "7a79f1bdd4033b42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/Course Information.md",
+                "file": "Server Side Web Programming - COMP 10260/Week 6/Class 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fopen",
+                "query": "FILTER",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/Course Information.md",
+                "file": "Server Side Web Programming - COMP 10260/Week 6/Class 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/Course Information.md",
+                "file": "Server Side Web Programming - COMP 10260/Week 6/Class 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Quality & Testing - COMP 10066/Course Information.md"
+                "file": "Server Side Web Programming - COMP 10260/Week 6/Class 11.md"
               }
             }
           }
@@ -146,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48b2edc143e8171e",
+  "active": "7a79f1bdd4033b42",
   "lastOpenFiles": [
+    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
+    "Server Side Web Programming - COMP 10260/Week 6/Class 11.md",
+    "Pasted image 20241010143036.png",
+    "Server Side Web Programming - COMP 10260/Week 6/Class 10.md",
+    "Software Quality & Testing - COMP 10066/Course Information.md",
     "Server Side Web Programming - COMP 10260/Course Information.md",
     "Database Theory - COMP CO859/Course Information.md",
     "Object Oriented Systems - COMP CO835/Course Information.md",
@@ -156,7 +161,6 @@
     "Programming in .NET - COMP 10204/To Do.md",
     "Programming in .NET - COMP 10204/Week 6/Class 11.md",
     "Database Theory - COMP CO859/Week 6/Class 11.md",
-    "Software Quality & Testing - COMP 10066/Course Information.md",
     "Software Quality & Testing - COMP 10066/To Do.md",
     "Software Quality & Testing - COMP 10066/Week 6/Class 11.md",
     "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
@@ -164,7 +168,6 @@
     "Server Side Web Programming - COMP 10260/To Do.md",
     "Database Theory - COMP CO859/Week 6/Class 10.md",
     "Database Theory - COMP CO859/To Do.md",
-    "Server Side Web Programming - COMP 10260/Week 6/Class 10.md",
     "Programming in .NET - COMP 10204/Personal Learning.md",
     "Object Oriented Systems - COMP CO835/Week 6/Class 9.md",
     "Object Oriented Systems - COMP CO835/Week 6",
@@ -186,13 +189,10 @@
     "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/220px-TheClashLondonCallingalbumcover.jpg",
     "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/220px-Tales_from_Topographic_Oceans_(Yes_album).jpg",
     "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/220px-RSSF71.jpg",
-    "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/220px-Pink_Floyd,_Wish_You_Were_Here_(1975).png",
     "Programming in .NET - COMP 10204/Week 5/Class 9.md",
     "Programming in .NET - COMP 10204/Week 5/Class 8.md",
     "Co-op Prep - PLAC CO-OP/Interview Prep/Government of Ontario - Ontario Ministry of Children and Youth Services.md",
     "Untitled.md",
-    "Database Theory - COMP CO859/Week 5/Class 9.md",
-    "Database Theory - COMP CO859/Week 5/Class 8.md",
-    "Speculative Fiction - LITR 10000/To Do.md"
+    "Database Theory - COMP CO859/Week 5/Class 9.md"
   ]
 }

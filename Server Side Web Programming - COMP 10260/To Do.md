@@ -23,6 +23,7 @@
 - [x] Submit Assignment 1
 - [ ] Flash Cards
 
-[[Week 6]]
+[[Server Side Web Programming - COMP 10260/Week 6/Class 10|Week 6]]
 
-- [ ] Catch up with Dave Slemons Guide
+- [ ] Catch up with Dave Slemon's Guide Class 10, 11, 12
+- [ ] Start Assignment 2

@@ -24,5 +24,5 @@
 - [x] Ask about Lab 4
 - [ ] Review all labs for midterm
 - [ ] Review hand-outs 
-- [ ] Submit Assignment 2
+- [x] Submit Assignment 2
 

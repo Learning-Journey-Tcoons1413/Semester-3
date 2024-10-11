@@ -9,7 +9,7 @@
 Homework can be done during labs. It is not hard. Do not cheat. This class is about Databases. We will learn about SQL. 
 
 **Grading:** 
-Must Have Passing Average
+***Must Have Passing Average***
 - Homework/Labs (20%)
 - Midterm (40%) - **DATE:** Wednesday October 30th
 	- 60% Multiple Choice

@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Textbook.pdf"
+                "file": "Speculative Fiction - LITR 10000/Week 6/sci-fi_extraterrestrials.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Textbook.pdf",
+                "file": "Speculative Fiction - LITR 10000/Week 6/sci-fi_extraterrestrials.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Textbook.pdf",
+                "file": "Speculative Fiction - LITR 10000/Week 6/sci-fi_extraterrestrials.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Textbook.pdf"
+                "file": "Speculative Fiction - LITR 10000/Week 6/sci-fi_extraterrestrials.pdf"
               }
             }
           }
@@ -144,10 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a79f1bdd4033b42",
+  "active": "bede1d7d730be6e9",
   "lastOpenFiles": [
-    "Object Oriented Systems - COMP CO835/Week 4/Week 4 Lecture Summary (1).pdf",
+    "Speculative Fiction - LITR 10000/To Do.md",
     "Object Oriented Systems - COMP CO835/Textbook.pdf",
+    "Object Oriented Systems - COMP CO835/Week 4/Week 4 Lecture Summary (1).pdf",
     "Object Oriented Systems - COMP CO835/Labs/Lab6.docx",
     "Object Oriented Systems - COMP CO835/Labs/New Microsoft Word Document.docx",
     "Object Oriented Systems - COMP CO835/Learning Plan.pdf",
@@ -166,10 +167,8 @@
     "Software Quality & Testing - COMP 10066/Course Information.md",
     "Software Quality & Testing - COMP 10066/Week 6/Class 11.md",
     "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
-    "Speculative Fiction - LITR 10000/To Do.md",
     "Speculative Fiction - LITR 10000/Week 6/Class 6.md",
     "Speculative Fiction - LITR 10000/Week 6/sci-fi_extraterrestrials.pdf",
-    "Object Oriented Systems - COMP CO835/Week 6/mso1F1C.tmp",
     "Speculative Fiction - LITR 10000/Week 5/Class 5.md",
     "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
     "Pasted image 20241010143036.png",

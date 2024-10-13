@@ -3,9 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+// I, Thomas Coons, 000317961 certify that this material is my original work.  No other person's work has been used without due acknowledgement.
+// Date: October 13th 2024
 
 namespace Lab2B
 {
+    /// <summary>
+    /// EmployeeRates
+    /// </summary>
     public enum EmployeeRate
     {
         Jane = 30,
@@ -14,6 +19,10 @@ namespace Lab2B
         Sue = 50,
         Laurie = 55,
     }
+
+    /// <summary>
+    /// ServiceType
+    /// </summary>
     public enum ServiceType
     {
         Cut = 30,
@@ -22,6 +31,9 @@ namespace Lab2B
         Extension = 200,
     }
 
+    /// <summary>
+    /// ClientType
+    /// </summary>
     public enum ClientType
     { 
         StandardAdult = 0,
@@ -29,14 +41,25 @@ namespace Lab2B
         Student = 5,
         Senior = 15,
     }
+    /// <summary>
+    /// EmployeeServices Class
+    /// </summary>
     internal class EmployeeServices
     {
+
         public EmployeeRate EmployeeRate { get; }
         public List<ServiceType> ServiceTypes { get; }
         public ClientType ClientTypeDiscount { get; }
         public int NumOfClientVisits { get; }
         public int FinalPrice { get; }
 
+        /// <summary>
+        /// EmployeeServices Constructor
+        /// </summary>
+        /// <param name="rate">Rate of Employee</param>
+        /// <param name="serviceTypes">Service Type Selection</param>
+        /// <param name="clientType">Type of client</param>
+        /// <param name="numOfClients">Number of clients</param>
         public EmployeeServices(EmployeeRate rate, List<ServiceType> serviceTypes, ClientType clientType, int numOfClients)
         {
             EmployeeRate = rate;
@@ -45,6 +68,10 @@ namespace Lab2B
             NumOfClientVisits = numOfClients;
         }
 
+        /// <summary>
+        /// Calculate total amount of money owed by a customer
+        /// </summary>
+        /// <returns>total amount as a dollar figure</returns>
         public double CalculateTotal()
         { 
             double total = 0;

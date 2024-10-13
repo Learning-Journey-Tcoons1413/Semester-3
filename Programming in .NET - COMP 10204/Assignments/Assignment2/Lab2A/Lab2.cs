@@ -3,11 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+// I, Thomas Coons, 000317961 certify that this material is my original work.  No other person's work has been used without due acknowledgement.
+// Date: October 13th 2024
+// Purpose: Console app to create and store shapes. Then display them with all apropriate details.
+
 
 namespace Lab2A
 {
+    /// <summary>
+    /// Main class of the application.
+    /// </summary>
     internal class Lab2
     {
+        /// <summary>
+        /// Main Method of the application
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             List<Shape> shapes = new List<Shape>();
@@ -102,6 +113,9 @@ namespace Lab2A
             Console.ForegroundColor = ConsoleColor.White;
         }
 
+        /// <summary>
+        /// Prints the menu.
+        /// </summary>
         public static void PrintMenu()
         {
             Console.ForegroundColor = ConsoleColor.Red;

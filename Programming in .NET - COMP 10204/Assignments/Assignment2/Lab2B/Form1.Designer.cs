@@ -176,8 +176,6 @@
             // cutCheckBox
             // 
             this.cutCheckBox.AutoSize = true;
-            this.cutCheckBox.Checked = true;
-            this.cutCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
             this.cutCheckBox.Location = new System.Drawing.Point(6, 32);
             this.cutCheckBox.Name = "cutCheckBox";
             this.cutCheckBox.Size = new System.Drawing.Size(45, 20);

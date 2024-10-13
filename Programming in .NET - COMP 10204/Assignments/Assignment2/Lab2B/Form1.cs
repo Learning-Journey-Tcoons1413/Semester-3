@@ -7,10 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+// I, Thomas Coons, 000317961 certify that this material is my original work.  No other person's work has been used without due acknowledgement.
+// Date: October 13th 2024
+// Purpose: Form application to keep track of billing and services for customers at a hair salon.
 
 namespace Lab2B
 {
-    
+    /// <summary>
+    /// Main Form Class
+    /// </summary>
     public partial class Form1 : Form
     {
         EmployeeServices empServices = null;
@@ -19,6 +24,11 @@ namespace Lab2B
             InitializeComponent();
         }
 
+        /// <summary>
+        /// Displays total amount owed by a customer
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void calculateBtn_Click(object sender, EventArgs e)
         {
             string numOfClientsString = numOfClientVisitsTextBox.Text;
@@ -81,6 +91,11 @@ namespace Lab2B
  
         }
 
+        /// <summary>
+        /// Clears all current selected fields
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void clearBtn_Click(object sender, EventArgs e)
         {
             cutCheckBox.Checked = false;
@@ -93,6 +108,11 @@ namespace Lab2B
             totalPriceValueLabel.Text = "";
         }
 
+        /// <summary>
+        /// Exits the application
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void exitBtn_Click(object sender, EventArgs e)
         {
             this.Close();

@@ -11,9 +11,11 @@
             "id": "7a79f1bdd4033b42",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/Week 6/sci-fi_extraterrestrials.pdf"
+                "file": "Database Theory - COMP CO859/Course Information.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/Week 6/sci-fi_extraterrestrials.pdf",
+                "file": "Database Theory - COMP CO859/Course Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/Week 6/sci-fi_extraterrestrials.pdf",
+                "file": "Database Theory - COMP CO859/Course Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/Week 6/sci-fi_extraterrestrials.pdf"
+                "file": "Database Theory - COMP CO859/Course Information.md"
               }
             }
           }
@@ -144,43 +146,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bede1d7d730be6e9",
+  "active": "7a79f1bdd4033b42",
   "lastOpenFiles": [
+    "Object Oriented Systems - COMP CO835/Course Information.md",
+    "Server Side Web Programming - COMP 10260/Course Information.md",
+    "Programming in .NET - COMP 10204/Course Information.md",
+    "Software Quality & Testing - COMP 10066/Course Information.md",
+    "Database Theory - COMP CO859/Course Information.md",
+    "Software Quality & Testing - COMP 10066/To Do.md",
+    "Database Theory - COMP CO859/Week 6/Class 10.md",
+    "Co-op Prep - PLAC CO-OP/Interview Prep/BASL Inc.md",
+    "Server Side Web Programming - COMP 10260/Week 7/Reading Week.md",
+    "Database Theory - COMP CO859/Week 7/Reading Week.md",
+    "Software Quality & Testing - COMP 10066/Week 7",
+    "Programming in .NET - COMP 10204/Week 7/Reading Week.md",
+    "Server Side Web Programming - COMP 10260/Week 7",
+    "Object Oriented Systems - COMP CO835/Week 7/Reading Week.md",
+    "Programming in .NET - COMP 10204/Week 7",
+    "Object Oriented Systems - COMP CO835/Week 7",
+    "Minecraft Mods and Shaders.md",
+    "Database Theory - COMP CO859/Week 7",
+    "README.md",
+    "Assets/Pasted image 20241015193326.png",
+    "Co-op Prep - PLAC CO-OP/Interview Prep/Government of Ontario - Ontario Ministry of Children and Youth Services.md",
     "Speculative Fiction - LITR 10000/To Do.md",
+    "Speculative Fiction - LITR 10000/Week 6/sci-fi_extraterrestrials.pdf",
+    "Speculative Fiction - LITR 10000/Week 6/Class 6.md",
     "Object Oriented Systems - COMP CO835/Textbook.pdf",
     "Object Oriented Systems - COMP CO835/Week 4/Week 4 Lecture Summary (1).pdf",
     "Object Oriented Systems - COMP CO835/Labs/Lab6.docx",
     "Object Oriented Systems - COMP CO835/Labs/New Microsoft Word Document.docx",
-    "Object Oriented Systems - COMP CO835/Learning Plan.pdf",
     "Object Oriented Systems - COMP CO835/To Do.md",
-    "Object Oriented Systems - COMP CO835/Week 6/Week 6 Lecture Summary.pdf",
     "Object Oriented Systems - COMP CO835/Week 6/Class 9.md",
-    "Object Oriented Systems - COMP CO835/Week 5/Week 5 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/Assignments/Assignment3.drawio",
-    "Object Oriented Systems - COMP CO835/Assignments/New Microsoft Word Document.docx",
-    "Software Quality & Testing - COMP 10066/To Do.md",
-    "Database Theory - COMP CO859/Course Information.md",
     "Server Side Web Programming - COMP 10260/Week 6/Class 11.md",
     "Database Theory - COMP CO859/To Do.md",
     "Programming in .NET - COMP 10204/To Do.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
-    "Software Quality & Testing - COMP 10066/Course Information.md",
     "Software Quality & Testing - COMP 10066/Week 6/Class 11.md",
     "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
-    "Speculative Fiction - LITR 10000/Week 6/Class 6.md",
-    "Speculative Fiction - LITR 10000/Week 6/sci-fi_extraterrestrials.pdf",
     "Speculative Fiction - LITR 10000/Week 5/Class 5.md",
-    "Server Side Web Programming - COMP 10260/Week 2/Class 3.md",
     "Pasted image 20241010143036.png",
-    "Server Side Web Programming - COMP 10260/Week 6/Class 10.md",
-    "Server Side Web Programming - COMP 10260/Course Information.md",
-    "Object Oriented Systems - COMP CO835/Course Information.md",
-    "Programming in .NET - COMP 10204/Course Information.md",
-    "Programming in .NET - COMP 10204/Week 6/Class 11.md",
-    "Database Theory - COMP CO859/Week 6/Class 11.md",
-    "Programming in .NET - COMP 10204/Week 6/Class 10.md",
-    "Database Theory - COMP CO859/Week 6/Class 10.md",
-    "Programming in .NET - COMP 10204/Personal Learning.md",
     "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/Shoot_Out_the_Lights_(Richard_Thompson_album_-_cover_art).jpg",
     "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/Revolver.jpg",
     "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
@@ -188,8 +193,6 @@
     "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/220px-The_Lamb_Lies_Down_on_Broadway.jpg",
     "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/220px-The_Doors_-_L.A._Woman.jpg",
     "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/220px-TheClashLondonCallingalbumcover.jpg",
-    "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/220px-Tales_from_Topographic_Oceans_(Yes_album).jpg",
-    "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/220px-RSSF71.jpg",
-    "Programming in .NET - COMP 10204/Week 5/Class 9.md"
+    "Programming in .NET - COMP 10204/Week 6/FormEvents_start/FormEvents/bin/Debug/220px-Tales_from_Topographic_Oceans_(Yes_album).jpg"
   ]
 }

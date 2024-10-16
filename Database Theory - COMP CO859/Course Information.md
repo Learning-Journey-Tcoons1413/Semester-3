@@ -11,7 +11,7 @@ Homework can be done during labs. It is not hard. Do not cheat. This class is ab
 **Grading:** 
 ***Must Have Passing Average***
 - Homework/Labs (20%)
-- Midterm (40%) - **DATE:** Wednesday October 30th
+- ==**Midterm (40%) DATE:** Wednesday October 30th,  9:30am - i110==
 	- 60% Multiple Choice
 	- SELECT statements 10 questions
 	- JOIN and GROUP questions

@@ -7,5 +7,5 @@
 | **Lab**         | Thursday, 2:00pm - 4:00pm, A120                                                                                        |
 **Grading**
 - Assignments x4 (40%)
-- Midterm **DATE:** Thursday, October 31st
+- ==Midterm **DATE:** Thursday, October 31st, 2:00pm | a120== 
 - Final (60%) - Paper

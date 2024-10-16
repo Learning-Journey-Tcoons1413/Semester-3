@@ -12,7 +12,9 @@
 
 ###### **General Grading Information:**
 - 2x Tests (30%)
-	- First Test **DATE:** October 24th
+	- ==**First Test Date**: October 24th, 5:00pm - In Person Classroom | h011==
+		- Covers Modules (Weeks) 1 -> 6
+	- **Second Test Data:** TBD
 - 6x Assignments (30%)
 - Quizzes (10%)
 - Final Assessment (30%) 

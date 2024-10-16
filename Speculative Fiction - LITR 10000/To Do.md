@@ -30,5 +30,5 @@
 
 [[Speculative Fiction - LITR 10000/Week 6/Class 6|Week 6]]
 
-- [ ] Complete Discussion 2
-- [ ] Do the weekly reading 
+- [x] Complete Discussion 2
+- [x] Do the weekly reading 

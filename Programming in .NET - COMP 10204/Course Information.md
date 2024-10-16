@@ -12,7 +12,7 @@
 
 **Course Evaluation:**
 - 5x Assignments (30%) | Non Paper
-- Midterm (30%) | Paper
+- ==Midterm (30%) Wednesday, October 30th | i202 | Paper==
 - Final Exam (40%) | Paper
 - Just pass everything
 

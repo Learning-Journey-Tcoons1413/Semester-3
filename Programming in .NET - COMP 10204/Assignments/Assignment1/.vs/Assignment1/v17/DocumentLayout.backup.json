@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\assignments\\assignment1\\outofsorts\\lab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|solutionrelative:outofsorts\\lab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\outofsorts\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|solutionrelative:outofsorts\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\assignments\\assignment1\\outofsorts\\lab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|solutionrelative:outofsorts\\lab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49CC3048-C489-4302-A297-F312FBE80FDB}|OutOfSorts\\OutOfSorts.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\outofsorts\\employees.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Lab1.cs",
               "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\OutOfSorts\\Lab1.cs",
               "RelativeDocumentMoniker": "OutOfSorts\\Lab1.cs",
               "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\OutOfSorts\\Lab1.cs",
               "RelativeToolTip": "OutOfSorts\\Lab1.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAwwNEAAABqAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwE4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T23:38:37.94Z",
               "IsPinned": true,
@@ -40,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\OutOfSorts\\Employee.cs",
               "RelativeDocumentMoniker": "OutOfSorts\\Employee.cs",
               "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment1\\OutOfSorts\\Employee.cs",
               "RelativeToolTip": "OutOfSorts\\Employee.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAuwAQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T23:40:48.579Z",
               "EditorCaption": ""

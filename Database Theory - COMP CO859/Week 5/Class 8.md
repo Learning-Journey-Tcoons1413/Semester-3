@@ -93,7 +93,7 @@ Data Processing in SQL Server
 
 - **Joining 3 Tables**:
 	```sql
-	SELECT p.product_id, product_description, sold,purchased  
+	SELECT p.product_id, product_description, sold, purchased  
 	FROM products p  
 	JOIN sales s  
 	ON p.product_id = s.product_id  

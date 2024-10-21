@@ -54,7 +54,7 @@
 
 ###### How to Test These Types of Documentation?
 - Printed / Electronic Manuals:
-  - Read manual for correctness.
+  - Read manual for **correctness**.
   - Expert user review – Domain Knowledge.
   - Novice user review – Determines ease of use.
 - Completed Examples / Tutorials / Video:

@@ -45,7 +45,7 @@
 - Improve Readability 
 - Updating new technologies 
 ###### **Backpacking Rule**
-- Leave the mess cleaner than when we found it 
+- Leave the mess cleaner than when we found it ************
 ###### **Version Control**
 - A way to document our files and keep track of them. 
 - **Source Code Control is the Management of**:

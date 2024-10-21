@@ -4,25 +4,19 @@
 ###### **Why Test**
 - Growing field 
 - Good starting position 
-
 ###### **Defining Software Testing**
 - Investigation that is done to provide information on a software program 
-
 ###### **Goal**
 - Find bugs 
-
 ###### **V-Model**
 - ![[Pasted image 20240909102759.png]]
-
 ###### **Quality Assurance**
 - Monitoring and evaluation of different aspects of a product to ensure that standards of quality are being used
 - **Goal:**
 	- Ensure processes and procedures are followed 
 	- Reduce the probability of bugs being introduced to the software in the first place 
-
 ###### **Programmers Involvement in Testing**
 - Build code that is well-documented that follows best practices and provide proof that the code meets specifications
-
 ###### **International Standard Organization (ISO)**
 - ISO 9000 is Quality Assurance 
 - ISO Standard for Software Development:

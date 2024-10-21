@@ -27,7 +27,7 @@
 [[Object Oriented Systems - COMP CO835/Week 6/Class 9|Week 6]]
 
 - [x] Download Week 6 PowerPoint slides
-- [ ] Submit Assignment 3
-- [ ] Submit Lab1 -> Lab6
+- [x] Submit Assignment 3
+- [x] Submit Lab1 -> Lab6
 
 

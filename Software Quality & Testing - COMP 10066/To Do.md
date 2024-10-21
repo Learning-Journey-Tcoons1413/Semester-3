@@ -22,7 +22,7 @@
 [[Software Quality & Testing - COMP 10066/Week 6/Class 10|Week 6]]
 
 - [x] Ask about Lab 4
-- [ ] Review all labs for midterm
-- [ ] Review hand-outs 
+- [x] Review all labs for midterm
+- [x] Review hand-outs 
 - [x] Submit Assignment 2
 

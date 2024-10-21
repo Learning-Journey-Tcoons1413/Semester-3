@@ -27,6 +27,6 @@
 
 [[Week 7]]
 
-- [ ] Submit Lab 5
+- [ ] Submit Lab 5 - Ask about last question
 
  

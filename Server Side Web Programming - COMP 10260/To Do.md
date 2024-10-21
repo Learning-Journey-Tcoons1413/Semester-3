@@ -25,5 +25,6 @@
 
 [[Server Side Web Programming - COMP 10260/Week 6/Class 10|Week 6]]
 
-- [ ] Catch up with Dave Slemon's Guide Class 10, 11, 12
-- [ ] Start Assignment 2
+- [x] Catch up with Dave Slemon's Guide Class 10, 11, 12
+- [x] Start Assignment 2
+- [ ] Flash Cards

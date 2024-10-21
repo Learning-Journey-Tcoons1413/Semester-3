@@ -41,4 +41,4 @@
 
 - [x] Watch Mark Yendt Videos 
 - [ ] Review code uploaded at the end of the week 6
-- [ ] Start Assignment 3
+- [x] Start Assignment 3

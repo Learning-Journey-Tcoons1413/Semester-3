@@ -417,3 +417,5 @@ public static int countAllVowels(String input){
 	  - Major – Crash (Exceptions, Blue screen of death, Data loss).
 	- These are aspects we expect to work correctly in any application.
 	- Generally, the programmer has failed to consider all cases when these bugs occur.
+- ==**Just Study This:**==
+	- ![[Pasted image 20241020203712.png]]

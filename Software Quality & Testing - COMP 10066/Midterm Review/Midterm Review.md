@@ -4,7 +4,7 @@
 - **Goal:**
 	- Find Bugs
 - **V-Model:**
-	- [Some fancy diagram here]
+	- ![[Pasted image 20240909102759.png]]
 - **Quality Assurance:**
 	- Ensures the standards of quality are used for a product 
 - **Programmers Involvement:**
@@ -29,7 +29,7 @@
 		1. How does organization complete its work 
 		2. Tells organization what needs to be done
 - **Testing on Software Dev Life Cycle:**
-	- [Some fancy diagram here]
+	- ![[Pasted image 20240909104951.png]]
 - **Limitations of Software Testing:**
 	- Cant find all bugs
 	- Cant cover all cases

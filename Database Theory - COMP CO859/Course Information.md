@@ -12,10 +12,12 @@ Homework can be done during labs. It is not hard. Do not cheat. This class is ab
 ***Must Have Passing Average***
 - Homework/Labs (20%)
 - ==**Midterm (40%) DATE:** Wednesday October 30th,  9:30am - i110==
-	- 60% Multiple Choice
-	- SELECT statements 10 questions
+	- 40 Multiple Choice Questions
 	- JOIN and GROUP questions
 	- Practice Lab 5
+	- Primary Key / Foreign Key
+	- Slide 25 Week 7 
+	- Lecture 3 - Create Index, Create View
 - Final Exam (40%)
 
 **Course Tools:**  

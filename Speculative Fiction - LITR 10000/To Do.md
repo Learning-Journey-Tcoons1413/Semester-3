@@ -32,3 +32,7 @@
 
 - [x] Complete Discussion 2
 - [x] Do the weekly reading 
+
+[[Speculative Fiction - LITR 10000/Week 7/Class 7|Week 7]]
+
+- [ ] Download this weeks PP 

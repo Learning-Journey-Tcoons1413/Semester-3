@@ -37,3 +37,13 @@ C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\obj\Debug\PayRollForm.cs
 C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\obj\Debug\PayRollForm.csproj.CoreCompileInputs.cache
 C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\obj\Debug\PayRollForm.exe
 C:\TeachingApplications\COMP10204\Class\W05_PayRollForm\obj\Debug\PayRollForm.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\W05_PayRollForm\obj\Debug\PayRollForm.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\W05_PayRollForm\obj\Debug\PayRollForm.FormPayrollSystem.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\W05_PayRollForm\obj\Debug\PayRollForm.Properties.Resources.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\W05_PayRollForm\obj\Debug\PayRollForm.csproj.GenerateResource.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\W05_PayRollForm\obj\Debug\PayRollForm.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\W05_PayRollForm\obj\Debug\PayRollForm.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\W05_PayRollForm\obj\Debug\PayRollForm.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\W05_PayRollForm\bin\Debug\PayRollForm.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\W05_PayRollForm\bin\Debug\PayRollForm.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 5\W05_PayRollForm\bin\Debug\PayRollForm.pdb

@@ -12,7 +12,7 @@ namespace FormEvents
 {
     public partial class FormAlbum : Form
     {
-        List<AlbumArt> albums;  // Instance of the model 
+        private List<AlbumArt> albums;  // Instance of the model 
         int currentShowing;
 
         public FormAlbum()

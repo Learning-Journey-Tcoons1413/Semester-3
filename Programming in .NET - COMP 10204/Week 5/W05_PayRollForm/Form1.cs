@@ -120,6 +120,11 @@ namespace PayRollForm
 
         private void buttonRead_Click(object sender, EventArgs e)
         {
+            Employee emp1 = new SalariedEmployee("Thomas", "Coons", "1123", 5400);
+
+            if (emp1 is SalariedEmployee semp)
+                semp.WeeklySalary = 0;
+
             try
             {
                 labelError.Text = "";

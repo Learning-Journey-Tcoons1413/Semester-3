@@ -28,3 +28,8 @@
 - [x] Catch up with Dave Slemon's Guide Class 10, 11, 12
 - [x] Start Assignment 2
 - [ ] Flash Cards
+
+[[Server Side Web Programming - COMP 10260/Week 7/Class 12|Week 7]]
+
+- [ ] Flash Cards
+- [ ] Submit and clean up / comment / check rubric for Assignment 2

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab3B
 {
-    internal class Employee
+    public class Employee
     {
         public string Name { get; }
         public int Rate { get; }

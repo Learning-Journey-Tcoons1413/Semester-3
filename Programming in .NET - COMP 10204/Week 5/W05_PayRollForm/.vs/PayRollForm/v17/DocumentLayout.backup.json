@@ -1,12 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Downloads\\W05_PayRollForm\\W05_PayRollForm\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A502FDF-92AB-4A6F-A4BC-EA24D9847312}|PayRollForm.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\week 5\\w05_payrollform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A502FDF-92AB-4A6F-A4BC-EA24D9847312}|PayRollForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A502FDF-92AB-4A6F-A4BC-EA24D9847312}|PayRollForm.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A502FDF-92AB-4A6F-A4BC-EA24D9847312}|PayRollForm.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A502FDF-92AB-4A6F-A4BC-EA24D9847312}|PayRollForm.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A502FDF-92AB-4A6F-A4BC-EA24D9847312}|PayRollForm.csproj|solutionrelative:salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A502FDF-92AB-4A6F-A4BC-EA24D9847312}|PayRollForm.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A502FDF-92AB-4A6F-A4BC-EA24D9847312}|PayRollForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A502FDF-92AB-4A6F-A4BC-EA24D9847312}|PayRollForm.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A502FDF-92AB-4A6F-A4BC-EA24D9847312}|PayRollForm.csproj|solutionrelative:hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A502FDF-92AB-4A6F-A4BC-EA24D9847312}|PayRollForm.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A502FDF-92AB-4A6F-A4BC-EA24D9847312}|PayRollForm.csproj|solutionrelative:commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAwwH8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:03:24.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:03:00.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "SalariedEmployee.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\SalariedEmployee.cs",
+              "RelativeToolTip": "SalariedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:03:19.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\HourlyEmployee.cs",
+              "RelativeToolTip": "HourlyEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:03:13.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommissionEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\CommissionEmployee.cs",
+              "RelativeDocumentMoniker": "CommissionEmployee.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\CommissionEmployee.cs",
+              "RelativeToolTip": "CommissionEmployee.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:02:28.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 5\\W05_PayRollForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Downloads\\W05_PayRollForm\\W05_PayRollForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:02:23.755Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

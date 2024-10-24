@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace Lab3B
 {
-    internal class Service
+    public class Service
     {
-        public string Name { get; }
+        public string Type { get; }
         public int Price { get; }
-        public Service(string name, int type)
+        public Service(string type, int price)
         { 
-            Name = name;
-            Price = type;
+            Type = type;
+            Price = price;
         }
         public override string ToString()
         {
-            return Name;
+            return Type;
         }
     }
 }

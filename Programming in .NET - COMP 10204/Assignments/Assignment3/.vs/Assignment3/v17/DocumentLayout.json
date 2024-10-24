@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D64F35E9-7B94-428C-A6B1-4CD6696215C0}|Lab3B\\Lab3B.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\assignments\\assignment3\\lab3b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D64F35E9-7B94-428C-A6B1-4CD6696215C0}|Lab3B\\Lab3B.csproj|solutionrelative:lab3b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3ECE4D84-7241-4557-B6D8-CE7A06769715}|Lab3A\\Lab3A.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\assignments\\assignment3\\lab3a\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECE4D84-7241-4557-B6D8-CE7A06769715}|Lab3A\\Lab3A.csproj|solutionrelative:lab3a\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64F35E9-7B94-428C-A6B1-4CD6696215C0}|Lab3B\\Lab3B.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\lab3b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64F35E9-7B94-428C-A6B1-4CD6696215C0}|Lab3B\\Lab3B.csproj|solutionrelative:lab3b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ECE4D84-7241-4557-B6D8-CE7A06769715}|Lab3A\\Lab3A.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\assignments\\assignment3\\lab3a\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECE4D84-7241-4557-B6D8-CE7A06769715}|Lab3A\\Lab3A.csproj|solutionrelative:lab3a\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64F35E9-7B94-428C-A6B1-4CD6696215C0}|Lab3B\\Lab3B.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\lab3b\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64F35E9-7B94-428C-A6B1-4CD6696215C0}|Lab3B\\Lab3B.csproj|solutionrelative:lab3b\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ECE4D84-7241-4557-B6D8-CE7A06769715}|Lab3A\\Lab3A.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\assignments\\assignment3\\lab3a\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECE4D84-7241-4557-B6D8-CE7A06769715}|Lab3A\\Lab3A.csproj|solutionrelative:lab3a\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64F35E9-7B94-428C-A6B1-4CD6696215C0}|Lab3B\\Lab3B.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\lab3b\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64F35E9-7B94-428C-A6B1-4CD6696215C0}|Lab3B\\Lab3B.csproj|solutionrelative:lab3b\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ECE4D84-7241-4557-B6D8-CE7A06769715}|Lab3A\\Lab3A.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\assignments\\assignment3\\lab3a\\iencryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECE4D84-7241-4557-B6D8-CE7A06769715}|Lab3A\\Lab3A.csproj|solutionrelative:lab3a\\iencryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64F35E9-7B94-428C-A6B1-4CD6696215C0}|Lab3B\\Lab3B.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\lab3b\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64F35E9-7B94-428C-A6B1-4CD6696215C0}|Lab3B\\Lab3B.csproj|solutionrelative:lab3b\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ECE4D84-7241-4557-B6D8-CE7A06769715}|Lab3A\\Lab3A.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\assignments\\assignment3\\lab3a\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECE4D84-7241-4557-B6D8-CE7A06769715}|Lab3A\\Lab3A.csproj|solutionrelative:lab3a\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,67 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3B\\Form1.cs",
-              "RelativeDocumentMoniker": "Lab3B\\Form1.cs",
-              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3B\\Form1.cs [Design]",
-              "RelativeToolTip": "Lab3B\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T19:46:01.074Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3B\\Form1.cs",
-              "RelativeDocumentMoniker": "Lab3B\\Form1.cs",
-              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3B\\Form1.cs",
-              "RelativeToolTip": "Lab3B\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAABAAAAAAAAAAA==",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3A\\Book.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Book.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3A\\Book.cs",
+              "RelativeToolTip": "Lab3A\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T00:34:36.462Z"
+              "WhenOpened": "2024-10-23T01:44:48.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeServices.cs",
-              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3B\\EmployeeServices.cs",
-              "RelativeDocumentMoniker": "Lab3B\\EmployeeServices.cs",
-              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3B\\EmployeeServices.cs",
-              "RelativeToolTip": "Lab3B\\EmployeeServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3A\\Movie.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Movie.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3A\\Movie.cs",
+              "RelativeToolTip": "Lab3A\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T00:28:52.782Z"
+              "WhenOpened": "2024-10-23T01:44:13.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3A\\Media.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Media.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3A\\Media.cs",
+              "RelativeToolTip": "Lab3A\\Media.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:44:11.212Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3B\\Employee.cs",
-              "RelativeDocumentMoniker": "Lab3B\\Employee.cs",
-              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3B\\Employee.cs",
-              "RelativeToolTip": "Lab3B\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Title": "ISearchable.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3A\\ISearchable.cs",
+              "RelativeDocumentMoniker": "Lab3A\\ISearchable.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3A\\ISearchable.cs",
+              "RelativeToolTip": "Lab3A\\ISearchable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T00:41:15.031Z"
+              "WhenOpened": "2024-10-23T01:44:10.272Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Services.cs",
-              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3B\\Services.cs",
-              "RelativeDocumentMoniker": "Lab3B\\Services.cs",
-              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3B\\Services.cs",
-              "RelativeToolTip": "Lab3B\\Services.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Title": "IEncryptable.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3A\\IEncryptable.cs",
+              "RelativeDocumentMoniker": "Lab3A\\IEncryptable.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Assignments\\Assignment3\\Lab3A\\IEncryptable.cs",
+              "RelativeToolTip": "Lab3A\\IEncryptable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T02:00:05.126Z"
+              "WhenOpened": "2024-10-23T01:44:08.923Z",
+              "EditorCaption": ""
             }
           ]
         }

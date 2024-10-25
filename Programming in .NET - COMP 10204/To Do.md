@@ -48,5 +48,5 @@
 - [x] Ask Prof about the interface implementing the method that all other classes must implement
 - [ ] Watch Mark Yendt Video
 - [ ] Get example code for this week
-- [ ] Upload this weeks video 
-- [ ] Ask prof about test material: LINQ, Sorting Algorithms (Bubble Sort), Files (Reading / Writing)
+- [x] Upload this weeks video 
+- [x] Ask prof about test material: LINQ, Sorting Algorithms (Bubble Sort), Files (Reading / Writing)

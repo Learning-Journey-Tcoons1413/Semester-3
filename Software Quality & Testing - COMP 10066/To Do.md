@@ -28,4 +28,4 @@
 
 [[Software Quality & Testing - COMP 10066/Week 7/Class 12|Week 7]]
 
-- [ ] Nothing to do for now
+- [x] Nothing to do for now

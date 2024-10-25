@@ -27,7 +27,7 @@
 
 [[Week 7]]
 
-- [ ] Submit Lab 5 - Ask about last question
+- [x] Submit Lab 5 - Ask about last question
 - [ ] Review PowerPoint Slides from this week and make notes
 
  

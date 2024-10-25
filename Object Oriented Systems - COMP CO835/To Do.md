@@ -30,4 +30,9 @@
 - [x] Submit Assignment 3
 - [x] Submit Lab1 -> Lab6
 
+[[Object Oriented Systems - COMP CO835/Week 7/Class 10|Week 7]]
+
+- [x] Download this weeks PP
+- [x] Complete Assignment 4
+
 

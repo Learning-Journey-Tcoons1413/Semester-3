@@ -8,4 +8,12 @@
 **Grading**
 - Assignments x4 (40%)
 - ==Midterm **DATE:** Thursday, October 31st, 2:00pm | a120== 
+	- Fix a program
+	- Loose typing
+	- Operator precedence 
+	- XSS
+	- SESSIONS
+	- COOKIES
+	- Part A: 8 questions
+	- Part B: 4 questions  
 - Final (60%) - Paper

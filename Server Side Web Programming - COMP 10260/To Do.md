@@ -21,15 +21,15 @@
 [[Server Side Web Programming - COMP 10260/Week 5/Class 8|Week 5]]
 
 - [x] Submit Assignment 1
-- [ ] Flash Cards
+- [x] Flash Cards
 
 [[Server Side Web Programming - COMP 10260/Week 6/Class 10|Week 6]]
 
 - [x] Catch up with Dave Slemon's Guide Class 10, 11, 12
 - [x] Start Assignment 2
-- [ ] Flash Cards
+- [x] Flash Cards
 
 [[Server Side Web Programming - COMP 10260/Week 7/Class 12|Week 7]]
 
-- [ ] Flash Cards
-- [ ] Submit and clean up / comment / check rubric for Assignment 2
+- [x] Flash Cards
+- [x] Submit and clean up / comment / check rubric for Assignment 2

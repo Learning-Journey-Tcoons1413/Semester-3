@@ -18,8 +18,7 @@ Update
 
 ###### **Inserting A Single Row**
 ```sql
-INSERT INTO table_name  
-[(column_1, column_2, column_3, column_4)]  
+INSERT INTO table_name(column_1, column_2, column_3, column_4)
 VALUES(value1, value2, value3, value4)
 ```
 - Column names are optional 

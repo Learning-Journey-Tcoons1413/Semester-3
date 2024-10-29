@@ -1,0 +1,10 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermFrom\bin\Debug\MidtermFrom.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermFrom\bin\Debug\MidtermFrom.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermFrom\bin\Debug\MidtermFrom.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermFrom\obj\Debug\MidtermFrom.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermFrom\obj\Debug\MidtermFrom.Form1.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermFrom\obj\Debug\MidtermFrom.Properties.Resources.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermFrom\obj\Debug\MidtermFrom.csproj.GenerateResource.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermFrom\obj\Debug\MidtermFrom.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermFrom\obj\Debug\MidtermFrom.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermFrom\obj\Debug\MidtermFrom.pdb

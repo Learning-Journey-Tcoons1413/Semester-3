@@ -14,7 +14,7 @@
 - **Functional Dependency**
 	- Relationship between a determinant A and dependent attribute B
 - **Candidate Key**
-	- An attribute that could be used a a primary key 
+	- An attribute that could be used a primary key 
 - **Primary key**
 	- Cannot be NULL
 	- Meaningless but unique number `MBUN`

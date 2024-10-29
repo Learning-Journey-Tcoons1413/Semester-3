@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\Midterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CD6773-26BF-4684-B1D8-79A4958FC68F}|MidtermConsole\\MidtermConsole.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\csharppractise\\midterm\\midtermconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3CD6773-26BF-4684-B1D8-79A4958FC68F}|MidtermConsole\\MidtermConsole.csproj|solutionrelative:midtermconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F85B8A2-D904-4778-A4CD-93EA0A50611C}|MidtermFrom\\MidtermFrom.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\csharppractise\\midterm\\midtermfrom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F85B8A2-D904-4778-A4CD-93EA0A50611C}|MidtermFrom\\MidtermFrom.csproj|solutionrelative:midtermfrom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F85B8A2-D904-4778-A4CD-93EA0A50611C}|MidtermFrom\\MidtermFrom.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\csharppractise\\midterm\\midtermfrom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F85B8A2-D904-4778-A4CD-93EA0A50611C}|MidtermFrom\\MidtermFrom.csproj|solutionrelative:midtermfrom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\Midterm\\MidtermConsole\\Program.cs",
+              "RelativeDocumentMoniker": "MidtermConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\Midterm\\MidtermConsole\\Program.cs",
+              "RelativeToolTip": "MidtermConsole\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:57:24.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\Midterm\\MidtermFrom\\Form1.cs",
+              "RelativeDocumentMoniker": "MidtermFrom\\Form1.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\Midterm\\MidtermFrom\\Form1.cs",
+              "RelativeToolTip": "MidtermFrom\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAnwCYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:54:41.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\Midterm\\MidtermFrom\\Form1.cs",
+              "RelativeDocumentMoniker": "MidtermFrom\\Form1.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\csharppractise\\Midterm\\MidtermFrom\\Form1.cs [Design]",
+              "RelativeToolTip": "MidtermFrom\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:46:26.689Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

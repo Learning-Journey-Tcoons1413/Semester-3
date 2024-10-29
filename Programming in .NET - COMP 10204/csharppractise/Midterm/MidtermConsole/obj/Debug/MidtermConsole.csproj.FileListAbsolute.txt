@@ -1,0 +1,8 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermConsole\bin\Debug\people.txt
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermConsole\bin\Debug\MidtermConsole.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermConsole\bin\Debug\MidtermConsole.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermConsole\bin\Debug\MidtermConsole.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermConsole\obj\Debug\MidtermConsole.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermConsole\obj\Debug\MidtermConsole.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermConsole\obj\Debug\MidtermConsole.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\csharppractise\Midterm\MidtermConsole\obj\Debug\MidtermConsole.pdb

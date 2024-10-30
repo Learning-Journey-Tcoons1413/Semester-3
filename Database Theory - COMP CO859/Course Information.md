@@ -13,6 +13,8 @@ Homework can be done during labs. It is not hard. Do not cheat. This class is ab
 - Homework/Labs (20%)
 - ==**Midterm (40%) DATE:** Wednesday October 30th,  9:30am - i110==
 	- 40 Multiple Choice Questions
+	- 4 SELECT statement explain output
+	- 4 CREATE select statement
 	- JOIN and GROUP questions
 	- Practice Lab 5
 	- Primary Key / Foreign Key

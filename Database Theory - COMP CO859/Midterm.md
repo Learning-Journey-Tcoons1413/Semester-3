@@ -143,7 +143,11 @@
 	salary DECIMAL(8, 2) CHECK(salary >= 0))
 ```
 - This allows for automatic assigning of unique primary keys
-
+- Insert a column
+```sql 
+ALTER TABLE table_name
+ADD column_name VARCHAR(2) CHECK (column_name IN('ON','QC','NO','NB'));
+```
 #### Delete
 
 - Delete many or single rows, WHERE clause option (deletes all without)
@@ -187,4 +191,159 @@
 
 #### Joining Tables
 
-- 
+- Overall, joining tables is essential for effective data retrieval and manipulation in relational databases.
+```sql
+SELECT alias.column_name, otheralias.column_name, Orders.OrderDate 
+FROM table_name AS alias
+JOIN other_table_name AS otheralias
+ON alias.primary_key = otheralias.foriegn_key /*Prim Key = For Key*/
+```
+- **Join Types:**
+	- **Inner** join -**Returns** only the rows where there is a match in both tables.
+	
+	- **Left** **outer** **join** - Returns all rows from the left table and the matched rows from the right table.
+	
+	- **Right** **outer** **join** - Returns all rows from the right table and the matched rows from the left table
+	
+	- **Full** **outer** **join** - Returns all rows when there is a match in either the left or right table.
+	
+	- **Cross** **join** - Returns the Cartesian product of two tables, meaning every row from the first table is paired with every row from the second table.
+- Complicated Example:
+	```sql
+	SELECT nu.nursing_unit_id, a.admission_date, p.first_name + ' ' + p.last_name AS name
+	FROM nursing_units AS nu
+	JOIN admissions AS a
+	ON nu.nursing_unit_id = a.nursing_unit_id
+	JOIN patients AS p
+	ON a.patient_id = p.patient_id
+	WHERE a.admission_date BETWEEN '2021-9-01' AND '2021-10-28'
+	ORDER BY a.admission_date
+	```
+
+#### Group By
+
+- Must be used with aggregate functions
+```sql
+SELECT province_id, city, COUNT(*) AS num_of_patients
+FROM patients  
+GROUP BY province_id, city  
+ORDER BY province_id, city
+```
+- **Multiple Columns**: You can group by multiple columns if needed.
+- **Aggregate Functions**: Must use aggregate functions on columns not in the `GROUP BY` clause.
+- ![[Pasted image 20241029161231.png]]
+
+#### Data Processing 
+- **Default Date Format**: `yyyy-mm-dd`
+    
+- **Control Date Format**: Use `SET DATEFORMAT`  
+    Options:
+    
+    - `dmy` (common worldwide)
+    - `mdy` (common in the USA)
+    - `ymd` (unambiguous, best choice)
+- **Date Functions**:
+    
+    - **DATEDIFF(datepart, startdate, enddate)**: Calculates the difference between two dates.
+        - `datepart`: year, month, day, etc.
+    - **DATEADD(datepart, number, date)**: Adds a specified number of date parts to a date.  
+        Examples:
+        - `SELECT DATEADD(DAY, 60, '2024-09-01')` → 2024-10-31
+        - Use negative values to subtract dates:
+            - `SELECT DATEADD(DAY, -60, '2024-09-01')` → 2024-07-03
+- **Current Date**:
+    
+    - `GETDATE()`: Returns the current date and time.
+    - To get the date without time:
+        - `SELECT CONVERT(DATE, GETDATE())`
+- **Calculating Age**:
+```sql
+SELECT birth_date, 
+	FLOOR(DATEDIFF(DAY, birth_date, GETDATE()) / 365.25) 
+FROM patients
+```
+    
+- **Extracting Date Parts**:
+    
+```sql
+SELECT encounter_date_time, 
+	DATEPART(HOUR, encounter_date_time) AS [hour], 
+	DATEPART(MINUTE, encounter_date_time) AS [minute], 
+	DATEPART(SECOND, encounter_date_time) AS [second] 
+FROM encounters
+```
+- Use `DATENAME(datepart, date)` for string output instead of integers.
+
+#### Predicates
+
+- A condition that is true or false or unknown about a given row or group
+- Used in WHERE clauses
+- BETWEEN
+- EXISTS
+- IN
+- LIKE
+- NULL
+- Basic:
+	- `=, < >, <, >, <=, >=`
+- BETWEEN
+	- inclusive 
+	- `WHERE patient_height BETWEEN 100 AND 105  `
+- EXIST
+	- Must use subquery
+	- Test existence of certain rows
+	- EXISTS returns true if a subquery contains any rows  
+```sql
+WHERE EXISTS 
+	(SELECT * FROM unit_dose_orders  
+		WHERE unit_dose_orders.patient_id = patients.patient_id)
+```
+- IN
+	- Compares a value with a set of values
+- LIKE
+	- `WHERE column_name LIKE '%Diab%'`
+- NULL
+- TOP
+```sql
+	SELECT TOP 5 *  
+	FROM patients
+	
+	SELECT TOP 5 PERCENT *  
+	FROM patients
+```
+- HAVING
+	- used with group by
+
+#### ERD
+
+- ###### **Entities**
+- **Entity Relationship Model**
+	- A form of semantic modeling  
+	- A description of the data in a system  
+	- Today’s method influenced by Peter Chen who devised ERM in 1976  
+	- Represented by Entity Relationship Diagrams (ERDs)
+
+- **Entities**
+	- A person, place, or thing or an event about which we keep information
+	- Shows as a rectangular box, labeled with the name of the entity 
+
+- **Bank Entities**
+	- People or Companies
+		- Customers, Tellers, Suppliers
+	- Places
+		- Branches, Regions
+	- Things
+		- Accounts, Fixed Assets
+	- Events
+		- Withdrawals, Deposits, Loan Applications 
+	- ![[Pasted image 20241007085037.png]]
+- ###### **Relationships**
+	- Exists between pairs of entities
+	- Three Kinds:
+		- ![[Pasted image 20241007085509.png]]
+
+
+#### Like
+
+- `'%Moo'` = search for everything ending with the substring
+- `'Moo%'` = search for everything starting with the substring
+- `'%Moo%'` = search for everything with the substring

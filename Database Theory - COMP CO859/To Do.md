@@ -25,9 +25,13 @@
 
 - [x] Start Lab 5
 
-[[Week 7]]
+[[Database Theory - COMP CO859/Week 7/Class 13|Week 7]]
 
 - [x] Submit Lab 5 - Ask about last question
+- [ ] Review PowerPoint Slides from this week and make notes
+
+[[Database Theory - COMP CO859/Week 8/Class 14|Week 8]]
+
 - [ ] Review PowerPoint Slides from this week and make notes
 
  

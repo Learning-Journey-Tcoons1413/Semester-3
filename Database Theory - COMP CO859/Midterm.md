@@ -64,6 +64,14 @@
 	CONSTRAINT FK_employees2_department_id FOREIGN KEY(department_id)  
 	REFERENCES departments(department_id))
 	```
+- Table Creation With IDENTITY 
+```sql
+	CREATE TABLE employees  
+	(employee_id INT IDENTITY PRIMARY KEY,  
+	employee_name VARCHAR(50),  
+	birth_date DATE,  
+	salary DECIMAL(8, 2) CHECK(salary >= 0))
+```
 - Adding Column To Table after table has been created:
 	```sql
 	ALTER TABLE table_name 
@@ -133,15 +141,6 @@
 	- All columns specified must have values
 	- If column names not provided, all columns must have value specified 
 	- The missing column(s) must allow NULL or have a default value
-	
-- Table Creation With IDENTITY 
-```sql
-	CREATE TABLE employees  
-	(employee_id INT IDENTITY PRIMARY KEY,  
-	employee_name VARCHAR(50),  
-	birth_date DATE,  
-	salary DECIMAL(8, 2) CHECK(salary >= 0))
-```
 - This allows for automatic assigning of unique primary keys
 - Insert a column
 ```sql 

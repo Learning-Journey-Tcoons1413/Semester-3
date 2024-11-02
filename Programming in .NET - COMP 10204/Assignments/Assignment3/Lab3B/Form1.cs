@@ -7,13 +7,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+// I, Thomas Coons, 000317961 certify that this material is my original work.  No other person's work has been used without due acknowledgement.
+// Date: November 2nd 2024
 namespace Lab3B
 {
     public partial class Form1 : Form
     {
         public int clickCount = 0;
         EmployeeServices employeeServices;
+
+        /// <summary>
+        /// Main Form Component
+        /// </summary>
         public Form1()
         {
             InitializeComponent();
@@ -53,6 +58,12 @@ namespace Lab3B
             priceListBox.RightToLeft = RightToLeft.Yes;
 
         }
+
+        /// <summary>
+        /// Add Service Button
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void addButton_Click(object sender, EventArgs e)
         {
             calculateButton.Enabled = true;    
@@ -77,14 +88,32 @@ namespace Lab3B
 
 
         }
+
+        /// <summary>
+        /// Select Service Boolean
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void selectServiceListBox_Click(object sender, EventArgs e)
         {
             addButton.Enabled = true;   
         }
+
+        /// <summary>
+        /// Calculates services button
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void calculateButton_Click(object sender, EventArgs e)
         {
             totalPriceTextBox.Text = $"{employeeServices.CalculateTotal().ToString("C")}";
         }
+
+        /// <summary>
+        /// Resets form
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void resetButton_Click(object sender, EventArgs e)
         {
             hairdresserComboBox.SelectedIndex = 0;
@@ -95,6 +124,12 @@ namespace Lab3B
             employeeServices = null;
             clickCount = 0;
         }
+
+        /// <summary>
+        /// Exits application
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void exitButton_Click(object sender, EventArgs e)
         {
             Application.Exit();

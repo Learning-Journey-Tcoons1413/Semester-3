@@ -2,7 +2,7 @@
 using System.Diagnostics.Eventing.Reader;
 using System.IO;
 // I, Thomas Coons, 000317961 certify that this material is my original work.  No other person's work has been used without due acknowledgement.
-// Date: October 16th 2024
+// Date: November 2nd 2024
 namespace Lab3A
 {
     /// <summary>
@@ -12,6 +12,11 @@ namespace Lab3A
     {
         //Const variable for text file
         const string DATA = "Data.txt";
+
+        /// <summary>
+        /// Main method of the main class. Handles user input and output.
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             string userInput = "";
@@ -67,6 +72,12 @@ namespace Lab3A
 
 
         }
+
+        /// <summary>
+        /// Reads the 'Data.txt' file and forms a list of Media objects.
+        /// </summary>
+        /// <returns>A list of Media objects</returns>
+        /// <exception cref="ArgumentException">Exception thrown due to insufficient file size</exception>
         public static Media[] ReadData()
         {
 
@@ -118,6 +129,10 @@ namespace Lab3A
             return media;
 
         }
+
+        /// <summary>
+        /// Simple method to display a recurring menu.
+        /// </summary>
         public static void Menu()
         {
             Console.ForegroundColor = ConsoleColor.Green;
@@ -135,6 +150,12 @@ namespace Lab3A
             Console.ForegroundColor = ConsoleColor.Cyan;
 
         }
+
+        /// <summary>
+        /// Prints the specified data based on user input.
+        /// </summary>
+        /// <param name="mediaChoice">The list of Media objects to filter through</param>
+        /// <param name="input">User's choice</param>
         public static void PrintData(Media[] mediaChoice, string input)
         {
             Console.Clear();
@@ -175,6 +196,12 @@ namespace Lab3A
             Console.ReadKey();
             Console.Clear();
         }
+
+        /// <summary>
+        /// Prints the specified searched data based on user input.
+        /// </summary>
+        /// <param name="mediaSearch">The list of Media objects to filter through</param>
+        /// <param name="search">User's search criteria</param>
         public static void PrintSearchedData(Media[] mediaSearch, string search)
         {
             string summary = "";

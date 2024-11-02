@@ -1,4 +1,6 @@
-*Date*: *October 30th 2024*
+*Date*: *October 31st 2024*
 
-We wrote the midterm
+In class Lab 7
+
+
 

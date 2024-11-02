@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3964b42ace86ecaa",
+        "id": "6465700d35620443",
         "type": "tabs",
         "children": [
           {
-            "id": "ff744f15dce6e646",
+            "id": "c350f825922739aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 8/Class 15.md",
+                "file": "Programming in .NET - COMP 10204/Week 8/Class 15.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Week 8/Class 15.md",
+                "file": "Programming in .NET - COMP 10204/Week 8/Class 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Week 8/Class 15.md",
+                "file": "Programming in .NET - COMP 10204/Week 8/Class 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Week 8/Class 15.md"
+                "file": "Programming in .NET - COMP 10204/Week 8/Class 15.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Class 15"
@@ -162,38 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff744f15dce6e646",
+  "active": "c350f825922739aa",
   "lastOpenFiles": [
-    "Database Theory - COMP CO859/Week 8/Class 14.md",
-    "Assets/Pasted image 20241102124907.png",
-    "Assets/Pasted image 20241102124837.png",
-    "Assets/Pasted image 20241102122404.png",
-    "Assets/Pasted image 20241102122137.png",
-    "Database Theory - COMP CO859/Week 7/Class 12.md",
-    "Assets/Pasted image 20241102121637.png",
-    "Assets/Pasted image 20241102120343.png",
-    "Database Theory - COMP CO859/Week 6/Class 10.md",
-    "Assets/Pasted image 20241102115719.png",
-    "Assets/Pasted image 20241102115601.png",
-    "Database Theory - COMP CO859/Week 7/Class 13.md",
-    "Database Theory - COMP CO859/Midterm.md",
-    "Object Oriented Systems - COMP CO835/Week 8/Class Exercise 7 (Lab 7).pdf",
-    "Object Oriented Systems - COMP CO835/Week 8/Class 13.md",
-    "Object Oriented Systems - COMP CO835/Week 8/msoE1C0.tmp",
-    "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
-    "Software Quality & Testing - COMP 10066/Week 7/Class 12.md",
-    "Software Quality & Testing - COMP 10066/Week 7/Class 11.md",
-    "Software Quality & Testing - COMP 10066/Week 8/Software Quality Lecture 8 -  Exploratory & Black-Box testing.pdf",
-    "Software Quality & Testing - COMP 10066/Week 8/Class 14.md",
-    "Software Quality & Testing - COMP 10066/Week 8/Class 13.md",
-    "Server Side Web Programming - COMP 10260/Week 8/Class 15.md",
-    "Server Side Web Programming - COMP 10260/Week 8/Class 14.md",
-    "Programming in .NET - COMP 10204/Week 8/Class 15.md",
     "Programming in .NET - COMP 10204/Week 8/Class 14.md",
-    "Object Oriented Systems - COMP CO835/Week 8/Class 12.md",
-    "Database Theory - COMP CO859/Week 8/Class 15.md",
-    "Speculative Fiction - LITR 10000/Week 8/Class 8.md",
-    "Speculative Fiction - LITR 10000/Week 7/Class 7.md",
-    "Speculative Fiction - LITR 10000/Week 8"
+    "Programming in .NET - COMP 10204/Week 8/Class 15.md"
   ]
 }

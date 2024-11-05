@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 9\\Week9Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E53DA7-F8A3-4DBF-9CD8-EE3E83415ACE}|Week9Exercise\\Week9Exercise.csproj|c:\\users\\tomco\\onedrive\\desktop\\mohawk\\semester 3\\programming in .net - comp 10204\\week 9\\week9exercise\\week9exercise\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E53DA7-F8A3-4DBF-9CD8-EE3E83415ACE}|Week9Exercise\\Week9Exercise.csproj|solutionrelative:week9exercise\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E53DA7-F8A3-4DBF-9CD8-EE3E83415ACE}|Week9Exercise\\Week9Exercise.csproj|C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 9\\Week9Exercise\\week9exercise\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03E53DA7-F8A3-4DBF-9CD8-EE3E83415ACE}|Week9Exercise\\Week9Exercise.csproj|solutionrelative:week9exercise\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 9\\Week9Exercise\\Week9Exercise\\Form1.cs",
+              "RelativeDocumentMoniker": "Week9Exercise\\Form1.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 9\\Week9Exercise\\Week9Exercise\\Form1.cs [Design]*",
+              "RelativeToolTip": "Week9Exercise\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:44:25.403Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 9\\Week9Exercise\\Week9Exercise\\Form1.cs",
+              "RelativeDocumentMoniker": "Week9Exercise\\Form1.cs",
+              "ToolTip": "C:\\Users\\tomco\\OneDrive\\Desktop\\Mohawk\\Semester 3\\Programming in .NET - COMP 10204\\Week 9\\Week9Exercise\\Week9Exercise\\Form1.cs*",
+              "RelativeToolTip": "Week9Exercise\\Form1.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:50:29.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

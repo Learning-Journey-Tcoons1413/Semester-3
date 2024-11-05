@@ -29,3 +29,11 @@
 [[Software Quality & Testing - COMP 10066/Week 7/Class 12|Week 7]]
 
 - [x] Nothing to do for now
+
+[[Software Quality & Testing - COMP 10066/Week 8/Class 13|Week 8]]
+
+- [x] Nothing
+
+[[Software Quality & Testing - COMP 10066/Week 9/Class 15|Week 9]]
+
+- [ ] Complete Assignment 3

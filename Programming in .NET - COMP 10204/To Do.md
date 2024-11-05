@@ -50,3 +50,11 @@
 - [ ] Get example code for this week
 - [x] Upload this weeks video 
 - [x] Ask prof about test material: LINQ, Sorting Algorithms (Bubble Sort), Files (Reading / Writing)
+
+[[Programming in .NET - COMP 10204/Week 8/Class 14|Week 8]]
+
+- [x] Wrote the midterm
+
+[[Programming in .NET - COMP 10204/Week 9/Class 16|Week 9]]
+
+- [ ] Mark Yendt Video... or kms whichever 

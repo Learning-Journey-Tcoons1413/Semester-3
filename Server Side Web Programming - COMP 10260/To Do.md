@@ -33,3 +33,13 @@
 
 - [x] Flash Cards
 - [x] Submit and clean up / comment / check rubric for Assignment 2
+
+[[Server Side Web Programming - COMP 10260/Week 8/Class 14|Week 8]]
+
+- [x] We wrote the midterm
+
+[[Server Side Web Programming - COMP 10260/Week 9/Class 16|Week 9]]
+
+- [ ] Transfer xamp folder from desktop to laptop
+- [ ] Review Sam Scott Video Class 15
+- [ ] Review this week's content from Dave Slemon

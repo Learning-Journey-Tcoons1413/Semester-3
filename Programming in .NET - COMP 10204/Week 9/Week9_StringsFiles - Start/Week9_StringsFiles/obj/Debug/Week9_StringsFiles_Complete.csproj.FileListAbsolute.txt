@@ -1,0 +1,33 @@
+C:\TeachingApplications\COMP10204\Class\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles.Form1.resources
+C:\TeachingApplications\COMP10204\Class\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles.Properties.Resources.resources
+C:\TeachingApplications\COMP10204\Class\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles_Complete.csproj.GenerateResource.cache
+C:\TeachingApplications\COMP10204\Class\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles_Complete.csproj.CoreCompileInputs.cache
+C:\TeachingApplications\COMP10204\Class\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles.exe
+C:\TeachingApplications\COMP10204\Class\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles.pdb
+C:\TeachingApplications\COMP10204\Class\Week9_StringsFiles - Start\Week9_StringsFiles\bin\Debug\Week9_StringsFiles.exe.config
+C:\TeachingApplications\COMP10204\Class\Week9_StringsFiles - Start\Week9_StringsFiles\bin\Debug\Week9_StringsFiles.exe
+C:\TeachingApplications\COMP10204\Class\Week9_StringsFiles - Start\Week9_StringsFiles\bin\Debug\Week9_StringsFiles.pdb
+C:\TeachingApplications\COMP10204\Class\Week9_StringsFiles - Start\Week9_StringsFiles\bin\Debug\Products.txt
+C:\TeachingApplications\COMP10204\Class\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles_Complete.csprojAssemblyReference.cache
+C:\Users\tomco\Downloads\Week9_StringsFiles - Start\Week9_StringsFiles - Start\Week9_StringsFiles\bin\Debug\Products.txt
+C:\Users\tomco\Downloads\Week9_StringsFiles - Start\Week9_StringsFiles - Start\Week9_StringsFiles\bin\Debug\Week9_StringsFiles.exe.config
+C:\Users\tomco\Downloads\Week9_StringsFiles - Start\Week9_StringsFiles - Start\Week9_StringsFiles\bin\Debug\Week9_StringsFiles.exe
+C:\Users\tomco\Downloads\Week9_StringsFiles - Start\Week9_StringsFiles - Start\Week9_StringsFiles\bin\Debug\Week9_StringsFiles.pdb
+C:\Users\tomco\Downloads\Week9_StringsFiles - Start\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles_Complete.csproj.AssemblyReference.cache
+C:\Users\tomco\Downloads\Week9_StringsFiles - Start\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles.Form1.resources
+C:\Users\tomco\Downloads\Week9_StringsFiles - Start\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles.Properties.Resources.resources
+C:\Users\tomco\Downloads\Week9_StringsFiles - Start\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles_Complete.csproj.GenerateResource.cache
+C:\Users\tomco\Downloads\Week9_StringsFiles - Start\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles_Complete.csproj.CoreCompileInputs.cache
+C:\Users\tomco\Downloads\Week9_StringsFiles - Start\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles.exe
+C:\Users\tomco\Downloads\Week9_StringsFiles - Start\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 9\Week9_StringsFiles - Start\Week9_StringsFiles\bin\Debug\Products.txt
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 9\Week9_StringsFiles - Start\Week9_StringsFiles\bin\Debug\Week9_StringsFiles.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 9\Week9_StringsFiles - Start\Week9_StringsFiles\bin\Debug\Week9_StringsFiles.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 9\Week9_StringsFiles - Start\Week9_StringsFiles\bin\Debug\Week9_StringsFiles.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 9\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles_Complete.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 9\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles.Form1.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 9\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles.Properties.Resources.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 9\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles_Complete.csproj.GenerateResource.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 9\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles_Complete.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 9\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 9\Week9_StringsFiles - Start\Week9_StringsFiles\obj\Debug\Week9_StringsFiles.pdb

@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1a84e7486ea84f09",
+        "id": "9f079c67029432c6",
         "type": "tabs",
         "children": [
           {
-            "id": "17010e3a1c44fc42",
+            "id": "a51ded04d3d9ac10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Programming in .NET - COMP 10204/Week 7/Class 12.md",
-                "mode": "source",
-                "source": false
+                "file": "Software Quality & Testing - COMP 10066/Week 9/Software Quality Lecture 9 - Bug Reporting and Resolution.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Class 12"
+              "icon": "lucide-file-text",
+              "title": "Software Quality Lecture 9 - Bug Reporting and Resolution"
             }
           }
         ]
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bug reporting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,45 +160,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17010e3a1c44fc42",
+  "active": "a51ded04d3d9ac10",
   "lastOpenFiles": [
-    "Programming in .NET - COMP 10204/Week 6/Class 10.md",
+    "Software Quality & Testing - COMP 10066/Week 8/Software Quality Lecture 8 -  Exploratory & Black-Box testing.pdf",
+    "Software Quality & Testing - COMP 10066/Week 8/Class 14.md",
+    "Software Quality & Testing - COMP 10066/Week 8/Class 13.md",
+    "Software Quality & Testing - COMP 10066/Week 7/Class 12.md",
+    "Software Quality & Testing - COMP 10066/Week 7/Class 11.md",
+    "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
+    "Programming in .NET - COMP 10204/Week 9/Class 17.md",
+    "Programming in .NET - COMP 10204/Week 9/Class 16.md",
+    "Database Theory - COMP CO859/Week 8/Class 14.md",
+    "Database Theory - COMP CO859/Labs/Lab6.txt",
+    "Database Theory - COMP CO859/Labs/New Text Document.txt",
+    "Database Theory - COMP CO859/Labs/Lab6/Lab6.txt",
+    "Database Theory - COMP CO859/Week 2/Class 2.md",
+    "Database Theory - COMP CO859/Midterm.md",
+    "Database Theory - COMP CO859/Week 9/Class 17.md",
+    "Database Theory - COMP CO859/Labs/Lab6/Lab4.txt",
+    "Database Theory - COMP CO859/Labs/Lab6",
+    "Database Theory - COMP CO859/Labs/New folder",
+    "Database Theory - COMP CO859/Week 9/Class 16.md",
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Object Oriented Systems - COMP CO835/Course Information.md",
+    "Programming in .NET - COMP 10204/Week 9/Week9_StringsFiles - Start/Week9_StringsFiles/bin/Debug/Products.txt",
+    "Software Quality & Testing - COMP 10066/Week 9/Class 16.md",
+    "Software Quality & Testing - COMP 10066/Week 9/Class 15.md",
+    "Programming in .NET - COMP 10204/Course Information.md",
+    "Programming in .NET - COMP 10204/Week 9/Week9_StringsFiles - Start/Week9_StringsFiles/Properties/Settings.settings",
+    "Programming in .NET - COMP 10204/Week 9/Week9_StringsFiles - Start/Week9_StringsFiles/Properties/Settings.Designer.cs",
+    "Programming in .NET - COMP 10204/Week 9/Week9_StringsFiles - Start/Week9_StringsFiles/Properties/Resources.resx",
     "Programming in .NET - COMP 10204/Week 7/Class 12.md",
+    "Programming in .NET - COMP 10204/Week 6/Class 10.md",
     "Programming in .NET - COMP 10204/Week 8/Class 14.md",
     "Programming in .NET - COMP 10204/Personal Learning.md",
-    "Programming in .NET - COMP 10204/To Do.md",
-    "Programming in .NET - COMP 10204/Week 9/Class 16.md",
     "Server Side Web Programming - COMP 10260/Week 9/Class 16.md",
     "Speculative Fiction - LITR 10000/Week 7/Class 7.md",
     "Speculative Fiction - LITR 10000/To Do.md",
     "Object Oriented Systems - COMP CO835/Week 8/Class 13.md",
-    "Object Oriented Systems - COMP CO835/Week 8/Class Exercise 7 (Lab 7).pdf",
-    "Database Theory - COMP CO859/To Do.md",
-    "Object Oriented Systems - COMP CO835/Week 9",
-    "Software Quality & Testing - COMP 10066/Week 9/Software Quality Lecture 9 - Bug Reporting and Resolution.pdf",
-    "Software Quality & Testing - COMP 10066/Week 9/Class 15.md",
-    "Software Quality & Testing - COMP 10066/To Do.md",
-    "Database Theory - COMP CO859/Week 9/Class 16.md",
-    "Database Theory - COMP CO859/Week 8/Class 14.md",
-    "Database Theory - COMP CO859/Week 8/Class 15.md",
-    "Database Theory - COMP CO859/Week 7/Class 12.md",
-    "Database Theory - COMP CO859/Week 7/Class 13.md",
-    "Server Side Web Programming - COMP 10260/To Do.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 15/Class 15.md",
-    "Server Side Web Programming - COMP 10260/Course Information.md",
-    "Server Side Web Programming - COMP 10260/Week 8/Class 15.md",
-    "Server Side Web Programming - COMP 10260/Week 9",
-    "Software Quality & Testing - COMP 10066/Week 9/mso40D6.tmp",
-    "Software Quality & Testing - COMP 10066/Week 10/Class 17.md",
-    "Software Quality & Testing - COMP 10066/Week 10",
-    "Software Quality & Testing - COMP 10066/Week 8/Class 14.md",
-    "Software Quality & Testing - COMP 10066/Week 8/Class 13.md",
-    "Software Quality & Testing - COMP 10066/Week 9",
     "Pasted image 20241104084314.png",
     "Assets/Pasted image 20241104084146.png",
-    "Database Theory - COMP CO859/Week 9",
-    "Server Side Web Programming - COMP 10260/Week 8/Class 14.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 15",
     "Assets/Pasted image 20241102124907.png",
     "Assets/Pasted image 20241102124837.png",
     "Assets/Pasted image 20241102122404.png",
@@ -208,7 +207,6 @@
     "Assets/Pasted image 20241102121637.png",
     "Assets/Pasted image 20241102120343.png",
     "Assets/Pasted image 20241102115719.png",
-    "Assets/Pasted image 20241102115601.png",
-    "Object Oriented Systems - COMP CO835/Week 8/msoE1C0.tmp"
+    "Assets/Pasted image 20241102115601.png"
   ]
 }

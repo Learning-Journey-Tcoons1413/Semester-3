@@ -57,6 +57,6 @@
 
 [[Programming in .NET - COMP 10204/Week 9/Class 16|Week 9]]
 
-- [ ] Mark Yendt Video... or kms whichever 
-- [ ] Complete exercise for this week 
+- [x] Mark Yendt Video... or kms whichever 
+- [x] Complete exercise for this week 
 

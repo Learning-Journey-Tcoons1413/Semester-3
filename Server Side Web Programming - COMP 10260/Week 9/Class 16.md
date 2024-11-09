@@ -26,3 +26,30 @@ foreach($result as $r){
 }
 ?>
 ```
+
+###### Downloading and Importing Database into MySQL folder with xamp
+
+Once the .sql file is downloaded and in the Downloads folder, do the following:
+
+**Just type this part:**
+```bash
+cd \xampp\mysql\bin
+```
+
+**After that, run the command to import the SQL file:**
+```bash
+mysql -uroot dictionary < C:\\Users\\tomco\\Downloads\\dictionary.sql
+```
+
+The downloaded .sql file will be in the downloads folder. Above statement is navigating to that folder and importing into MySQL xamp folder.  
+
+**NOTE: you can create a database like this**
+`CREATE DATABASE dictionary` OR you can do it with windows explorer by creating a folder. 
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4A\bin\Debug\Lab4A.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4A\bin\Debug\Lab4A.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4A\bin\Debug\Lab4A.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4A\obj\Debug\Lab4A.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4A\obj\Debug\Lab4A.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4A\obj\Debug\Lab4A.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4A\obj\Debug\Lab4A.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4A\bin\Debug\employees.txt

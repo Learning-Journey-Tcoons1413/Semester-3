@@ -1,0 +1,10 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4B\bin\Debug\Lab4B.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4B\bin\Debug\Lab4B.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4B\bin\Debug\Lab4B.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4B\obj\Debug\Lab4B.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4B\obj\Debug\Lab4B.Form1.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4B\obj\Debug\Lab4B.Properties.Resources.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4B\obj\Debug\Lab4B.csproj.GenerateResource.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4B\obj\Debug\Lab4B.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4B\obj\Debug\Lab4B.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Assignments\Assignment4\Lab4B\obj\Debug\Lab4B.pdb

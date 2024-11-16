@@ -4,9 +4,16 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//I, Thomas Coons, 000317961 certify that this material is my original work.
+//No other person's work has been used without due acknowledgement.
 
+//NOTE: Original Author: Nicholas Corkigian. 
+//NOTE: Updated By: Thomas Coons
 namespace Lab4A
 {
+    /// <summary>
+    /// Main Class
+    /// </summary>
     internal class Program
     {
         /// <summary>

@@ -41,6 +41,14 @@
 [[Server Side Web Programming - COMP 10260/Week 9/Class 16|Week 9]]
 
 - [x] Transfer xamp folder from desktop to laptop
-- [ ] Review Class 15, Class 16, and Class 17
+- [ ] Review Class 15, Class 16, and Class 17, Class 18
 - [ ] Review this week's content from Dave Slemon
 - [ ] Review named parameters and positional parameters
+
+[[Server Side Web Programming - COMP 10260/Week 10/Class 18|Week 10]]
+
+- [ ] Submit Assignment 3
+- [ ]  Review Class 15, Class 16, and Class 17, Class 18
+- [ ] Review this week's content from Dave Slemon
+- [ ] Review named parameters and positional parameters
+

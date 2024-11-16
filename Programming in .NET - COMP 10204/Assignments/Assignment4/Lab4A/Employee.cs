@@ -5,9 +5,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
+//I, Thomas Coons, 000317961 certify that this material is my original work.
+//No other person's work has been used without due acknowledgement.
 
+//NOTE: Original Author: Nicholas Corkigian. 
+//NOTE: Updated By: Thomas Coons
 namespace Lab4A
 {
+    /// <summary>
+    /// Employee Class
+    /// </summary>
     internal class Employee
     {
         public string Name {  get; set; }             // The employee name
@@ -30,7 +37,7 @@ namespace Lab4A
         }                        
 
         /// <summary>
-        /// Default constructor for Employee - used for creating Employee array
+        /// Default constructor for Employee
         /// </summary>
         public Employee()
         {

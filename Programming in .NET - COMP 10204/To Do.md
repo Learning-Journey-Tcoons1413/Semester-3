@@ -60,3 +60,10 @@
 - [x] Mark Yendt Video... or kms whichever 
 - [x] Complete exercise for this week 
 
+[[Programming in .NET - COMP 10204/Week 10/Class 18|Week 10]]
+
+- [ ] Ask about html test files for assignment 4
+- [ ] Ask about regex for assignment 4
+- [ ] Watch Mark Yendt Video
+- [ ] Upload video for this week 
+

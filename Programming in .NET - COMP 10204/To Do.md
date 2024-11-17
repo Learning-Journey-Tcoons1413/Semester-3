@@ -64,6 +64,6 @@
 
 - [ ] Ask about html test files for assignment 4
 - [ ] Ask about regex for assignment 4
-- [ ] Watch Mark Yendt Video
+- [x] Watch Mark Yendt Video
 - [ ] Upload video for this week 
 

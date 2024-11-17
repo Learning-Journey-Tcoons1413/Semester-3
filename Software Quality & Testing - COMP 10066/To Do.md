@@ -37,3 +37,8 @@
 [[Software Quality & Testing - COMP 10066/Week 9/Class 15|Week 9]]
 
 - [x] Complete Assignment 3
+
+[[Software Quality & Testing - COMP 10066/Week 10/Class 17|Week 10]]
+
+- [ ] Nothing
+

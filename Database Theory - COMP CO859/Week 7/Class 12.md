@@ -6,7 +6,7 @@ Business Rules
 
 ###### Relationships
 - An association between entities 
-- **EX**) Province has many patients within 
+- **EX**) Province has many patients within it
 - Patient lives within ONE Province --> one-to-many 
 
 - **EX**) Department managed by ONE employee

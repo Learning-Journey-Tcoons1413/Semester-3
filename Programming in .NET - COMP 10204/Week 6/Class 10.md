@@ -1,6 +1,6 @@
 *Date: October 8th 2024*
 
-**Video was recorded**
+**Video was recorded** - Windows Form App with Images, ComboBoxes
 
 Important Events:
 - Clicking a link inside a textbox

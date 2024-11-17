@@ -36,11 +36,14 @@
 
  [[Database Theory - COMP CO859/Week 9/Class 16|Week 9]]
 
-- [ ] Complete Lab 6 
+- [x] Complete Lab 6 
 
 [[Database Theory - COMP CO859/Week 10/Class 18|Week 10]]
 
-- [ ] Finish this weeks lecture notes
-- [ ] Submit Lab 6 
+- [x] Finish this weeks lecture notes
+- [x] Submit Lab 6 
 
+[[Week 11]]
+
+- [ ] Submit Lab 7
 

@@ -4,7 +4,7 @@ No other person's work has been used without due acknowledgment and I have not m
 
 Script: co859.txt
 Author: Thomas Coons
-Date: November 16th 2024
+Date: November 20th 2024
 Description: Triggers
 ********************************************************/
 
@@ -87,50 +87,58 @@ WHERE hourly_rate > (SELECT AVG(hourly_rate) FROM plumbing_services);
 GO
 
 -- Verify inserts
-CREATE TABLE verify (
-  table_name varchar(30), 
-  actual INT, 
-  expected INT);
-GO
+--CREATE TABLE verify (
+--  table_name varchar(30), 
+--  actual INT, 
+--  expected INT);
+--GO
 
-INSERT INTO verify VALUES('plumbing_services', (SELECT COUNT(*) FROM plumbing_services), 5);
-INSERT INTO verify VALUES('sales', (SELECT COUNT(*) FROM sales), 15);
-PRINT 'Verification';
-SELECT table_name, actual, expected, expected - actual discrepancy FROM verify;
-DROP TABLE verify;
-GO
+--INSERT INTO verify VALUES('plumbing_services', (SELECT COUNT(*) FROM plumbing_services), 5);
+--INSERT INTO verify VALUES('sales', (SELECT COUNT(*) FROM sales), 15);
+--PRINT 'Verification';
+--SELECT table_name, actual, expected, expected - actual discrepancy FROM verify;
+--DROP TABLE verify;
+--GO
 
+-- Beginning of Lab 7
 CREATE TRIGGER sales_insert
-ON sales
-AFTER INSERT
+	ON sales
+	AFTER INSERT
 AS
 BEGIN
-    UPDATE plumbing_services
-    SET sales_ytd = sales_ytd + (SELECT amount FROM inserted WHERE inserted.service_id = plumbing_services.service_id) WHERE service_id IN (SELECT service_id FROM inserted);
+	UPDATE ps
+	SET ps.sales_ytd = ps.sales_ytd + i.amount
+	FROM plumbing_services AS ps
+	JOIN inserted AS i
+	ON i.service_id = ps.service_id
 END;
 GO
 
 CREATE TRIGGER sales_delete
-ON sales
-AFTER DELETE
+	ON sales
+	AFTER DELETE
 AS
 BEGIN
-    UPDATE plumbing_services
-    SET sales_ytd = sales_ytd - (SELECT amount FROM deleted WHERE deleted.service_id = plumbing_services.service_id) WHERE service_id IN (SELECT service_id FROM deleted);
+	UPDATE ps
+	SET ps.sales_ytd = ps.sales_ytd - d.amount
+	FROM plumbing_services AS ps
+	JOIN deleted AS d
+	ON ps.service_id = d.service_id
 END;
 GO
 
 CREATE TRIGGER sales_update
-ON sales
-AFTER UPDATE
+	ON sales
+	AFTER UPDATE
 AS
 BEGIN
-    UPDATE plumbing_services
-    SET sales_ytd = sales_ytd + (i.amount - d.amount)
-    FROM plumbing_services AS ps
-    JOIN inserted i ON ps.service_id = i.service_id
-    JOIN deleted d ON ps.service_id = d.service_id
-    WHERE i.sales_id = d.sales_id; 
+	UPDATE ps
+	SET ps.sales_ytd = ps.sales_ytd + (i.amount - d.amount)
+	FROM plumbing_services AS ps
+	JOIN deleted AS d
+	ON ps.service_id = d.service_id
+	JOIN inserted AS i
+	ON ps.service_id = i.service_id
 END;
 GO
 
@@ -138,13 +146,16 @@ GO
 PRINT 'Verify triggers'
 PRINT 'Master Table Before Changes'
 SELECT * from plumbing_services
+
 INSERT INTO sales VALUES(16,'2024-08-16',150,100);
 PRINT 'After INSERT'
 SELECT * from plumbing_services
+
 DELETE FROM sales WHERE sales_id = 16;
 PRINT 'After DELETE'
 SELECT * FROM plumbing_services
-UPDATE sales SET amount = 0 WHERE sales_id = 15;
+
+UPDATE sales SET amount = 300 WHERE sales_id = 15;
 PRINT 'After UPDATE'
 SELECT * FROM plumbing_services
 

@@ -20,7 +20,7 @@
 	- Ex) D b 4 7 * ;
 - **Entity**
 	- A person, place, or thing
-	- Represented by a table
+	- ==Represented by a **TABLE**==
 - **Attribute**
 	- A descriptor of an entity 
 	- Represented by columns

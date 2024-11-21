@@ -147,7 +147,7 @@ PRINT 'Verify triggers'
 PRINT 'Master Table Before Changes'
 SELECT * from plumbing_services
 
-INSERT INTO sales VALUES(16,'2024-08-16',150,100);
+INSERT INTO sales VALUES(16,'2024-08-16',33333,100);
 PRINT 'After INSERT'
 SELECT * from plumbing_services
 
@@ -155,7 +155,7 @@ DELETE FROM sales WHERE sales_id = 16;
 PRINT 'After DELETE'
 SELECT * FROM plumbing_services
 
-UPDATE sales SET amount = 300 WHERE sales_id = 15;
+UPDATE sales SET amount = 33333 WHERE sales_id = 2;
 PRINT 'After UPDATE'
 SELECT * FROM plumbing_services
 

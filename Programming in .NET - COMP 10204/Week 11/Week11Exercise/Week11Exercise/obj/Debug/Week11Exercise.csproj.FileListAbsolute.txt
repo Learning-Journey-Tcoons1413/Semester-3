@@ -1,0 +1,10 @@
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 11\Week11Exercise\Week11Exercise\bin\Debug\Week11Exercise.exe.config
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 11\Week11Exercise\Week11Exercise\bin\Debug\Week11Exercise.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 11\Week11Exercise\Week11Exercise\bin\Debug\Week11Exercise.pdb
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 11\Week11Exercise\Week11Exercise\obj\Debug\Week11Exercise.csproj.AssemblyReference.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 11\Week11Exercise\Week11Exercise\obj\Debug\Week11Exercise.Form1.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 11\Week11Exercise\Week11Exercise\obj\Debug\Week11Exercise.Properties.Resources.resources
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 11\Week11Exercise\Week11Exercise\obj\Debug\Week11Exercise.csproj.GenerateResource.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 11\Week11Exercise\Week11Exercise\obj\Debug\Week11Exercise.csproj.CoreCompileInputs.cache
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 11\Week11Exercise\Week11Exercise\obj\Debug\Week11Exercise.exe
+C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 3\Programming in .NET - COMP 10204\Week 11\Week11Exercise\Week11Exercise\obj\Debug\Week11Exercise.pdb

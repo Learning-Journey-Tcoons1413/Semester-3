@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c3d78b2c179e067",
+        "id": "e03be43f66a65042",
         "type": "tabs",
         "children": [
           {
-            "id": "0a3ee46c328c7dd1",
+            "id": "f5a5fd98c668b469",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Object Oriented Systems - COMP CO835/Textbook.pdf"
+                "file": "Speculative Fiction - LITR 10000/Course Information.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Textbook"
+              "icon": "lucide-file",
+              "title": "Course Information"
             }
           }
         ]
@@ -50,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "state diagram",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,44 +162,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a3ee46c328c7dd1",
+  "active": "f5a5fd98c668b469",
   "lastOpenFiles": [
-    "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/Week 6/Week 6 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/Week 5/Week 5 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/Week 4/Week 4 Lecture Summary (1).pdf",
-    "Object Oriented Systems - COMP CO835/Week 10/Week 10 Lecture Summary.pdf",
+    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/Week11Exercise/obj/Debug/build.force",
+    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/build.force",
+    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/Week11Exercise.AddCarForm.resources",
+    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/AddCarForm.csproj.FileListAbsolute.txt",
+    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/AddCarForm.exe",
+    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/AddCarForm.pdb",
+    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/bin/Debug/AddCarForm.exe",
+    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/bin/Debug/AddCarForm.exe.config",
+    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/bin/Debug/AddCarForm.pdb",
+    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/AddCarForm.csproj.CoreCompileInputs.cache",
+    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/AddCarForm.csproj.GenerateResource.cache",
+    "Speculative Fiction - LITR 10000/To Do.md",
+    "Programming in .NET - COMP 10204/Week 11/Class 21.md",
+    "Programming in .NET - COMP 10204/Week 11/Class 20.md",
+    "Database Theory - COMP CO859/Week 10/Class 18.md",
+    "Programming in .NET - COMP 10204/To Do.md",
+    "Object Oriented Systems - COMP CO835/Week 11/Untitled.md",
+    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
+    "Object Oriented Systems - COMP CO835/Course Information.md",
+    "Programming in .NET - COMP 10204/Week 10/Class 18.md",
+    "Software Quality & Testing - COMP 10066/Week 11/Class 19.md",
+    "Software Quality & Testing - COMP 10066/Week 11/Class 20.md",
+    "Server Side Web Programming - COMP 10260/Week 11/Class 20.md",
     "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
     "Database Theory - COMP CO859/Course Information.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 19/Class 19.md",
-    "Server Side Web Programming - COMP 10260/Week 11/Class 20.md",
     "Server Side Web Programming - COMP 10260/Week 10/Class 18.md",
     "Server Side Web Programming - COMP 10260/Week 10/Class 19.md",
-    "Software Quality & Testing - COMP 10066/Week 11/Software Quality Lecture 11 - Web Site Testing Lecture 2.pdf",
-    "Server Side Web Programming - COMP 10260/Week 11",
-    "Programming in .NET - COMP 10204/Assignments/TestFiles/testest.html",
-    "Software Quality & Testing - COMP 10066/Week 11/Class 19.md",
-    "Software Quality & Testing - COMP 10066/Week 11/msoF94.tmp",
     "Software Quality & Testing - COMP 10066/Week 10/Class 18.md",
-    "Database Theory - COMP CO859/Week 11/lec11_normalization_part2.pdf",
-    "Software Quality & Testing - COMP 10066/Week 11",
     "Database Theory - COMP CO859/Week 2/Class 2.md",
-    "Database Theory - COMP CO859/Week 10/Class 18.md",
-    "Speculative Fiction - LITR 10000/To Do.md",
     "Software Quality & Testing - COMP 10066/To Do.md",
     "Software Quality & Testing - COMP 10066/Week 10/Class 17.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
-    "Programming in .NET - COMP 10204/To Do.md",
     "Object Oriented Systems - COMP CO835/To Do.md",
     "Database Theory - COMP CO859/To Do.md",
-    "Programming in .NET - COMP 10204/Week 10/Class 18.md",
     "Database Theory - COMP CO859/Week 9/Class 17.md",
-    "Database Theory - COMP CO859/Week 9/Class 16.md",
-    "Database Theory - COMP CO859/Week 8/Class 14.md",
-    "Database Theory - COMP CO859/Week 7/Class 12.md",
-    "Programming in .NET - COMP 10204/Week 10/Class 19.md",
-    "Programming in .NET - COMP 10204/Week 7/Class 12.md",
-    "Programming in .NET - COMP 10204/Week 6/Class 10.md",
     "Assets/Pasted image 20241113095852.png",
     "Assets/Pasted image 20241113095533.png",
     "Assets/Pasted image 20241113095402.png",

@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
 
@@ -13,22 +11,21 @@ namespace Lab4B
         public string file = "";
         public string fileName = "";
         public string htmlContent;
-        public Stack<string> tags = new Stack<string>();
+        public Stack<string> stackTags = new Stack<string>();
         List<string> nonContainerTags = new List<string>
         {
-            "area",
-            "base",
-            "br",
-            "col",
-            "embed",
-            "hr",
-            "img",
-            "input",
-            "link",
-            "meta",
-            "source",
-            "track",
-            "wbr",
+            "<area>",
+            "<base>",
+            "<br>",
+            "<col>",
+            "<embed>",
+            "<hr>",
+            "<img>",
+            "<input>",
+            "<link>",
+            "<meta>",
+            "<source>",
+            "<!doctype>"
         };
         public Form1()
         {
@@ -92,58 +89,151 @@ namespace Lab4B
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
+        //private void checkTagsToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
+        //    tagsListBox.Items.Clear();
+        //    string pattern = @"</?([a-zA-Z0-9]+)[^>]*>"; // source: https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference
+        //    bool nonConTagFound = false;
+        //    int tabCount = 10;
+
+        //    var matchCollection = Regex.Matches(htmlContent, pattern);
+        //    foreach (Match m in matchCollection)
+        //    {
+        //        string tagName = m.Groups[1].Value.ToLower();
+        //        string fullTag = m.Value.ToLower();
+
+        //        foreach (string nct in nonContainerTags)
+        //        {
+        //            if (nct.Equals(tagName))
+        //            {
+        //                string addItem = new string(' ', tabCount) + "Found Non-Container Tag: " + "<" + tagName + ">";
+        //                tagsListBox.Items.Add(addItem);
+        //                nonConTagFound = true;
+        //                break;
+        //            }
+
+        //        }
+        //        if (!nonConTagFound)
+        //        {
+
+        //            if (fullTag.StartsWith("</"))
+        //            {
+        //                tabCount -= 10;
+        //                string addItem = new string(' ', tabCount) + "Found Closing Tag: " + "</" + tagName + ">";
+        //                tagsListBox.Items.Add(addItem);
+        //                tags.Pop();
+        //            }
+        //            else
+        //            {
+        //                string addItem = new string(' ', tabCount) + "Found Opening Tag: " + "<" + tagName + ">";
+        //                tagsListBox.Items.Add(addItem);
+        //                tabCount += 10;
+        //                tags.Push(addItem);
+        //            }
+        //        }
+
+        //        nonConTagFound = false;
+        //    }
+        //    if (tags.Count == 0)
+        //    {
+        //        headerTextBox.Text = fileName + ": is valid!";
+        //    }
+        //    else
+        //    {
+        //        headerTextBox.Text = fileName + ": is invalid!";
+        //    }
+        //    tags.Clear();
+        //}
+
+
         private void checkTagsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string pattern = @"<[^>]+>"; // source: https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference
+            tagsListBox.Items.Clear();
+            string tag = "";
+            List<string> tags = new List<string>();
+            int tabCount = 0;
+            bool nonConTagFound = false;
 
-            var t = Regex.Matches(htmlContent, pattern);
-            bool ntagFound = false;
-            int tabCount = 10;
-
-            foreach (var item in t)
+            for (int i = 0; i < htmlContent.Length; i++)
             {
 
-                if (!string.IsNullOrWhiteSpace("" + item))
+                if (htmlContent[i] == '<')
                 {
-                    string sItem = "" + item;
-                    string stringitem = sItem.ToLower();
+                    tag = "";
+                    tag += '<';
+                }
+                else if (htmlContent[i] == '>')
+                {
+                    tag += '>';
+                    tags.Add(tag.ToLower());
+                    tag = "";
+                }
+                else
+                {
+                    tag += htmlContent[i];
+                }
 
-
-
-                    foreach (string tag in nonContainerTags)
+            }
+            for (int i = 0; i < tags.Count; i++)
+            {
+                string updateTag = "";
+                for (int j = 0; j < tags[i].Length; j++)
+                {
+                    if (tags[i][j] == ' ')
                     {
-                        if (stringitem.Contains(tag) && !stringitem.Contains("href") && !stringitem.Contains("td") || stringitem.Contains("doctype"))
-                        {
-                            string addItem = new string(' ', tabCount) + "Found Non-Container Tag: " + stringitem;
-                            tagsListBox.Items.Add(addItem);
-                            ntagFound = true;
-                            break;
-                        }
+                        updateTag += ">";
+                        tags[i] = updateTag;
                     }
-
-                    if (!ntagFound)
+                    else
                     {
+                        updateTag += tags[i][j];
+                    }
+                    
+                }
+            }
+            foreach (string t in tags)
+            {
+                foreach (string nct in nonContainerTags)
+                {
+                    if (nct.Equals(t))
+                    {
+                        string addItem = new string(' ', tabCount) + "Found Non-Container Tag: " + t;
+                        tagsListBox.Items.Add(addItem);
+                        nonConTagFound = true;
+                        break;
+                    }
+                }
+                if (!nonConTagFound)
+                {
 
-                        if (stringitem.StartsWith("</"))
+                    if (t.StartsWith("</"))
+                    {
+                        tabCount -= 6;
+                        string addItem = new string(' ', tabCount) + "Found Closing Tag: " + t;
+                        tagsListBox.Items.Add(addItem);
+                        if (stackTags.Peek().Substring(1) == t.Substring(2))
                         {
-                            tabCount -= 10;
-                            string addItem = new string(' ', tabCount) + "Found Closing Tag: " + stringitem;
-                            tagsListBox.Items.Add(addItem);
-                            tags.Pop();
+
+                            stackTags.Pop();
                         }
                         else
                         {
-                            string addItem = new string(' ', tabCount) + "Found Opening Tag: " + stringitem;
-                            tagsListBox.Items.Add(addItem);
-                            tabCount += 10;
-                            tags.Push(addItem);
+
+                            break;
                         }
                     }
-
-                    ntagFound = false;
+                    else
+                    {
+                        string addItem = new string(' ', tabCount) + "Found Opening Tag: " + t;
+                        tagsListBox.Items.Add(addItem);
+                        tabCount += 6;
+                        stackTags.Push(t);
+                    }
                 }
+
+                nonConTagFound = false;
             }
-            if (tags.Count == 0)
+            if (stackTags.Count == 0)
             {
                 headerTextBox.Text = fileName + ": is valid!";
             }
@@ -151,9 +241,13 @@ namespace Lab4B
             {
                 headerTextBox.Text = fileName + ": is invalid!";
             }
-            tags.Clear();
+            stackTags.Clear();
         }
     }
 }
+
+
+
+
 
 

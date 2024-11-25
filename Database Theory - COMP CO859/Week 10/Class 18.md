@@ -1,5 +1,4 @@
 *Date*: *November 11th 2024*
-
 ###### Normalization 
 
 - We want to develop conceptual model that represents entities of the enterprise 

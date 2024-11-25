@@ -11,12 +11,14 @@
             "id": "907da42b98a38bca",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Pasted image 20241122181855.png"
+                "file": "Programming in .NET - COMP 10204/Week 11/Class 20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241122181855"
+              "icon": "lucide-file",
+              "title": "Class 20"
             }
           }
         ]
@@ -160,9 +162,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a88e89cb59b7bccd",
+  "active": "907da42b98a38bca",
   "lastOpenFiles": [
     "Speculative Fiction - LITR 10000/To Do.md",
+    "Object Oriented Systems - COMP CO835/To Do.md",
+    "Database Theory - COMP CO859/To Do.md",
+    "Database Theory - COMP CO859/Week 10/Class 18.md",
+    "Database Theory - COMP CO859/Week 9/Class 17.md",
+    "Database Theory - COMP CO859/Week 9/Class 16.md",
+    "Database Theory - COMP CO859/Week 8/Class 14.md",
+    "Database Theory - COMP CO859/Week 8/Class 15.md",
+    "Database Theory - COMP CO859/Week 7/Class 12.md",
+    "Database Theory - COMP CO859/Week 6/Class 10.md",
+    "Database Theory - COMP CO859/Week 5/Class 8.md",
+    "Database Theory - COMP CO859/Week 6/Class 11.md",
+    "Database Theory - COMP CO859/Week 10/lec10_normalization_part1.pdf",
+    "Database Theory - COMP CO859/Week 11/lec11_normalization_part2.pdf",
+    "Assets/Pasted image 20241122181855.png",
     "Software Quality & Testing - COMP 10066/To Do.md",
     "Software Quality & Testing - COMP 10066/Week 11/Class 20.md",
     "Software Quality & Testing - COMP 10066/Week 11/Class 19.md",
@@ -177,8 +193,6 @@
     "Server Side Web Programming - COMP 10260/To Do.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 20/Class 20.md",
     "Programming in .NET - COMP 10204/To Do.md",
-    "Object Oriented Systems - COMP CO835/To Do.md",
-    "Database Theory - COMP CO859/To Do.md",
     "Software Quality & Testing - COMP 10066/Assignments/Assignment4/Assignment4.md",
     "Object Oriented Systems - COMP CO835/Textbook.pdf",
     "Software Quality & Testing - COMP 10066/Assignments/Assignment4",
@@ -186,20 +200,8 @@
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 15/Class 15.md",
     "Server Side Web Programming - COMP 10260/Week 9/Class 16.md",
     "Server Side Web Programming - COMP 10260/Week 9/Class 17.md",
-    "Server Side Web Programming - COMP 10260/Week 10/Class 19.md",
-    "Server Side Web Programming - COMP 10260/Week 10/Class 18.md",
-    "Server Side Web Programming - COMP 10260/Week 11/Class 20.md",
-    "Server Side Web Programming - COMP 10260/Week 11/Class 21.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 18/Class 18.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 19/Class 19.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 21/Class 21.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 16/Class 16.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 17/Class 17.md",
-    "Database Theory - COMP CO859/Week 11/lec11_normalization_part2.pdf",
     "Server Side Web Programming - COMP 10260/MyCanvas Modules/5. Working With REST API's",
-    "Assets/Pasted image 20241122181855.png",
     "Assets/Pasted image 20241122181650.png",
-    "Server Side Web Programming - COMP 10260/MyCanvas Modules/4. Working With Databases",
     "Assets/Pasted image 20241122174724.png",
     "Assets/Pasted image 20241113095852.png",
     "Assets/Pasted image 20241113095533.png",

@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e03be43f66a65042",
+        "id": "e85e4d56ca8629f7",
         "type": "tabs",
         "children": [
           {
-            "id": "f5a5fd98c668b469",
+            "id": "907da42b98a38bca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Speculative Fiction - LITR 10000/Course Information.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Pasted image 20241122181855.png"
               },
-              "icon": "lucide-file",
-              "title": "Course Information"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241122181855"
             }
           }
         ]
@@ -77,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.50418853759766
+    "width": 200
   },
   "right": {
     "id": "de7241a8c89ba099",
@@ -162,53 +160,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5a5fd98c668b469",
+  "active": "a88e89cb59b7bccd",
   "lastOpenFiles": [
-    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/Week11Exercise/obj/Debug/build.force",
-    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/build.force",
-    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/Week11Exercise.AddCarForm.resources",
-    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/AddCarForm.csproj.FileListAbsolute.txt",
-    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/AddCarForm.exe",
-    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/AddCarForm.pdb",
-    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/bin/Debug/AddCarForm.exe",
-    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/bin/Debug/AddCarForm.exe.config",
-    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/bin/Debug/AddCarForm.pdb",
-    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/AddCarForm.csproj.CoreCompileInputs.cache",
-    "Programming in .NET - COMP 10204/Week 11/Week11Exercise/AddCarForm/obj/Debug/AddCarForm.csproj.GenerateResource.cache",
     "Speculative Fiction - LITR 10000/To Do.md",
-    "Programming in .NET - COMP 10204/Week 11/Class 21.md",
-    "Programming in .NET - COMP 10204/Week 11/Class 20.md",
-    "Database Theory - COMP CO859/Week 10/Class 18.md",
-    "Programming in .NET - COMP 10204/To Do.md",
-    "Object Oriented Systems - COMP CO835/Week 11/Untitled.md",
-    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
-    "Object Oriented Systems - COMP CO835/Course Information.md",
-    "Programming in .NET - COMP 10204/Week 10/Class 18.md",
-    "Software Quality & Testing - COMP 10066/Week 11/Class 19.md",
-    "Software Quality & Testing - COMP 10066/Week 11/Class 20.md",
-    "Server Side Web Programming - COMP 10260/Week 11/Class 20.md",
-    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
-    "Database Theory - COMP CO859/Course Information.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 19/Class 19.md",
-    "Server Side Web Programming - COMP 10260/Week 10/Class 18.md",
-    "Server Side Web Programming - COMP 10260/Week 10/Class 19.md",
-    "Software Quality & Testing - COMP 10066/Week 10/Class 18.md",
-    "Database Theory - COMP CO859/Week 2/Class 2.md",
     "Software Quality & Testing - COMP 10066/To Do.md",
-    "Software Quality & Testing - COMP 10066/Week 10/Class 17.md",
+    "Software Quality & Testing - COMP 10066/Week 11/Class 20.md",
+    "Software Quality & Testing - COMP 10066/Week 11/Class 19.md",
+    "Software Quality & Testing - COMP 10066/Week 10/Software Quality Lecture 10 - Web Site Testing Lecture 1-1.pdf",
+    "Software Quality & Testing - COMP 10066/Week 11/Software Quality Lecture 11 - Web Site Testing Lecture 2.pdf",
+    "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
+    "Software Quality & Testing - COMP 10066/Week 6/Class 11.md",
+    "Software Quality & Testing - COMP 10066/Week 7/Class 11.md",
+    "Software Quality & Testing - COMP 10066/Week 7/Class 12.md",
+    "Software Quality & Testing - COMP 10066/Week 8/Software Quality Lecture 8 -  Exploratory & Black-Box testing.pdf",
+    "Software Quality & Testing - COMP 10066/Week 9/Software Quality Lecture 9 - Bug Reporting and Resolution.pdf",
     "Server Side Web Programming - COMP 10260/To Do.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 20/Class 20.md",
+    "Programming in .NET - COMP 10204/To Do.md",
     "Object Oriented Systems - COMP CO835/To Do.md",
     "Database Theory - COMP CO859/To Do.md",
-    "Database Theory - COMP CO859/Week 9/Class 17.md",
+    "Software Quality & Testing - COMP 10066/Assignments/Assignment4/Assignment4.md",
+    "Object Oriented Systems - COMP CO835/Textbook.pdf",
+    "Software Quality & Testing - COMP 10066/Assignments/Assignment4",
+    "Server Side Web Programming - COMP 10260/MyCanvas Modules/5. Working With REST API's/1. Cloud Computing with ReST Guide.pdf",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 15/Class 15.md",
+    "Server Side Web Programming - COMP 10260/Week 9/Class 16.md",
+    "Server Side Web Programming - COMP 10260/Week 9/Class 17.md",
+    "Server Side Web Programming - COMP 10260/Week 10/Class 19.md",
+    "Server Side Web Programming - COMP 10260/Week 10/Class 18.md",
+    "Server Side Web Programming - COMP 10260/Week 11/Class 20.md",
+    "Server Side Web Programming - COMP 10260/Week 11/Class 21.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 18/Class 18.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 19/Class 19.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 21/Class 21.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 16/Class 16.md",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 17/Class 17.md",
+    "Database Theory - COMP CO859/Week 11/lec11_normalization_part2.pdf",
+    "Server Side Web Programming - COMP 10260/MyCanvas Modules/5. Working With REST API's",
+    "Assets/Pasted image 20241122181855.png",
+    "Assets/Pasted image 20241122181650.png",
+    "Server Side Web Programming - COMP 10260/MyCanvas Modules/4. Working With Databases",
+    "Assets/Pasted image 20241122174724.png",
     "Assets/Pasted image 20241113095852.png",
     "Assets/Pasted image 20241113095533.png",
     "Assets/Pasted image 20241113095402.png",
     "Assets/Pasted image 20241104084314.png",
     "Assets/Pasted image 20241104084146.png",
     "Assets/Pasted image 20241102124907.png",
-    "Assets/Pasted image 20241102124837.png",
-    "Assets/Pasted image 20241102122404.png",
-    "Assets/Pasted image 20241102122137.png",
-    "Assets/Pasted image 20241102121637.png"
+    "Assets/Pasted image 20241102124837.png"
   ]
 }

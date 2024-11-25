@@ -1,13 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
-
+//I, Thomas Coons, 000317961 certify that this material is my original work.
+//No other person's work has been used without due acknowledgement.
 
 namespace Lab4B
 {
+    /// <summary>
+    /// Form Application to Check HTML Balanced Tags
+    /// </summary>
     public partial class Form1 : Form
     {
+        public bool fileLoaded = false;
         public string file = "";
         public string fileName = "";
         public string htmlContent;
@@ -27,34 +33,30 @@ namespace Lab4B
             "<source>",
             "<!doctype>"
         };
+
+        /// <summary>
+        /// Main Initialization 
+        /// </summary>
         public Form1()
         {
             InitializeComponent();
+            this.KeyPreview = true;
+            this.KeyDown += new KeyEventHandler(Form1_KeyDown);
             checkTagsToolStripMenuItem.Enabled = false;
         }
 
         /// <summary>
-        /// Opens a dialog box with the user to open only HTML files
+        /// Calls the LoadFile() Function
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
         private void loadToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            OpenFileDialog openFileDialog = new OpenFileDialog();
-            openFileDialog.Filter = "HTML files (*.html, *.htm)|*.html;*.htm";
-            if (openFileDialog.ShowDialog() == DialogResult.OK)
-            {
-
-                file = openFileDialog.FileName;
-                fileName = Path.GetFileName(file);
-            }
-            headerTextBox.Text = "File Name: " + fileName;
-            ReadFile();
-
+            LoadFile();
         }
 
         /// <summary>
-        /// Reads the selected HTML file
+        /// Tries to read the selected HTML file and places the content into htmlContent variable. Clears tagsListBox each time.
         /// </summary>
         private void ReadFile()
         {
@@ -63,11 +65,13 @@ namespace Lab4B
             {
                 htmlContent = File.ReadAllText(file);
                 checkTagsToolStripMenuItem.Enabled = true;
+                fileLoaded = true;
             }
             catch (Exception ex)
             {
+                fileLoaded = false;
                 checkTagsToolStripMenuItem.Enabled = false;
-                MessageBox.Show("An error has occurred.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"An error has occurred: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
 
@@ -84,69 +88,22 @@ namespace Lab4B
         }
 
         /// <summary>
-        /// Loops through the HTML file and creates a MatchCollection of only valid HTML tags. Pushes and Pops items out of a Stack to verify 
+        /// Calls the CheckTags() Function
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void checkTagsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CheckTags();
+        }
+
+        /// <summary>
+        /// Loops through the HTML file and creates a List of only valid HTML tags. Pushes and Pops items out of a Stack to verify 
         /// valid opening and closing of tags.
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        //private void checkTagsToolStripMenuItem_Click(object sender, EventArgs e)
-        //{
-        //    tagsListBox.Items.Clear();
-        //    string pattern = @"</?([a-zA-Z0-9]+)[^>]*>"; // source: https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference
-        //    bool nonConTagFound = false;
-        //    int tabCount = 10;
-
-        //    var matchCollection = Regex.Matches(htmlContent, pattern);
-        //    foreach (Match m in matchCollection)
-        //    {
-        //        string tagName = m.Groups[1].Value.ToLower();
-        //        string fullTag = m.Value.ToLower();
-
-        //        foreach (string nct in nonContainerTags)
-        //        {
-        //            if (nct.Equals(tagName))
-        //            {
-        //                string addItem = new string(' ', tabCount) + "Found Non-Container Tag: " + "<" + tagName + ">";
-        //                tagsListBox.Items.Add(addItem);
-        //                nonConTagFound = true;
-        //                break;
-        //            }
-
-        //        }
-        //        if (!nonConTagFound)
-        //        {
-
-        //            if (fullTag.StartsWith("</"))
-        //            {
-        //                tabCount -= 10;
-        //                string addItem = new string(' ', tabCount) + "Found Closing Tag: " + "</" + tagName + ">";
-        //                tagsListBox.Items.Add(addItem);
-        //                tags.Pop();
-        //            }
-        //            else
-        //            {
-        //                string addItem = new string(' ', tabCount) + "Found Opening Tag: " + "<" + tagName + ">";
-        //                tagsListBox.Items.Add(addItem);
-        //                tabCount += 10;
-        //                tags.Push(addItem);
-        //            }
-        //        }
-
-        //        nonConTagFound = false;
-        //    }
-        //    if (tags.Count == 0)
-        //    {
-        //        headerTextBox.Text = fileName + ": is valid!";
-        //    }
-        //    else
-        //    {
-        //        headerTextBox.Text = fileName + ": is invalid!";
-        //    }
-        //    tags.Clear();
-        //}
-
-
-        private void checkTagsToolStripMenuItem_Click(object sender, EventArgs e)
+        private void CheckTags()
         {
             tagsListBox.Items.Clear();
             string tag = "";
@@ -188,7 +145,7 @@ namespace Lab4B
                     {
                         updateTag += tags[i][j];
                     }
-                    
+
                 }
             }
             foreach (string t in tags)
@@ -235,13 +192,57 @@ namespace Lab4B
             }
             if (stackTags.Count == 0)
             {
-                headerTextBox.Text = fileName + ": is valid!";
+                headerLabel.ForeColor = Color.Green;
+                headerLabel.Text = fileName + ": has balanced tags";
             }
             else
             {
-                headerTextBox.Text = fileName + ": is invalid!";
+                headerLabel.ForeColor = Color.Red;    
+                headerLabel.Text = fileName + ": does not have balanced tags";
             }
             stackTags.Clear();
+        }
+
+        /// <summary>
+        /// Opens a dialog box with the user and attempts to open only HTML files
+        /// </summary>
+        private void LoadFile()
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "HTML files (*.html, *.htm)|*.html;*.htm";
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
+            {
+
+                file = openFileDialog.FileName;
+                fileName = Path.GetFileName(file);
+                headerLabel.ForeColor= Color.Black;
+                headerLabel.Text = "File Name: " + fileName;
+                ReadFile();
+            }
+        }
+
+        /// <summary>
+        /// Keyboard ShortCuts
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Control)
+            {
+                if (e.KeyCode == Keys.L)
+                {
+                    LoadFile();
+                }
+                if (e.KeyCode == Keys.C && fileLoaded == true)
+                {
+                    CheckTags();
+                }
+                if (e.KeyCode == Keys.Q)
+                {
+                    Close();
+                }
+            }
         }
     }
 }

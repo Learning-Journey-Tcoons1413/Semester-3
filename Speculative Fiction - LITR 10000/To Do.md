@@ -44,3 +44,5 @@
 [[Speculative Fiction - LITR 10000/Week 7/Class 7|Week 8]]
 
 - [x] Download this weeks PP 
+
+JUST WRITE THE FINAL REFLECTION WEEK 13

@@ -34,7 +34,7 @@
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.processToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.checkTagsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.headerTextBox = new System.Windows.Forms.Label();
+            this.headerLabel = new System.Windows.Forms.Label();
             this.tagsListBox = new System.Windows.Forms.ListBox();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -64,15 +64,15 @@
             // loadToolStripMenuItem
             // 
             this.loadToolStripMenuItem.Name = "loadToolStripMenuItem";
-            this.loadToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
-            this.loadToolStripMenuItem.Text = "Load";
+            this.loadToolStripMenuItem.Size = new System.Drawing.Size(150, 22);
+            this.loadToolStripMenuItem.Text = "Load (Ctrl + L)";
             this.loadToolStripMenuItem.Click += new System.EventHandler(this.loadToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
-            this.exitToolStripMenuItem.Text = "Exit";
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(150, 22);
+            this.exitToolStripMenuItem.Text = "Exit (Ctrl + Q)";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
             // processToolStripMenuItem
@@ -86,19 +86,19 @@
             // checkTagsToolStripMenuItem
             // 
             this.checkTagsToolStripMenuItem.Name = "checkTagsToolStripMenuItem";
-            this.checkTagsToolStripMenuItem.Size = new System.Drawing.Size(134, 22);
-            this.checkTagsToolStripMenuItem.Text = "Check Tags";
+            this.checkTagsToolStripMenuItem.Size = new System.Drawing.Size(186, 22);
+            this.checkTagsToolStripMenuItem.Text = "Check Tags (Ctrl + C)";
             this.checkTagsToolStripMenuItem.Click += new System.EventHandler(this.checkTagsToolStripMenuItem_Click);
             // 
-            // headerTextBox
+            // headerLabel
             // 
-            this.headerTextBox.AutoSize = true;
-            this.headerTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.headerTextBox.Location = new System.Drawing.Point(10, 27);
-            this.headerTextBox.Name = "headerTextBox";
-            this.headerTextBox.Size = new System.Drawing.Size(116, 20);
-            this.headerTextBox.TabIndex = 1;
-            this.headerTextBox.Text = "No File Loaded";
+            this.headerLabel.AutoSize = true;
+            this.headerLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.headerLabel.Location = new System.Drawing.Point(10, 27);
+            this.headerLabel.Name = "headerLabel";
+            this.headerLabel.Size = new System.Drawing.Size(116, 20);
+            this.headerLabel.TabIndex = 1;
+            this.headerLabel.Text = "No File Loaded";
             // 
             // tagsListBox
             // 
@@ -107,7 +107,7 @@
             this.tagsListBox.ItemHeight = 16;
             this.tagsListBox.Location = new System.Drawing.Point(14, 56);
             this.tagsListBox.Name = "tagsListBox";
-            this.tagsListBox.Size = new System.Drawing.Size(594, 564);
+            this.tagsListBox.Size = new System.Drawing.Size(594, 548);
             this.tagsListBox.TabIndex = 2;
             // 
             // Form1
@@ -116,8 +116,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(620, 629);
             this.Controls.Add(this.tagsListBox);
-            this.Controls.Add(this.headerTextBox);
+            this.Controls.Add(this.headerLabel);
             this.Controls.Add(this.menuStrip1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
@@ -135,7 +136,7 @@
         private System.Windows.Forms.ToolStripMenuItem loadToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem processToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
-        private System.Windows.Forms.Label headerTextBox;
+        private System.Windows.Forms.Label headerLabel;
         private System.Windows.Forms.ListBox tagsListBox;
         private System.Windows.Forms.ToolStripMenuItem checkTagsToolStripMenuItem;
     }

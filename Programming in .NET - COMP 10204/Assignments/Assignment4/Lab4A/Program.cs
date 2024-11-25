@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 //No other person's work has been used without due acknowledgement.
 
 //NOTE: Original Author: Nicholas Corkigian. 
-//NOTE: Updated By: Thomas Coons
+//NOTE: Updated By: Thomas Coons 
 namespace Lab4A
 {
     /// <summary>
@@ -115,7 +115,7 @@ namespace Lab4A
         private static void DisplayTable(List<Employee> employees, int count)
         {
             Console.Clear();
-            Console.WriteLine("Employee              Number    Rate  Hours  Gross Pay           Nick's Company");
+            Console.WriteLine("Employee              Number    Rate  Hours  Gross Pay           Tom's Company");
             Console.WriteLine("====================  ======  ======  =====  =========           --------------");
 
             // Display each employee in the array

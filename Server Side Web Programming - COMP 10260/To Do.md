@@ -10,7 +10,7 @@
 
 [[Server Side Web Programming - COMP 10260/Week 3/Class 4|Week 3]]
 
-- [ ] ![[Pasted image 20240922211704.png]]
+- [x] ![[Pasted image 20240922211704.png]]
 - [x] Complete Class 4, Class 5, and Class 6, Class 7, Class 8
 
 [[Server Side Web Programming - COMP 10260/Week 4/Class 6|Week 4]]
@@ -51,4 +51,9 @@
 - [x]  Review Class 15, Class 16, and Class 17, Class 18
 - [x] Review this week's content from Dave Slemon
 - [x] Review named parameters and positional parameters
+
+[[Server Side Web Programming - COMP 10260/Week 11/Class 20|Week 11]]
+
+- [ ] Review Dave Slemon's Guide Class 20 
+
 

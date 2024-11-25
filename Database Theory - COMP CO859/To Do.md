@@ -45,5 +45,9 @@
 
 [[Week 11]]
 
-- [ ] Submit Lab 7
+- [x] Submit Lab 7
+- [ ] Complete Lab 8
+
+
+
 

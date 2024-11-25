@@ -62,11 +62,14 @@
 
 [[Programming in .NET - COMP 10204/Week 10/Class 18|Week 10]]
 
-- [ ] Ask about html test files for assignment 4
+- [x] Ask about html test files for assignment 4
 - [x] Ask about regex for assignment 4
 - [x] Watch Mark Yendt Video
 - [x] Upload video for this week 
 
-[[Week 11]]
+[[Programming in .NET - COMP 10204/Week 11/Class 20|Week 11]]
 
-- Upload video for this week 
+- [ ] Upload video for this week 
+- [ ] Complete Week 11 Exercise
+- [ ] Watch all videos and make better notes
+

@@ -40,5 +40,9 @@
 
 [[Software Quality & Testing - COMP 10066/Week 10/Class 17|Week 10]]
 
+- [x] Nothing
+
+[[Software Quality & Testing - COMP 10066/Week 11/Class 19|Week 11]]
+
 - [ ] Nothing
 

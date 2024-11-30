@@ -1,6 +1,6 @@
 *Date: November 19th 2024*
 ###### Connecting C# to Databases 
-
+ 
 Files are from Module 11
 
 ###### Steps To Configure To File
@@ -15,7 +15,7 @@ Files are from Module 11
 	String connectionString = 
 	@"Data Source=.\SQLEXPRESS;Initial Catalog=Student;Integrated Security=True;";
 ```
-2. Connect To The Database
+2. Connect To The Database: DO THIS IN A TRY CATCH
 ```cs
 	Connection = new SqlConnection();
 	Connection.ConnectionString =  connectionString;

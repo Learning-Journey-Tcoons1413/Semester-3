@@ -5,7 +5,7 @@
 	- PHP Data Objects (PHP Extension)
 	- A way to access a database
 	- Data Access Layer
-	- Object Oriented
+	- Object Oriented 
 	  
 - **Benefits**:
 	- Multiple Databases 

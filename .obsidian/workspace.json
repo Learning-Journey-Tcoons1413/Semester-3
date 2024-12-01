@@ -4,41 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8f66150797ccad37",
+        "id": "82aa9a64abc80185",
         "type": "tabs",
-        "dimension": 50.11933174224343,
+        "dimension": 68.31742243436754,
         "children": [
           {
-            "id": "38860ada799109e6",
+            "id": "fbc6ca43dc6cec2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Database Theory - COMP CO859/2. Final.md",
-                "mode": "source",
-                "source": false
+                "file": "Object Oriented Systems - COMP CO835/Textbook.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2. Final"
+              "icon": "lucide-file-text",
+              "title": "Textbook"
             }
           }
         ]
       },
       {
-        "id": "2b55d5236ebf52e7",
+        "id": "4aaa8145fb2c04aa",
         "type": "tabs",
-        "dimension": 49.88066825775656,
+        "dimension": 31.68257756563246,
         "children": [
           {
-            "id": "857f9c72333409db",
+            "id": "8ed22a819199afe2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Database Theory - COMP CO859/Week 11/lec11_normalization_part2.pdf"
+                "file": "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "lec11_normalization_part2"
+              "title": "Week 3 Lecture Summary"
             }
           }
         ]
@@ -182,12 +180,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "857f9c72333409db",
+  "active": "fbc6ca43dc6cec2d",
   "lastOpenFiles": [
+    "Object Oriented Systems - COMP CO835/Case Study/use case for case study.drawio.png",
+    "Object Oriented Systems - COMP CO835/Case Study/use case for case study.drawio",
+    "Object Oriented Systems - COMP CO835/Week 3/Week 3 Lecture Summary.pdf",
+    "Object Oriented Systems - COMP CO835/Week 4/Week 4 Lecture Summary (1).pdf",
+    "Object Oriented Systems - COMP CO835/Textbook.pdf",
+    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
+    "Object Oriented Systems - COMP CO835/Week 2/Class 2.md",
+    "Object Oriented Systems - COMP CO835/Week 2/Class 3.md",
+    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
+    "Database Theory - COMP CO859/Week 11/lec11_normalization_part2.pdf",
     "Database Theory - COMP CO859/Labs/lab8.drawio.pdf",
     "Database Theory - COMP CO859/Labs/lab8.drawio",
     "Database Theory - COMP CO859/2. Final.md",
-    "Database Theory - COMP CO859/Week 11/lec11_normalization_part2.pdf",
     "Database Theory - COMP CO859/Week 12/Class 20.md",
     "Pasted image 20241129150520.png",
     "Pasted image 20241129141906.png",
@@ -202,7 +209,6 @@
     "Database Theory - COMP CO859/Week 8/Class 14.md",
     "Assets/Pasted image 20241129132317.png",
     "Database Theory - COMP CO859/Week 8/Class 15.md",
-    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
     "Assets/Pasted image 20241127173344.png",
     "Database Theory - COMP CO859/Week 7/Class 12.md",
     "Database Theory - COMP CO859/Week 6/Class 10.md",
@@ -218,17 +224,9 @@
     "Software Quality & Testing - COMP 10066/Assignments/Assignment4/Assignment4.md",
     "Object Oriented Systems - COMP CO835/Week 10/Week 10 Lecture Summary.pdf",
     "Object Oriented Systems - COMP CO835/Week 9/Week 9 Lecture Summary.pdf",
-    "Object Oriented Systems - COMP CO835/Week 11/Week 11 Lecture Summary.pdf",
     "Object Oriented Systems - COMP CO835/Course Information.md",
     "Programming in .NET - COMP 10204/Week 12/Class 22.md",
     "Programming in .NET - COMP 10204/Week 11/Class 20.md",
-    "Programming in .NET - COMP 10204/Week 11/Class 21.md",
-    "Programming in .NET - COMP 10204/Week 12",
-    "Software Quality & Testing - COMP 10066/Week 12/Class 21.md",
-    "Software Quality & Testing - COMP 10066/Week 12/Class 22.md",
-    "Server Side Web Programming - COMP 10260/Week 12/Class 22.md",
-    "Software Quality & Testing - COMP 10066/Week 12/Untitled",
-    "Software Quality & Testing - COMP 10066/Week 12/Software Quality Lecture 12 - Security Issues and Performance Testing.pdf",
-    "Server Side Web Programming - COMP 10260/Week 12"
+    "Programming in .NET - COMP 10204/Week 11/Class 21.md"
   ]
 }

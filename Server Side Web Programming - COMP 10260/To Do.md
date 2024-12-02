@@ -56,4 +56,8 @@
 
 - [ ] Review Dave Slemon's Guide Class 20 
 
+[[Server Side Web Programming - COMP 10260/Week 12/Class 22|Week 12]]
+
+- [ ] Review Dave Slemon's Guide for this week
+
 

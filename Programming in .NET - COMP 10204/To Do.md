@@ -69,7 +69,13 @@
 
 [[Programming in .NET - COMP 10204/Week 11/Class 20|Week 11]]
 
-- [ ] Upload video for this week 
+- [x] Upload video for this week 
 - [ ] Complete Week 11 Exercise
 - [ ] Watch all videos and make better notes
+
+[[Programming in .NET - COMP 10204/Week 12/Class 22|Week 12]]
+
+- [x] Upload video for this week 
+- [ ] Check if there is an exercise
+
 

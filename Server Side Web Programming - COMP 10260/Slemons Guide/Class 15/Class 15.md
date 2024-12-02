@@ -239,3 +239,62 @@ For example,
   
 _Special Note: the encryption_key or SALT is often stored on another computer._
 ###### ==Working example found in Sam Scott videos Class 15==
+
+The difference between `fetch()` and `fetchAll()` in PDO (PHP Data Objects) is in how they retrieve the data from the database.
+
+### 1. **`fetch()`**:
+
+- **Purpose**: Retrieves a **single row** from the result set.
+- **Return Type**: Returns an **associative array** (or another format, depending on the fetch mode), or `false` if no more rows are available.
+- **Usage**: Typically used when you expect only **one row** to be returned or you want to retrieve rows **one by one**.
+
+#### Example:
+
+php
+
+Copy code
+
+`$stmt = $pdo->prepare("SELECT * FROM users WHERE id = :id"); $stmt->execute([':id' => 1]); $user = $stmt->fetch(PDO::FETCH_ASSOC);  // Fetch one row  if ($user) {     echo $user['name'];  // Access data for a single row } else {     echo "No user found!"; }`
+
+- `fetch()` returns **only the first row** matching the query (or `false` if no results are found).
+
+### 2. **`fetchAll()`**:
+
+- **Purpose**: Retrieves **all rows** from the result set.
+- **Return Type**: Returns an **array of rows**, where each row is typically an associative array (or another format, depending on the fetch mode).
+- **Usage**: Used when you want to retrieve **multiple rows** in a single call.
+
+#### Example:
+
+php
+
+Copy code
+
+`$stmt = $pdo->prepare("SELECT * FROM users"); $stmt->execute(); $users = $stmt->fetchAll(PDO::FETCH_ASSOC);  // Fetch all rows  foreach ($users as $user) {     echo $user['name'] . "<br>";  // Loop through and access all rows }`
+
+- `fetchAll()` returns an **array of all rows** that match the query, where each row is an associative array.
+
+---
+
+### Key Differences:
+
+|Feature|`fetch()`|`fetchAll()`|
+|---|---|---|
+|**Purpose**|Fetch a **single row** from the result set.|Fetch **all rows** from the result set.|
+|**Return Type**|Single row (array) or `false` if no more rows.|An **array of rows** (empty array if no results).|
+|**Usage**|Best for retrieving one row or looping through rows **one by one**.|Best for retrieving multiple rows in one go.|
+|**Performance**|More memory-efficient if only one row is needed.|May consume more memory if there are many rows, since it loads all rows into memory at once.|
+
+### When to Use Each:
+
+- **`fetch()`** is useful if you're dealing with a result set that contains just one row, or if you want to loop through the rows manually and process them one by one.
+- **`fetchAll()`** is useful when you need to retrieve **all rows** at once, such as when displaying a list of results or performing bulk processing on the entire result set.
+
+### Example Scenarios:
+
+- **Use `fetch()`**: When querying a database for a single record by its primary key, like getting a user by their ID.
+- **Use `fetchAll()`**: When retrieving all records in a table, like getting all users or fetching a list of products.
+
+### Additional Notes:
+
+- When using `fetchAll()`, if the query result is large (e.g., thousands of rows), it may consume significant memory. For large datasets, it's better to use `fetch()` in a loop, as it will process rows one at a time, without loading everything into memory at once.

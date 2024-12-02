@@ -44,5 +44,14 @@
 
 [[Software Quality & Testing - COMP 10066/Week 11/Class 19|Week 11]]
 
-- [ ] Nothing
+- [x] Nothing
+
+[[Software Quality & Testing - COMP 10066/Week 12/Class 21|Week 12]]
+
+- [x] Nothing
+
+[[Week 13]]
+
+- [ ] Submit Assignment 4
+
 

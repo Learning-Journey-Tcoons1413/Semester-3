@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/To Do.md",
+                "file": "Database Theory - COMP CO859/Week 13/Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "Class"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SDLC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,32 +164,19 @@
   },
   "active": "681efb05cdb03530",
   "lastOpenFiles": [
-    "Software Quality & Testing - COMP 10066/Week 13/Class 23.md",
-    "Database Theory - COMP CO859/Week 13/lec12_transactions_concurrency_control.pdf",
-    "Software Quality & Testing - COMP 10066/Week 13",
-    "Database Theory - COMP CO859/Week 13/Class 22.md",
-    "Programming in .NET - COMP 10204/To Do.md",
-    "Database Theory - COMP CO859/To Do.md",
-    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
-    "Database Theory - COMP CO859/Week 9/Class 16.md",
-    "Database Theory - COMP CO859/Week 7/Class 12.md",
-    "Database Theory - COMP CO859/Week 6/Class 10.md",
-    "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
-    "Database Theory - COMP CO859/2. Final.md",
-    "Server Side Web Programming - COMP 10260/To Do.md",
-    "Object Oriented Systems - COMP CO835/To Do.md",
-    "Object Oriented Systems - COMP CO835/Case Study/use case for case study.drawio",
-    "Object Oriented Systems - COMP CO835/Case Study/Case Study - Questions 1 and 2 - Thomas Coons.docx",
-    "Database Theory - COMP CO859/Week 13/mso858B.tmp",
     "Object Oriented Systems - COMP CO835/Case Study",
+    "Database Theory - COMP CO859/Week 13/Class.md",
     "Database Theory - COMP CO859/Week 13",
     "Database Theory - COMP CO859/Week 8/Class 14.md",
     "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
+    "Database Theory - COMP CO859/2. Final.md",
     "Assets/Pasted image 20241127173344.png",
+    "Database Theory - COMP CO859/Week 7/Class 12.md",
     "Assets/Pasted image 20241127174515.png",
     "Assets/Pasted image 20241127173651.png",
     "Assets/Pasted image 20241127170959.png",
     "Assets/Pasted image 20241127173242.png",
+    "Database Theory - COMP CO859/Week 6/Class 10.md",
     "Assets/Pasted image 20241127171651.png",
     "Assets/Pasted image 20241127165452.png",
     "2024-11-25.md",
@@ -205,7 +192,21 @@
     "Software Quality & Testing - COMP 10066/Assignments/Assignment4/Assignment4.md",
     "Object Oriented Systems - COMP CO835/Week 10/Week 10 Lecture Summary.pdf",
     "Object Oriented Systems - COMP CO835/Week 9/Week 9 Lecture Summary.pdf",
+    "Object Oriented Systems - COMP CO835/Week 11/Week 11 Lecture Summary.pdf",
     "Object Oriented Systems - COMP CO835/Course Information.md",
+    "Programming in .NET - COMP 10204/Week 12/Class 22.md",
+    "Programming in .NET - COMP 10204/Week 11/Class 20.md",
+    "Programming in .NET - COMP 10204/Week 11/Class 21.md",
+    "Programming in .NET - COMP 10204/Week 12",
+    "Software Quality & Testing - COMP 10066/Week 12/Class 21.md",
+    "Software Quality & Testing - COMP 10066/Week 12/Class 22.md",
+    "Server Side Web Programming - COMP 10260/Week 12/Class 22.md",
+    "Software Quality & Testing - COMP 10066/Week 12/Untitled",
+    "Software Quality & Testing - COMP 10066/Week 12/Software Quality Lecture 12 - Security Issues and Performance Testing.pdf",
+    "Server Side Web Programming - COMP 10260/Week 12",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 15/Class 15.md",
+    "Database Theory - COMP CO859/Week 12/Class 20.md",
+    "Software Quality & Testing - COMP 10066/Week 12/msoCB90.tmp",
     "Assets/Pasted image 20241122181855.png",
     "Assets/Pasted image 20241122181650.png",
     "Assets/Pasted image 20241122174724.png"

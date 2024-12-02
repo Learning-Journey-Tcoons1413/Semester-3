@@ -60,4 +60,13 @@
 
 - [ ] Review Dave Slemon's Guide for this week
 
+[[Week 13]]
 
+- [ ] Ask about bindPram vs sending in an associative array when using execute on a $stmt
+- [ ] Ask about fetch and fetchAll
+- [ ] Review last assignment 
+- [ ] Review json_encode and json_decode to understand arrays and associative arrays  
+
+ passwords / hashing / verifying 
+ SQL injection 
+  

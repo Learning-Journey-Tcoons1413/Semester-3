@@ -78,4 +78,10 @@
 - [x] Upload video for this week 
 - [ ] Check if there is an exercise
 
+[[Programming in .NET - COMP 10204/Week 13/Class 23|Week 13]]
+
+- [ ] Upload video for this week
+- [ ] Check if there is an exercise 
+
+
 

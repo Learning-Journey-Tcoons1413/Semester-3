@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final Exam Times.md",
+                "file": "Database Theory - COMP CO859/2. Final.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final Exam Times"
+              "title": "2. Final"
             }
           }
         ]
@@ -164,6 +164,11 @@
   },
   "active": "43fcf5c2417f8697",
   "lastOpenFiles": [
+    "Software Quality & Testing - COMP 10066/1. Final.md",
+    "Pasted image 20241208162307.png",
+    "Final Exam Times.md",
+    "Programming in .NET - COMP 10204/Week 12/Class 22.md",
+    "Programming in .NET - COMP 10204/Week 13/Class 23.md",
     "Assets/Pasted image 20241207182308.png",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 15/Class 15.md",
     "Database Theory - COMP CO859/2. Final.md",
@@ -180,7 +185,6 @@
     "Assets/Pasted image 20241207182453.png",
     "Server Side Web Programming - COMP 10260/Week 13/Final Class.md",
     "Server Side Web Programming - COMP 10260/Course Information.md",
-    "Final Exam Times.md",
     "Assets/Pasted image 20241206125416.png",
     "Server Side Web Programming - COMP 10260/MyCanvas Modules/3. Working With Sessions/1. Cookies.md",
     "Server Side Web Programming - COMP 10260/MyCanvas Modules/3. Working With Sessions/3. Session Security Topics.md",
@@ -194,20 +198,16 @@
     "Object Oriented Systems - COMP CO835/Textbook.pdf",
     "Object Oriented Systems - COMP CO835/Case Study/Case Study.docx",
     "Object Oriented Systems - COMP CO835/Case Study/~$Case Study - FULL (1).tmp",
-    "Programming in .NET - COMP 10204/Week 13/Class 23.md",
     "Server Side Web Programming - COMP 10260/To Do.md",
     "Programming in .NET - COMP 10204/Week 13",
     "Software Quality & Testing - COMP 10066/Week 13/Class 23.md",
     "Database Theory - COMP CO859/Week 13/lec12_transactions_concurrency_control.pdf",
     "Software Quality & Testing - COMP 10066/Week 13",
     "Database Theory - COMP CO859/Week 13/Class 22.md",
-    "Database Theory - COMP CO859/To Do.md",
-    "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
     "Object Oriented Systems - COMP CO835/Case Study/use case for case study.drawio",
     "Assets/Pasted image 20241127173344.png",
     "Assets/Pasted image 20241127174515.png",
     "Assets/Pasted image 20241127173651.png",
-    "Assets/Pasted image 20241127170959.png",
-    "Assets/Pasted image 20241127173242.png"
+    "Assets/Pasted image 20241127170959.png"
   ]
 }

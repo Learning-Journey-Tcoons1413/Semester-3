@@ -80,7 +80,7 @@ function changeStudentEmail(number, email){
 // note: anything on the url can be considered GET
 
 $uri = $_SERVER["REQUEST_URI"]; 
-$uri_parts = explode("/",$uri); // use explode: note zero elemnt has nothing
+$uri_parts = explode("/",$uri); // use explode: note index zero is empty
 
 if ($_SERVER["REQUEST_METHOD"] === "GET" && $uri_parts[2] === "studentinf"){
 	if (isset($uri_parts[3])){

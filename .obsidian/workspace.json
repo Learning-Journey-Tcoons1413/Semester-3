@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7ed89dddc0a1c0c9",
+        "id": "52f8998cd21f87c0",
         "type": "tabs",
         "children": [
           {
-            "id": "a76e2d725e0bdfc4",
+            "id": "43fcf5c2417f8697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server Side Web Programming - COMP 10260/Slemons Guide/Class 15/Class 15.md",
+                "file": "Final Exam Times.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 15"
+              "title": "Final Exam Times"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dsn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,19 +162,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a76e2d725e0bdfc4",
+  "active": "43fcf5c2417f8697",
   "lastOpenFiles": [
+    "Assets/Pasted image 20241207182308.png",
+    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 15/Class 15.md",
+    "Database Theory - COMP CO859/2. Final.md",
+    "Database Theory - COMP CO859/Week 5/Class 9.md",
+    "Database Theory - COMP CO859/Week 5/Class 8.md",
+    "Database Theory - COMP CO859/Week 4/Class 7.md",
+    "Database Theory - COMP CO859/Week 4/Class 6.md",
+    "Database Theory - COMP CO859/Week 3/Class 4.md",
+    "Database Theory - COMP CO859/Week 2/Class 3.md",
+    "Database Theory - COMP CO859/Week 2/Class 2.md",
+    "Database Theory - COMP CO859/Week 1/Class 1.md",
+    "Assets/Pasted image 20241207203545.png",
+    "Assets/Pasted image 20241207182519.png",
+    "Assets/Pasted image 20241207182453.png",
+    "Server Side Web Programming - COMP 10260/Week 13/Final Class.md",
+    "Server Side Web Programming - COMP 10260/Course Information.md",
+    "Final Exam Times.md",
+    "Assets/Pasted image 20241206125416.png",
     "Server Side Web Programming - COMP 10260/MyCanvas Modules/3. Working With Sessions/1. Cookies.md",
     "Server Side Web Programming - COMP 10260/MyCanvas Modules/3. Working With Sessions/3. Session Security Topics.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 25/Password Hashing.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 25/MVC.md",
-    "Server Side Web Programming - COMP 10260/Slemons Guide/Class 15/Class 15.md",
     "Server Side Web Programming - COMP 10260/Slemons Guide/Class 25",
     "Server Side Web Programming - COMP 10260/REST/REST API Learning.md",
-    "Pasted image 20241206125416.png",
-    "Final Exam Times.md",
     "Server Side Web Programming - COMP 10260/REST",
-    "Server Side Web Programming - COMP 10260/Week 13/Final Class.md",
     "Programming in .NET - COMP 10204/To Do.md",
     "Server Side Web Programming - COMP 10260/Week 13",
     "Object Oriented Systems - COMP CO835/Textbook.pdf",
@@ -190,26 +203,11 @@
     "Database Theory - COMP CO859/Week 13/Class 22.md",
     "Database Theory - COMP CO859/To Do.md",
     "Object Oriented Systems - COMP CO835/Week 2/PDF Condensed Notes.md",
-    "Database Theory - COMP CO859/Week 9/Class 16.md",
-    "Database Theory - COMP CO859/Week 7/Class 12.md",
-    "Database Theory - COMP CO859/Week 6/Class 10.md",
-    "Software Quality & Testing - COMP 10066/Week 6/Class 10.md",
-    "Database Theory - COMP CO859/2. Final.md",
-    "Object Oriented Systems - COMP CO835/To Do.md",
     "Object Oriented Systems - COMP CO835/Case Study/use case for case study.drawio",
-    "Database Theory - COMP CO859/Week 8/Class 14.md",
-    "Object Oriented Systems - COMP CO835/Week 1/Class 1.md",
     "Assets/Pasted image 20241127173344.png",
     "Assets/Pasted image 20241127174515.png",
     "Assets/Pasted image 20241127173651.png",
     "Assets/Pasted image 20241127170959.png",
-    "Assets/Pasted image 20241127173242.png",
-    "Assets/Pasted image 20241127171651.png",
-    "Assets/Pasted image 20241127165452.png",
-    "2024-11-25.md",
-    "Database Theory - COMP CO859/Week 6/Class 11.md",
-    "Database Theory - COMP CO859/Course Information.md",
-    "Assets/Pasted image 20241122181855.png",
-    "Assets/Pasted image 20241122181650.png"
+    "Assets/Pasted image 20241127173242.png"
   ]
 }

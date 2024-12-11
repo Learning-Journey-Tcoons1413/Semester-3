@@ -83,5 +83,7 @@
 - [ ] Upload video for this week
 - [ ] Check if there is an exercise 
 
-
-
+THINGS ILL NEED:
+- overload constructor
+- abstraction, polymorphism, overrides, virtual 
+- interfaces 
